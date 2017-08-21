@@ -17,7 +17,7 @@ layout: default
 | 8-22 | Geometry B | 7-1 Ratio and Proportion | P.457+ #3, 6, 7, 11-13, 15, 39, 40, 41, 44-46 | Handout #2 |  
 | 8-22 | Pre-calculus | P.1 Real Numbers | P.9+ #11-25, 29-32, 37-42, 47-52, 57, 58, 69-72 | Handout #2
 
-| 8-22 | Pre-algebra | 
+| 8-22 | Pre-algebra | Variables and Expressions | Handout #2
 | 8-22 | ESL Science | 
 
 
