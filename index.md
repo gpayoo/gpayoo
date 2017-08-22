@@ -17,6 +17,8 @@ layout: default
 
 
 # [](#header-2) Past
+| Date | Class | Lesson | Suggested Problems | Homework |
+| ---- | ----- | ------ | -------- |
 | 8-21 | Physics | Syllabus        | | Purchase school supplies 
 | 8-21 | Geometry B | Syllabus     |   | Purchase school supplies 
 | 8-21 | Pre-calculus | Syllabus   | | Purchase school supplies 
