@@ -20,7 +20,7 @@ layout: default
 | 8-22 | ESL Science | What is heat? | Read p. 530-31 | Handout #1
 |      |             |             | |  
 | 8-23 | Physics | Chapter 2 | |  
-| 8-23 | Geometry B | Quick Review from Geom. a, Golden Ratio Project, 7-2 Similar Poygons | P. 465 #2-6, 19, 20, 27, 28, Handout #4 
+| 8-23 | Geometry B | Quick Review from Geom. A, Golden Ratio Project, 7-2 Similar Poygons | P. 465 #2-6, 19, 20, 27, 28, Handout #4 
 | 8-23 | Pre-calculus | P. 2| |
 | 8-23 | Pre-algebra | 1-2 Order of Operations | Read p. 8-10 | P. 11+ # 24, 33, 43, 44, 47, 48, 52-55 
 | 8-23 | ESL Science | Heat Transfer | Read p. 532=533
