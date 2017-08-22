@@ -21,7 +21,7 @@ layout: default
 |      |             |             | |  
 | 8-23 | Physics | Chapter 2 | |  
 | 8-23 | Geometry B | Quick Review from Geom. A, Golden Ratio Project, 7-2 Similar Poygons | P. 465 #2-6, 19, 20, 27, 28, Handout #4 
-| 8-23 | Pre-calculus | P. 2| |
+| 8-23 | Pre-calculus | P. 2 Cartesian Coordinate System| P.20+ #1, 3a, 3b, 5-11, 14, 17, 19, 25, 26, 40-51, 53, 60-63|
 | 8-23 | Pre-algebra | 1-2 Order of Operations | Read p. 8-10 | P. 11+ # 24, 33, 43, 44, 47, 48, 52-55 
 | 8-23 | ESL Science | Heat Transfer | Read p. 532=533
 |      |             |             | |   
