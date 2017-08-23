@@ -13,7 +13,7 @@ layout: default
 | 8-23 | Geometry B | Quick Review from Geom. A, Golden Ratio Project, 7-2 Similar Poygons | | Golden Spiral Project 
 | 8-23 | Pre-calculus | P. 2 Cartesian Coordinate System| P.20+ #1, 3a, 3b, 5-11, 14, 17, 19, 25, 26, 40-51, 53, 60-63|
 | 8-23 | Pre-algebra | 1-2 Order of Operations | Read p. 8-10 | P. 11+ # 24, 33, 43, 44, 47, 48, 52-55 
-| 8-23 | ESL Science | Heat Transfer | Read p. 532-533 | Handout #3
+| 8-23 | ESL Science | Heat Transfer | Read p. 532-533, Vocab. Quiz Friday | Handout #3
 
 
 
