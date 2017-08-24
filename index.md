@@ -9,7 +9,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 8-23 | Physics | 2-2 Acceleration, Graphical Analysis | Read pages 48-51, P. 49 #1-5 | Pre-lab, Handout #8 due Monday, Lab Report due 9/1  
+| 8-23 | Physics | 2-2 Acceleration, Graphical Analysis || Pre-lab due tom., Handout #8 due Wed., Lab Report due 9/1  
 | 8-23 | Geometry B | 7-3 Triangle Similarity | | P. 479 #1-15
 | 8-23 | Pre-calculus | P. 2 Linear Equations & Inequalities| Read p. 24-28 P. 29+ #18, 23, 27, 31-34, 41, 49,51, 54, 65-68, 70, 73 | Bring scientific calculator Monday, Quiz Wed.
 | 8-23 | Pre-algebra |  | |  
