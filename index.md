@@ -10,8 +10,8 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 8-25 | Physics | Graphs, Lab | P. 28 #11 | Handout #8 due Wed., Lab Report due 9/1, Handout #10 due Monday  
-| 8-25 | Geometry B | 7-4 Applying Properties of Similar Triangles | Handouts #10, 11 due Monday| 
-| 8-25 | Pre-calculus | |  | 
+ | 8-25 | Geometry B | 7-4 Applying Properties of Similar Triangles | |Handouts #10, 11 due Monday| 
+| 8-25 | Pre-calculus | P.4 Lines in the Plane |  | Handout #8 due Monday
 | 8-25 | Pre-algebra | 1-4 Integers and Absolute Value | Quiz on Monday on Sections 1-1, 1-2, 1-3
 | 8-25 | ESL Science |  Heat |  | 
 
@@ -37,7 +37,7 @@ layout: default
 | 8-23 | ESL Science | Heat Transfer | Read p. 532-533, Vocab. Quiz Friday | Handout #3
 | 8-24 | Physics | Graphs, Lab | P. 28 #11 |  P. 47 # 1-6, Handout #8 due Wed., Lab Report due 9/1, Handout #10 due Monday  
 | 8-24 | Geometry B | 7-4 Applying Properties of Similar Triangles | Handouts #10, 11 due Monday| 
-| 8-24 | Pre-calculus | |  | Bring scientific calculator Monday, Quiz Wed.
+| 8-24 | Pre-calculus | P.3 Linear Equations and Inequalities | Read p. 24-28 P. 29+ #18, 23, 27, 31-34, 41, 49,51, 54, 65-68, 70, 73 | Bring scientific calculator Monday, Quiz Wed.
 | 8-24 | Pre-algebra | 1-3 Writing and Evaluating Expressions | Handout #7
 | 8-24 | ESL Science |  Heat |  | 
 
