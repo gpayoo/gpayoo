@@ -9,16 +9,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 8-23 | Physics | 2-2 Acceleration, Graphical Analysis || Pre-lab due tom., Handout #8 due Wed., Lab Report due 9/1  
-| 8-23 | Geometry B | 7-3 Triangle Similarity | | Handout #6,8
-| 8-23 | Pre-calculus | P. 2 Linear Equations & Inequalities| Read p. 24-28 P. 29+ #18, 23, 27, 31-34, 41, 49,51, 54, 65-68, 70, 73 | Bring scientific calculator Monday, Quiz Wed.
-| 8-23 | Pre-algebra | Evaluating Variable Expressions |  |  Handout #7
-| 8-23 | ESL Science |  Heat |  | 
-| 8-24 | Physics | Graphs, Lab | P. 28 #11 |  P. 47 # 1-6, Handout #8 due Wed., Lab Report due 9/1, Handout #10 due Monday  
-| 8-24 | Geometry B | 7-4 Applying Properties of Similar Triangles | Handouts #10, 11 due Monday| 
-| 8-24 | Pre-calculus | |  | Bring scientific calculator Monday, Quiz Wed.
-| 8-24 | Pre-algebra | 
-| 8-24 | ESL Science |  Heat |  | 
+| 8-25 | Physics | Graphs, Lab | P. 28 #11 | Handout #8 due Wed., Lab Report due 9/1, Handout #10 due Monday  
+| 8-25 | Geometry B | 7-4 Applying Properties of Similar Triangles | Handouts #10, 11 due Monday| 
+| 8-25 | Pre-calculus | |  | 
+| 8-25 | Pre-algebra | 1-4 Integers and Absolute Value | Quiz on Monday on Sections 1-1, 1-2, 1-3
+| 8-25 | ESL Science |  Heat |  | 
 
 
 # [](#header-2) Past Assignments
@@ -40,4 +35,10 @@ layout: default
 | 8-23 | Pre-calculus | P. 2 Cartesian Coordinate System| P.20+ #1, 3a, 3b, 5-11, 14, 17, 19, 25, 26, 40-51, 53, 60-63|
 | 8-23 | Pre-algebra | 1-2 Order of Operations | Read p. 8-10 | P. 11+ # 24, 33, 43, 44, 47, 48, 52-55 
 | 8-23 | ESL Science | Heat Transfer | Read p. 532-533, Vocab. Quiz Friday | Handout #3
+| 8-24 | Physics | Graphs, Lab | P. 28 #11 |  P. 47 # 1-6, Handout #8 due Wed., Lab Report due 9/1, Handout #10 due Monday  
+| 8-24 | Geometry B | 7-4 Applying Properties of Similar Triangles | Handouts #10, 11 due Monday| 
+| 8-24 | Pre-calculus | |  | Bring scientific calculator Monday, Quiz Wed.
+| 8-24 | Pre-algebra | 1-3 Writing and Evaluating Expressions | Handout #7
+| 8-24 | ESL Science |  Heat |  | 
+
 
