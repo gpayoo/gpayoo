@@ -14,8 +14,8 @@ layout: default
 | 8-23 | Pre-calculus | P. 2 Linear Equations & Inequalities| Read p. 24-28 P. 29+ #18, 23, 27, 31-34, 41, 49,51, 54, 65-68, 70, 73 | Bring scientific calculator Monday, Quiz Wed.
 | 8-23 | Pre-algebra | Evaluating Variable Expressions |  |  Handout #7
 | 8-23 | ESL Science |  Heat |  | 
-| 8-24 | Physics |  | P. 28 #11 |  P. 47 # 1-6, Handout #8 due Wed., Lab Report due 9/1  
-| 8-24 | Geometry B |  | | 
+| 8-24 | Physics |  | P. 28 #11 |  P. 47 # 1-6, Handout #8 due Wed., Lab Report due 9/1, Handout #10 due Monday  
+| 8-24 | Geometry B | 7-4 Applying Properties of Simialr Triangles | Handouts #10, 11 due Monday| 
 | 8-24 | Pre-calculus | |  | Bring scientific calculator Monday, Quiz Wed.
 | 8-24 | Pre-algebra | 
 | 8-24 | ESL Science |  Heat |  | 
