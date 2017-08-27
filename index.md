@@ -9,11 +9,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 8-28 | Physics | |  | Handout #8 due Wed., Lab Report due 9/1
-| 8-28 | Geometry B || | | 
-| 8-28 | Pre-calculus |  |  | 
-| 8-28 | Pre-algebra |  |
-| 8-28 | ESL Science |  Sound |  | 
+| 8-28 | Physics | Acceleration, Work on Lab Report |  | Handout #8 due Wed., Lab Report due 9/1
+| 8-28 | Geometry B | Two-Transversal Proprtionality Theorem, Handout 9, Review | | Quiz tom. on 7-1, 7-2, 7-3| 
+| 8-28 | Pre-calculus | P.5 Solving Equations Graphically, Numerically, Algebraically | P. 46 #1-34 odd, #62-67 | Quiz Wed. on Sections P.1 to P.4 
+| 8-28 | Pre-algebra | Quiz |
+| 8-28 | ESL Science | Heat - Work on workbook handouts |  | 
 
 
 # [](#header-2) Past Assignments
