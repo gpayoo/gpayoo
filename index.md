@@ -15,7 +15,7 @@ layout: default
 | 8-28 | Pre-algebra | Quiz, 1-5 Adding Integers | | Handout #11
 | 8-28 | ESL Science | Heat - Finish heat workbook pages |  | 
 | 8-29 | Physics | Acceleration, Work on Lab Report |  | Handout #8 due Wed., Lab Report due 9/1
-| 8-29 | Geometry B |  | | | 
+| 8-29 | Geometry B | Quiz, 7-5 Using Proportional Relationships | | | 
 | 8-29 | Pre-calculus | P.6 Complex Numbers |  | Quiz Wed. on Sections P.1 to P.4, #10 due Wed.
 | 8-29 | Pre-algebra | Subtracting Integers | | 
 | 8-29 | ESL Science | Sound |  | 
