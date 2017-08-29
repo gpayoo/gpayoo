@@ -9,12 +9,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 8-28 | Physics | Acceleration, Work on Lab Report |  | Handout #8 due Wed., Lab Report due 9/1
-| 8-28 | Geometry B | Two-Transversal Proprtionality Theorem, Handout 9, Review | | Quiz tom. on 7-1, 7-2, 7-3| 
-| 8-28 | Pre-calculus | P.5 Solving Equations Graphically, Numerically, Algebraically | P. 46 #1-34 odd, #62-67 | Quiz Wed. on Sections P.1 to P.4, #10 due Wed.
-| 8-28 | Pre-algebra | Quiz, 1-5 Adding Integers | | Handout #11
-| 8-28 | ESL Science | Heat - Finish heat workbook pages |  | 
-| 8-29 | Physics | Acceleration, Work on Lab Report |  | Handout #8 due Wed., Lab Report due 9/1
+| 8-29 | Physics | Acceleration, Work on Lab Report |  | Handout #8,11,12,13 due Wed., Lab Report due 9/1
 | 8-29 | Geometry B | Quiz, 7-5 Using Proportional Relationships | | Handout #13| 
 | 8-29 | Pre-calculus | P.6 Complex Numbers |  | Quiz Wed. on Sections P.1 to P.4, #10 due Wed.
 | 8-29 | Pre-algebra | Subtracting Integers | | 
@@ -24,6 +19,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 8-28 | Physics | Acceleration, Work on Lab Report |  | Handout #8 due Wed., Lab Report due 9/1
+| 8-28 | Geometry B | Two-Transversal Proprtionality Theorem, Handout 9, Review | | Quiz tom. on 7-1, 7-2, 7-3| 
+| 8-28 | Pre-calculus | P.5 Solving Equations Graphically, Numerically, Algebraically | P. 46 #1-34 odd, #62-67 | Quiz Wed. on Sections P.1 to P.4, #10 due Wed.
+| 8-28 | Pre-algebra | Quiz, 1-5 Adding Integers | | Handout #11
+| 8-28 | ESL Science | Heat - Finish heat workbook pages |  | 
 | 8-25 | Physics | Graphs, Lab | P. 28 #11 | Handout #8 due Wed., Lab Report due 9/1, Handout #10 due Monday  
 | 8-25 | Geometry B | 7-4 Applying Properties of Similar Triangles | |Handouts #10, 11 due Monday| 
 | 8-25 | Pre-calculus | P.4 Lines in the Plane |  | Handout #8 due Monday
