@@ -9,7 +9,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 8-29 | Physics | Acceleration, Work on Lab Report |  | Handout #8,11,12,13 due Wed., Lab Report due 9/1
+| 8-29 | Physics | Acceleration |  | Handout #8,11,12,13 due Wed., Lab Report due 9/1
 | 8-29 | Geometry B | Quiz, 7-5 Using Proportional Relationships | | Handout #13| 
 | 8-29 | Pre-calculus | P.6 Complex Numbers |  | Quiz Wed. on Sections P.1 to P.4, Handout #10 due Wed.
 | 8-29 | Pre-algebra | Subtracting Integers | | 
