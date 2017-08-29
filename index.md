@@ -13,7 +13,7 @@ layout: default
 | 8-29 | Geometry B | Quiz, 7-5 Using Proportional Relationships | | Handout #13| 
 | 8-29 | Pre-calculus | P.6 Complex Numbers |  | Quiz Wed. on Sections P.1 to P.4, Handout #10 due Wed.
 | 8-29 | Pre-algebra | 1-6 Subtracting Integers | | Handout #14 | 
-| 8-29 | ESL Science | Sound |  | 
+| 8-29 | ESL Science | Sound |  | P. 541 Quick Check and P. 543 Quick Check, Test on heat on Friday
 
 # [](#header-2) Past Assignments
 
