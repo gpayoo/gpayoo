@@ -10,7 +10,7 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 8-29 | Physics |  |  | 
-| 8-29 | Geometry B | | | | 
+| 8-29 | Geometry B | | | | Handout #15, 16, 17
 | 8-29 | Pre-calculus | |  | 
 | 8-29 | Pre-algebra | | |  | 
 | 8-29 | ESL Science |  |  | 
