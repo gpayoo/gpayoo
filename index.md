@@ -9,11 +9,16 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 8-29 | Physics | 1-D Kinematics Equations | |  Handout #12, 13, Textbook Prob. (see handout)  
-| 8-29 | Geometry B | Dilation, Transformations | | Handout #15, 16, 17 | 
-| 8-29 | Pre-calculus | Quiz, Review Graphing & Complex Numbers |  | 
-| 8-29 | Pre-algebra | 1-7 Inductive Reasoning| | P. 38-9 #1-8, 13-17, 24-26 | 
-| 8-29 | ESL Science | Sound, Decibel System |  | 
+| 8-30 | Physics | 1-D Kinematics Equations | |  Handout #12, 13, Textbook Prob. (see handout)  
+| 8-30 | Geometry B | Dilation, Transformations | | Handout #15, 16, 17 | 
+| 8-30 | Pre-calculus | Quiz, Review Graphing & Complex Numbers |  | 
+| 8-30 | Pre-algebra | 1-7 Inductive Reasoning| | P. 38-9 #1-8, 13-17, 24-26 | 
+| 8-30 | ESL Science | Sound, Decibel System |  | 
+| 8-31 | Physics |  | |   
+| 8-31 | Geometry B |  | |  | 
+| 8-31 | Pre-calculus |  |  | 
+| 8-31 | Pre-algebra || | | 
+| 8-31 | ESL Science |  |  | 
 
 
 # [](#header-2) Past Assignments
