@@ -9,16 +9,22 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 8-29 | Physics | Acceleration |  | Handout #8,11,12,13 due Wed., Lab Report due 9/1
-| 8-29 | Geometry B | Quiz, 7-5 Using Proportional Relationships | | Handout #13| 
-| 8-29 | Pre-calculus | P.6 Complex Numbers |  | Quiz Wed. on Sections P.1 to P.4, Handout #10 due Wed.
-| 8-29 | Pre-algebra | 1-6 Subtracting Integers | | Handout #14 | 
-| 8-29 | ESL Science | Sound |  | P. 541 Quick Check and P. 543 Quick Check, Test on heat on Friday
+| 8-29 | Physics |  |  | 
+| 8-29 | Geometry B | | | | 
+| 8-29 | Pre-calculus | |  | 
+| 8-29 | Pre-algebra | | |  | 
+| 8-29 | ESL Science |  |  | 
+
 
 # [](#header-2) Past Assignments
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 8-29 | Physics | Acceleration |  | Handout #8,11,12,13 due Wed., Lab Report due 9/1
+| 8-29 | Geometry B | Quiz, 7-5 Using Proportional Relationships | | Handout #13| 
+| 8-29 | Pre-calculus | P.6 Complex Numbers |  | Quiz Wed. on Sections P.1 to P.4, Handout #10 due Wed.
+| 8-29 | Pre-algebra | 1-6 Subtracting Integers | | Handout #14 | 
+| 8-29 | ESL Science | Sound |  | P. 541 Quick Check and P. 543 Quick Check, Test on heat on Friday
 | 8-28 | Physics | Acceleration, Work on Lab Report |  | Handout #8 due Wed., Lab Report due 9/1
 | 8-28 | Geometry B | Two-Transversal Proprtionality Theorem, Handout 9, Review | | Quiz tom. on 7-1, 7-2, 7-3| 
 | 8-28 | Pre-calculus | P.5 Solving Equations Graphically, Numerically, Algebraically | P. 46 #1-34 odd, #62-67 | Quiz Wed. on Sections P.1 to P.4, #10 due Wed.
