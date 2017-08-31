@@ -9,12 +9,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 8-30 | Physics | 1-D Kinematics Equations | |  Handout #12, 13, Textbook Prob. (see handout)  
-| 8-30 | Geometry B | Dilation, Transformations | | Handout #15, 16, 17 | 
-| 8-30 | Pre-calculus | Quiz, Review Graphing & Complex Numbers |  | 
-| 8-30 | Pre-algebra | 1-7 Inductive Reasoning| | P. 38-9 #1-8, 13-17, 24-26 | 
-| 8-30 | ESL Science | Sound, Decibel System | | Poster on Sound | 
-| 8-31 | Physics |  | |   
+| 8-31 | Physics | Free-Fall Acceleration, Hammer vs. Feather | Handout #18, Pre-lab due tom; Lab Report due Monday|   
 | 8-31 | Geometry B |  | |  | 
 | 8-31 | Pre-calculus |  |  | 
 | 8-31 | Pre-algebra || | | 
@@ -35,6 +30,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 8-30 | Physics | 1-D Kinematics Equations | |  Handout #12, 13, Textbook Prob. (see handout)  
+| 8-30 | Geometry B | Dilation, Transformations | | Handout #15, 16, 17 | 
+| 8-30 | Pre-calculus | Quiz, Review Graphing & Complex Numbers |  | 
+| 8-30 | Pre-algebra | 1-7 Inductive Reasoning| | P. 38-9 #1-8, 13-17, 24-26 | 
+| 8-30 | ESL Science | Sound, Decibel System | | Poster on Sound | 
 | 8-29 | Physics | Acceleration |  | Handout #8,11,12,13 due Wed., Lab Report due 9/1
 | 8-29 | Geometry B | Quiz, 7-5 Using Proportional Relationships | | Handout #13| 
 | 8-29 | Pre-calculus | P.6 Complex Numbers |  | Quiz Wed. on Sections P.1 to P.4, Handout #10 due Wed.
