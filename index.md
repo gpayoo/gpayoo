@@ -9,7 +9,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 8-31 | Physics | Free-Fall Acceleration, Hammer vs. Feather | Handout #18, Pre-lab due tom; Lab Report due Monday|   
+| 8-31 | Physics | Free-Fall Acceleration, Video: Hammer vs. Feather Experiment ||  Handout #18, Pre-lab due tom; Lab Report due Monday|   
 | 8-31 | Geometry B |  | |  | 
 | 8-31 | Pre-calculus |  |  | 
 | 8-31 | Pre-algebra || | | 
