@@ -12,7 +12,7 @@ layout: default
 | 8-31 | Physics | Free-Fall Acceleration, Video: Hammer vs. Feather Experiment ||  Handout #18, Pre-lab due tom; Lab Report due Monday|   
 | 8-31 | Geometry B | Review Chapter 7 | | Handout #19, Textbook P. 504 #1-9, 15, P. 505 #16-20, P. 506 21-27, P. 507 #28, 30, 32, P. 509 #1-5; Chapter 7 Test Monday |
 | 8-31 | Pre-calculus |  |  | 
-| 8-31 | Pre-algebra || | | 
+| 8-31 | Pre-algebra | Patterns, Multiplying & Dividing Integers| | Finish Handout #18; P.48-9 #41-49, 51-56, 61, 68-71| 
 | 8-31 | ESL Science |  |  | 
 | 9-1 | Physics | Lab | | Lab Report due Monday  
 | 9-1 | Geometry B | Review for Test | |  | 
