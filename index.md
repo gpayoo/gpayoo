@@ -16,7 +16,7 @@ layout: default
 | 8-31 | ESL Science |  |  | 
 | 9-1 | Physics | Lab | | Lab Report due Monday  
 | 9-1 | Geometry B | Review for Test | |  | 
-| 9-1 | Pre-calculus |  |  | Test Tuesday on Chapter P, Handout #13 
+| 9-1 | Pre-calculus |  |  | Test Tuesday on Chapter P; Handout #13 due tom.
 | 9-1 | Pre-algebra || | | 
 | 9-1 | ESL Science |  |  | 
 | 9-4 | Physics |  | |   
