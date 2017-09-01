@@ -9,14 +9,9 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 8-31 | Physics | Free-Fall Acceleration, Video: Hammer vs. Feather Experiment ||  Handout #18, Pre-lab due tom; Lab Report due Monday|   
-| 8-31 | Geometry B | Review Chapter 7 | | Handout #19, Textbook P. 504 #1-9, 15, P. 505 #16-20, P. 506 21-27, P. 507 #28, 30, 32, P. 509 #1-5; Chapter 7 Test Monday |
-| 8-31 | Pre-calculus |  ||  Test Tuesday on Chapter P; Handout #13 due tom. 
-| 8-31 | Pre-algebra | Patterns, Multiplying & Dividing Integers| | Finish Handout #18; P.48-9 #41-49, 51-56, 61, 68-71| 
-| 8-31 | ESL Science |  |  | 
 | 9-1 | Physics | Lab | | Lab Report due Monday, Notebook due Monday, Quiz Monday  
 | 9-1 | Geometry B | Review for Test | | Test Monday | 
-| 9-1 | Pre-calculus |  |  | 
+| 9-1 | Pre-calculus | 1.2 Functions & Properties, Domain, Continuity | P. 102 #1-20 |  Test Tuesday on Chapter P | 
 | 9-1 | Pre-algebra || | P. 54-55 #41-54 and Handout #20 | 
 | 9-1 | ESL Science |  |  | 
 | 9-4 | Physics |  | |   
@@ -30,6 +25,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 8-31 | Physics | Free-Fall Acceleration, Video: Hammer vs. Feather Experiment ||  Handout #18, Pre-lab due tom; Lab Report due Monday| 
+| 8-31 | Geometry B | Review Chapter 7 | | Handout #19, Textbook P. 504 #1-9, 15, P. 505 #16-20, P. 506 21-27, P. 507 #28, 30, 32, P. 509 #1-5; Chapter 7 Test Monday |
+| 8-31 | Pre-calculus | 1.2 Functions & Properties, Domain ||  Test Tuesday on Chapter P; Handout #13 due tom. 
+| 8-31 | Pre-algebra | Patterns, Multiplying & Dividing Integers| | Finish Handout #18; P.48-9 #41-49, 51-56, 61, 68-71| 
+| 8-31 | ESL Science | Review for Test |  | Study for test., Test on heat tom.
 | 8-30 | Physics | 1-D Kinematics Equations | |  Handout #12, 13, Textbook Prob. (see handout)  
 | 8-30 | Geometry B | Dilation, Transformations | | Handout #15, 16, 17 | 
 | 8-30 | Pre-calculus | Quiz, Review Graphing & Complex Numbers |  | 
