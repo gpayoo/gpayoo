@@ -11,14 +11,14 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 9-1 | Physics | Lab | | Lab Report due Monday, Notebook due Monday, Quiz Monday  
 | 9-1 | Geometry B | Review for Test | | Test Monday | 
-| 9-1 | Pre-calculus | 1.2 Functions & Properties, Domain, Continuity | P. 102 #1-20 |  Test Tuesday on Chapter P | 
+| 9-1 | Pre-calculus | 1.2 Functions & Properties, Domain, Continuity | P. 102 #1-20 |  Handout # 14, Test Tuesday on Chapter P | 
 | 9-1 | Pre-algebra | Coordinate Plane| | P. 54-55 #41-54 and Handout #20 | 
-| 9-1 | ESL Science | Test on Heat |  | 
-| 9-4 | Physics |  | |   
+| 9-1 | ESL Science | Test on Heat, Intro. to Sonar |  | 
+| 9-4 | Physics | Quiz, Finish lab  | |   
 | 9-4 | Geometry B | Chapter 7 Test | |  | 
-| 9-4 | Pre-calculus |  |  | 
-| 9-4 | Pre-algebra || | | 
-| 9-4 | ESL Science |  |  | 
+| 9-4 | Pre-calculus | Increasing/Decreasing Functions, Odd/Even Functions, Maxima & Minima, Boundedness, Asymptotes |  | 
+| 9-4 | Pre-algebra | Review for test| | | 
+| 9-4 | ESL Science | Sound |  | 
 
 
 # [](#header-2) Past Assignments
