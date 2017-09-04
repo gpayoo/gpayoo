@@ -9,15 +9,10 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-1 | Physics | Lab | | Lab Report due Monday, Notebook due Monday, Quiz Monday  
-| 9-1 | Geometry B | Review for Test | | Test Monday | 
-| 9-1 | Pre-calculus | 1.2 Functions & Properties, Domain, Continuity | P. 102 #1-20 |  Handout # 14, Test Tuesday on Chapter P | 
-| 9-1 | Pre-algebra | Coordinate Plane| | P. 54-55 #41-54 and Handout #20 | 
-| 9-1 | ESL Science | Test on Heat, Intro. to Sonar |  | 
 | 9-4 | Physics | Quiz, Finish lab  | |   
 | 9-4 | Geometry B | Chapter 7 Test | |  | 
 | 9-4 | Pre-calculus | Increasing/Decreasing Functions, Odd/Even Functions, Maxima & Minima, Boundedness, Asymptotes |  | 
-| 9-4 | Pre-algebra | Review for test| | | 
+| 9-4 | Pre-algebra | Review for test| | Test Thursday on Chapter 1, Do Handout #21 | 
 | 9-4 | ESL Science | Sound |  | 
 
 
@@ -25,6 +20,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 9-1 | Physics | Lab | | Lab Report due Monday, Notebook due Monday, Quiz Monday  
+| 9-1 | Geometry B | Review for Test | | Test Monday | 
+| 9-1 | Pre-calculus | 1.2 Functions & Properties, Domain, Continuity | P. 102 #1-20 |  Handout # 14, Test Tuesday on Chapter P | 
+| 9-1 | Pre-algebra | Coordinate Plane| | P. 54-55 #41-54 and Handout #20 | 
+| 9-1 | ESL Science | Test on Heat, Intro. to Sonar |  | 
 | 8-31 | Physics | Free-Fall Acceleration, Video: Hammer vs. Feather Experiment ||  Handout #18, Pre-lab due tom; Lab Report due Monday| 
 | 8-31 | Geometry B | Review Chapter 7 | | Handout #19, Textbook P. 504 #1-9, 15, P. 505 #16-20, P. 506 21-27, P. 507 #28, 30, 32, P. 509 #1-5; Chapter 7 Test Monday |
 | 8-31 | Pre-calculus | 1.2 Functions & Properties, Domain ||  Test Tuesday on Chapter P; Handout #13 due tom. 
