@@ -11,7 +11,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 9-4 | Physics | Quiz, Finish lab  | |   
 | 9-4 | Geometry B | Chapter 7 Test | |  | 
-| 9-4 | Pre-calculus | Increasing/Decreasing Functions, Odd/Even Functions, Maxima & Minima, Boundedness, Asymptotes |  | 
+| 9-4 | Pre-calculus | Increasing/Decreasing Functions, Odd/Even Functions, Maxima & Minima, Boundedness, Asymptotes ||  Test tom. on Chapter P, Handouts #17, 18 due Wed. 
 | 9-4 | Pre-algebra | Review for test| | Test Thursday on Chapter 1, Do Handout #21 | 
 | 9-4 | ESL Science | Sound |  | 
 
