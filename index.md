@@ -9,8 +9,8 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-4 | Physics | Free-fall Acceleration  | |   Chapter 2 Test Monday, Lab Report due Monday, HW #21 & 22 due Thursday
-| 9-4 | Geometry B |8-1 | |  | 
+| 9-4 | Physics | Free-fall Acceleration  | |   Chapter 2 Test Monday, Lab Report due Monday, Handout #21 & 22 due Thursday
+| 9-4 | Geometry B | 8-1 Similarity in Right Triangles | |Handouts #21, 22  |  
 | 9-4 | Pre-calculus | Test on Chapter P ||   Handouts #17, 18 due Wed. 
 | 9-4 | Pre-algebra | Review for test| | Test Thursday on Chapter 1| 
 | 9-4 | ESL Science | Sound |  | 
