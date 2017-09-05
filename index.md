@@ -14,6 +14,11 @@ layout: default
 | 9-4 | Pre-calculus | Test on Chapter P ||   Handouts #17, 18 due Wed. 
 | 9-4 | Pre-algebra | Review for test| | Test Thursday on Chapter 1| 
 | 9-4 | ESL Science | Sound |  | 
+| 9-4 | Physics | Chapter 2 Problem-Solving  | |   Chapter 2 Test Monday, Lab Report due Monday, Handout #21 & 22 due Thursday
+| 9-4 | Geometry B | 8-2 Trigonometric Ratios | |  |  
+| 9-4 | Pre-calculus |  ||    
+| 9-4 | Pre-algebra | | | Test Thursday on Chapter 1| 
+| 9-4 | ESL Science |  |  | 
 
 
 
