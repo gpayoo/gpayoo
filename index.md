@@ -11,7 +11,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 9-4 | Physics | Free-fall Acceleration  | |   Chapter 2 Test Monday, Lab Report due Monday, Handout #21 & 22 due Thursday
 | 9-4 | Geometry B | 8-1 Similarity in Right Triangles | |Handouts #21, 22  |  
-| 9-4 | Pre-calculus | Test on Chapter P ||   Handouts #17, 18 due Wed. 
+| 9-4 | Pre-calculus | Test on Chapter P ||   Handouts #17, 18 due Wed.; Note: you must have a graphing calculator by Sept. 11th
 | 9-4 | Pre-algebra | Review for test| | Test Thursday on Chapter 1| 
 | 9-4 | ESL Science | Sound |  | 
 | 9-4 | Physics | Chapter 2 Problem-Solving  | |   Chapter 2 Test Monday, Lab Report due Monday, Handout #21 & 22 due Thursday
