@@ -9,17 +9,23 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-4 | Physics | Quiz, Finish lab  | |   
-| 9-4 | Geometry B | Chapter 7 Test | |  | 
-| 9-4 | Pre-calculus | Increasing/Decreasing Functions, Odd/Even Functions, Maxima & Minima, Boundedness, Asymptotes ||  Test tom. on Chapter P, Handouts #17, 18 due Wed. 
-| 9-4 | Pre-algebra | Review for test| | Test Thursday on Chapter 1, Do Handout #21 | 
+| 9-4 | Physics | Free-fall Acceleration  | |   Chapter 2 Test Monday, Lab Report due Monday, HW #21 & 22 due Thursday
+| 9-4 | Geometry B |8-1 | |  | 
+| 9-4 | Pre-calculus | Test on Chapter P ||   Handouts #17, 18 due Wed. 
+| 9-4 | Pre-algebra | Review for test| | Test Thursday on Chapter 1| 
 | 9-4 | ESL Science | Sound |  | 
+
 
 
 # [](#header-2) Past Assignments
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 9-4 | Physics | Quiz, Finish lab  | |   
+| 9-4 | Geometry B | Chapter 7 Test | |  | 
+| 9-4 | Pre-calculus | Increasing/Decreasing Functions, Odd/Even Functions, Maxima & Minima, Boundedness, Asymptotes ||  Test tom. on Chapter P, Handouts #17, 18 due Wed. 
+| 9-4 | Pre-algebra | Review for test| | Test Thursday on Chapter 1, Do Handout #21 | 
+| 9-4 | ESL Science | Sound |  | 
 | 9-1 | Physics | Lab | | Lab Report due Monday, Notebook due Monday, Quiz Monday  
 | 9-1 | Geometry B | Review for Test | | Test Monday | 
 | 9-1 | Pre-calculus | 1.2 Functions & Properties, Domain, Continuity | P. 102 #1-20 |  Handout # 14, Test Tuesday on Chapter P | 
