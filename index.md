@@ -9,11 +9,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-5 | Physics | Free-fall Acceleration  | |   Chapter 2 Test Monday, Lab Report due Monday, Handout #21 & 22 due Thursday
-| 9-5 | Geometry B | 8-1 Similarity in Right Triangles | |Handouts #21, 22  |  
-| 9-5 | Pre-calculus | Test on Chapter P ||   Handouts #17, 18 due Wed.; Note: you must have a graphing calculator by Sept. 11th
-| 9-5 | Pre-algebra | Review for test| | Test Thursday on Chapter 1| 
-| 9-5 | ESL Science | Sound |  |  
+
 | 9-6 | Physics | Chapter 2 Problem-Solving  | |  Chapter 2 Test Monday, Lab Report due Monday, Handout #21 & 22 due Thursday
 | 9-6 | Geometry B | 8-2 Trigonometric Ratios | |  Handout #23, 24|  
 | 9-6 | Pre-calculus |  ||    
@@ -26,6 +22,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 9-5 | Physics | Free-fall Acceleration  | |   Chapter 2 Test Monday, Lab Report due Monday, Handout #21 & 22 due Thursday
+| 9-5 | Geometry B | 8-1 Similarity in Right Triangles | |Handouts #21, 22  |  
+| 9-5 | Pre-calculus | Test on Chapter P ||   Handouts #17, 18 due Wed.; Note: you must have a graphing calculator by Sept. 11th
+| 9-5 | Pre-algebra | Review for test| | Test Thursday on Chapter 1| 
+| 9-5 | ESL Science | Sound |  |  
 | 9-4 | Physics | Quiz, Finish lab  | |   
 | 9-4 | Geometry B | Chapter 7 Test | |  | 
 | 9-4 | Pre-calculus | Increasing/Decreasing Functions, Odd/Even Functions, Maxima & Minima, Boundedness, Asymptotes ||  Test tom. on Chapter P, Handouts #17, 18 due Wed. 
