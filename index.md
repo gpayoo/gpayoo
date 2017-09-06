@@ -12,7 +12,7 @@ layout: default
 | 9-6 | Physics | Chapter 2 Problem-Solving  | |  Chapter 2 Test Monday, Lab Report due Monday, Handout #21 & 22 due Thursday
 | 9-6 | Geometry B | 8-2 Trigonometric Ratios | |  Handout #23, 24|  
 | 9-6 | Pre-calculus |  ||    
-| 9-6 | Pre-algebra | | | Test Thursday on Chapter 1|  Handout #23 due Friday
+| 9-6 | Pre-algebra | | | Test Thursday on Chapter 1,  Handout #23 due Friday
 | 9-6 | ESL Science |  |  | 
 
 
