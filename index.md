@@ -14,6 +14,11 @@ layout: default
 | 9-7 | Pre-calculus | Graphing the Basic Functions | |   
 | 9-7 | Pre-algebra | Test on Chapter 1| | Handout #23 due Friday
 | 9-7 | ESL Science | Quiz on Sound; Lab Vocab.  |  | 
+| 9-8 | Physics |  | |  
+| 9-8 | Geometry B |  | | |  
+| 9-8 | Pre-calculus |  | |   
+| 9-8 | Pre-algebra | | | 
+| 9-8 | ESL Science |  |  | 
 
 
 
