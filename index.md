@@ -9,13 +9,8 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-7 | Physics | Chapter 2 Problem-Solving  | |  Chapter 2 Test Monday, Lab Report due Monday
-| 9-7 | Geometry B | 8-3 Solving Right Triangles | | Handouts #25, 26 |  
-| 9-7 | Pre-calculus | Graphing the Basic Functions | |   
-| 9-7 | Pre-algebra | Test on Chapter 1| | Handout #23 due Friday
-| 9-7 | ESL Science | Quiz on Sound; Lab Vocab.  |  | Test on Sound next week; Quiz on vocab. next week; Write about it - 20 sentences due tom.!
-| 9-8 | Physics |  | |  
-| 9-8 | Geometry B |  | | |  
+| 9-8 | Physics | Lab on Reaction time | |  Chapter 2 Test Monday, Lab Report due Monday
+| 9-8 | Geometry B | Review Sections 8-1 to 8-3 | | | Handouts #29,30, Quiz on Section 8-1 to 8-3 on Wed.  
 | 9-8 | Pre-calculus |  | |   
 | 9-8 | Pre-algebra | | | 
 | 9-8 | ESL Science |  |  | 
@@ -50,6 +45,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 9-7 | Physics | Chapter 2 Problem-Solving  | |  Chapter 2 Test Monday, Lab Report due Monday
+| 9-7 | Geometry B | 8-3 Solving Right Triangles | | Handouts #25, 26 |  
+| 9-7 | Pre-calculus | Graphing the Basic Functions | |   
+| 9-7 | Pre-algebra | Test on Chapter 1| | Handout #23 due Friday
+| 9-7 | ESL Science | Quiz on Sound; Lab Vocab.  |  | Test on Sound next week; Quiz on vocab. next week; Write about it - 20 sentences due tom.!
 | 9-6 | Physics | Chapter 2 Problem-Solving  | |  Chapter 2 Test Monday, Lab Report due Monday, Handout #21 & 22 due Thursday
 | 9-6 | Geometry B | 8-2 Trigonometric Ratios | |  Handout #23, 24|  
 | 9-6 | Pre-calculus | Asymptotes, Graphing | |  Handouts #20, 21, 22   
