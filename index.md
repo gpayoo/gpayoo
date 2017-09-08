@@ -10,7 +10,7 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 9-8 | Physics | Lab on Reaction time | |  Chapter 2 Test Monday, Lab Report due Monday
-| 9-8 | Geometry B | Review Sections 8-1 to 8-3 | | | Handouts #29,30, Quiz on Section 8-1 to 8-3 on Wed.  
+| 9-8 | Geometry B | Review Sections 8-1 to 8-3 | |  Handouts #29,30, Quiz on Section 8-1 to 8-3 on Wed.  
 | 9-8 | Pre-calculus |  | |   
 | 9-8 | Pre-algebra | | | 
 | 9-8 | ESL Science |  |  | 
