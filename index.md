@@ -16,9 +16,9 @@ layout: default
 | 9-11 | ESL Science | Electromagnetic Spectrum |  | Lab vocab. quiz tom., Sound test Thursday, Electromagnetic Spectrum Poster due Wed. 
 | 9-12 | Physics | Vectors  | |  
 | 9-12 | Geometry B | 8-5 Law of Sines & Cosines | | |  
-| 9-12 | Pre-calculus |  | |   
+| 9-12 | Pre-calculus | Parametric Functions | |   
 | 9-12 | Pre-algebra | | | 
-| 9-12 | ESL Science |  |  | 
+| 9-12 | ESL Science | Lab Vocab. Quiz; Light |  | 
 | 9-13 | Physics |  | |  
 | 9-13 | Geometry B | Quiz on Sections 8-1 to 8-3 | | |  
 | 9-13 | Pre-calculus | HW Quiz  | |   
