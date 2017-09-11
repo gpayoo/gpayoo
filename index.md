@@ -9,13 +9,8 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-8 | Physics | Lab on Reaction time | |  Chapter 2 Test Monday, Lab Report due Monday
-| 9-8 | Geometry B | Review Sections 8-1 to 8-3 | |  Handouts #29,30, Quiz on Section 8-1 to 8-3 on Wed.  
-| 9-8 | Pre-calculus | Piecewise Functions, Composition of Functions | |   Handout #26, HW Quiz Wed. from P. 102 #1-62
-| 9-8 | Pre-algebra | 2-3 Simplifying Variable Expressions | | Definitions Sheet OR P. 80-81 #11-32, 42-44 
-| 9-8 | ESL Science | Lab. Vocabulary, Intro. to Light |  | 
 | 9-11 | Physics |  Test on Chapter 2| |  
-| 9-11 | Geometry B | Angles of Elevation, Depression | | |  
+| 9-11 | Geometry B | Angles of Elevation, Depression | |  Handouts #31,32|  
 | 9-11 | Pre-calculus | Composition of Functions | |   
 | 9-11 | Pre-algebra | Review math vocabulary| | 
 | 9-11 | ESL Science | Light |  | 
@@ -45,6 +40,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 9-8 | Physics | Lab on Reaction time | |  Chapter 2 Test Monday, Lab Report due Monday
+| 9-8 | Geometry B | Review Sections 8-1 to 8-3 | |  Handouts #29,30, Quiz on Section 8-1 to 8-3 on Wed.  
+| 9-8 | Pre-calculus | Piecewise Functions, Composition of Functions | |   Handout #26, HW Quiz Wed. from P. 102 #1-62
+| 9-8 | Pre-algebra | 2-3 Simplifying Variable Expressions | | Definitions Sheet OR P. 80-81 #11-32, 42-44 
+| 9-8 | ESL Science | Lab. Vocabulary, Intro. to Light |  | 
 | 9-7 | Physics | Chapter 2 Problem-Solving  | |  Chapter 2 Test Monday, Lab Report due Monday
 | 9-7 | Geometry B | 8-3 Solving Right Triangles | | Handouts #25, 26 |  
 | 9-7 | Pre-calculus | Graphing the Basic Functions | |   
