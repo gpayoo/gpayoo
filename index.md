@@ -12,17 +12,17 @@ layout: default
 | 9-11 | Physics |  Test on Chapter 2| |  
 | 9-11 | Geometry B | Angles of Elevation, Depression | |  Handouts #31,32|  
 | 9-11 | Pre-calculus | Composition of Functions | |   
-| 9-11 | Pre-algebra | Review math vocabulary & like terms| | 
+| 9-11 | Pre-algebra | Review math vocabulary & like terms| | Math vocab. quiz tom. 
 | 9-11 | ESL Science | Light |  | 
 | 9-12 | Physics | Vectors  | |  
-| 9-12 | Geometry B |  | | |  
+| 9-12 | Geometry B | 8-5 Law of Sines & Cosines | | |  
 | 9-12 | Pre-calculus |  | |   
 | 9-12 | Pre-algebra | | | 
 | 9-12 | ESL Science |  |  | 
 | 9-13 | Physics |  | |  
 | 9-13 | Geometry B | Quiz on Sections 8-1 to 8-3 | | |  
 | 9-13 | Pre-calculus | HW Quiz  | |   
-| 9-13 | Pre-algebra | | | 
+| 9-13 | Pre-algebra |  | | 
 | 9-13 | ESL Science |  |  | 
 | 9-14 | Physics |  | |  
 | 9-14 | Geometry B |  | | |  
