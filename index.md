@@ -11,9 +11,9 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 9-11 | Physics |  Test on Chapter 2| |  
 | 9-11 | Geometry B | Angles of Elevation, Depression | |  Handouts #31,32|  
-| 9-11 | Pre-calculus | Composition of Functions | |   
+| 9-11 | Pre-calculus | Composition of Functions | | Handouts #27,28 due tom; HW quiz Wed.  
 | 9-11 | Pre-algebra | Review math vocabulary & like terms| | Math vocab. quiz tom. 
-| 9-11 | ESL Science | Light |  | 
+| 9-11 | ESL Science | Electromagnetic Spectrum |  | Lab vocab. quiz tom., Sound test Thursday, Electromagnetic Spectrum Poster due Wed. 
 | 9-12 | Physics | Vectors  | |  
 | 9-12 | Geometry B | 8-5 Law of Sines & Cosines | | |  
 | 9-12 | Pre-calculus |  | |   
