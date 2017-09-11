@@ -12,7 +12,7 @@ layout: default
 | 9-11 | Physics |  Test on Chapter 2| |  
 | 9-11 | Geometry B | Angles of Elevation, Depression | |  Handouts #31,32|  
 | 9-11 | Pre-calculus | Composition of Functions | |   
-| 9-11 | Pre-algebra | Review math vocabulary| | 
+| 9-11 | Pre-algebra | Review math vocabulary & like terms| | 
 | 9-11 | ESL Science | Light |  | 
 | 9-12 | Physics | Vectors  | |  
 | 9-12 | Geometry B |  | | |  
