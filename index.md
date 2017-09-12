@@ -13,7 +13,7 @@ layout: default
 | 9-12 | Geometry B | 8-5 Law of Sines & Cosines | | Quiz tom.; #33, #34 due Thurs. |  
 | 9-12 | Pre-calculus | Parametric Functions | | HW Quiz tom.; #28,29,30 due Thurs.  
 | 9-12 | Pre-algebra | 2-4 Variables and Equations | | Handouts #27,28,29 
-| 9-12 | ESL Science | Lab Vocab. Quiz; Light |  |  Sound Test on Thurs.
+| 9-12 | ESL Science | Lab Vocab. Quiz; Light |  |  Sound Test on Thurs.; Poster due tom; Parts of eye quiz Fri.
 | 9-13 | Physics | Vectors - Problem-Solving | |  
 | 9-13 | Geometry B | Quiz on Sections 8-1 to 8-3 | | |  
 | 9-13 | Pre-calculus | HW Quiz  | |   
