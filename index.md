@@ -11,7 +11,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
  | 9-12 | Physics | Vectors  | | Handout #25, P. 89 #1,2; P. 92 #1-4, P. 108 #6 
 | 9-12 | Geometry B | 8-5 Law of Sines & Cosines | | Quiz tom.; #33, #34 due Thurs. |  
-| 9-12 | Pre-calculus | Parametric Functions | | HW Quiz tom.  
+| 9-12 | Pre-calculus | Parametric Functions | | HW Quiz tom.; #28,29,30 due Thurs.  
 | 9-12 | Pre-algebra | 2-4 Variables and Equations | | Handouts #27,28,29 
 | 9-12 | ESL Science | Lab Vocab. Quiz; Light |  |  Sound Test on Thurs.
 | 9-13 | Physics | Vectors - Problem-Solving | |  
