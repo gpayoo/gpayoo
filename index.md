@@ -9,12 +9,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-11 | Physics |  Test on Chapter 2| |  
-| 9-11 | Geometry B | Angles of Elevation, Depression | |  Handouts #31,32|  
-| 9-11 | Pre-calculus | Composition of Functions | | Handouts #27,28 due tom; HW quiz Wed.  
-| 9-11 | Pre-algebra | Review math vocabulary & like terms| | Math vocab. quiz tom. 
-| 9-11 | ESL Science | Electromagnetic Spectrum |  | Lab vocab. quiz tom., Sound test Thursday, Electromagnetic Spectrum Poster due Wed. 
-| 9-12 | Physics | Vectors  | |  
+ | 9-12 | Physics | Vectors  | | Handout #25, P. 89 #1,2; P. 92 #1-4, P. 108 #6 
 | 9-12 | Geometry B | 8-5 Law of Sines & Cosines | | |  
 | 9-12 | Pre-calculus | Parametric Functions | |   
 | 9-12 | Pre-algebra | | | 
@@ -40,6 +35,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 9-11 | Physics |  Test on Chapter 2| |  
+| 9-11 | Geometry B | Angles of Elevation, Depression | |  Handouts #31,32|  
+| 9-11 | Pre-calculus | Composition of Functions | | Handouts #27,28 due tom; HW quiz Wed.  
+| 9-11 | Pre-algebra | Review math vocabulary & like terms| | Math vocab. quiz tom. 
+| 9-11 | ESL Science | Electromagnetic Spectrum |  | Lab vocab. quiz tom., Sound test Thursday, Electromagnetic Spectrum Poster due Wed.
 | 9-8 | Physics | Lab on Reaction time | |  Chapter 2 Test Monday, Lab Report due Monday
 | 9-8 | Geometry B | Review Sections 8-1 to 8-3 | |  Handouts #29,30, Quiz on Section 8-1 to 8-3 on Wed.  
 | 9-8 | Pre-calculus | Piecewise Functions, Composition of Functions | |   Handout #26, HW Quiz Wed. from P. 102 #1-62
