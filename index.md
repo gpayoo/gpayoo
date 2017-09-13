@@ -11,7 +11,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 9-13 | Physics | Vectors - Problem-Solving | | P. 94 Any 2; P. 109 #26, Handout #26 
 | 9-13 | Geometry B | Quiz on Sections 8-1 to 8-3 | | #33, #34 due Thurs. |  
-| 9-13 | Pre-calculus | HW Quiz; Inverse Functions  | |  #28,29,30 due Thurs
+| 9-13 | Pre-calculus | HW Quiz; Inverse Functions  | |  #28,29,30,33 due Thurs
 | 9-13 | Pre-algebra | Solving Equations by Adding & Subtracting | | Handout #30 
 | 9-13 | ESL Science | Light |  | Sound Test on Thurs.
 | 9-14 | Physics | Intro. to Projectile Motion | |  
