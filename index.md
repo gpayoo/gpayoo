@@ -13,7 +13,7 @@ layout: default
 | 9-13 | Geometry B | Quiz on Sections 8-1 to 8-3 | | |  
 | 9-13 | Pre-calculus | HW Quiz; Inverse Functions  | |  #28,29,30 due Thurs
 | 9-13 | Pre-algebra | Solving Equations by Adding & Subtracting | | Handout #30 
-| 9-13 | ESL Science | Light |  Sound Test on Thurs.| 
+| 9-13 | ESL Science | Light |  | Sound Test on Thurs.
 | 9-14 | Physics | Intro. to Projectile Motion | |  
 | 9-14 | Geometry B | Vectors | | |  
 | 9-14 | Pre-calculus |  | |   
