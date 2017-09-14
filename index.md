@@ -11,8 +11,8 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 9-14 | Physics | Intro. to Projectile Motion | | Write prelab, Do online lab on horizontally launched projectiles; Start #27  
 | 9-14 | Geometry B | Vectors | | |  
-| 9-14 | Pre-calculus |  | |   
-| 9-14 | Pre-algebra | | | 
+| 9-14 | Pre-calculus | Graphical Transformation of Functions | | #37 & 38 due tom; #34,35,36 due Mon; HW Quiz on Tues from P.147 #1-24,47-50   
+| 9-14 | Pre-algebra | 2-6 Solving Equations by Multiplying or Dividing | | Handout #31 
 | 9-14 | ESL Science |  |  |
 | 9-15 | Physics |  | |  
 | 9-15 | Geometry B |  | | |  
