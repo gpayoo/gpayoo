@@ -9,12 +9,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-13 | Physics | Vectors - Problem-Solving | | P. 94 Any 2; P. 109 #26, Handout #26 
-| 9-13 | Geometry B | Quiz on Sections 8-1 to 8-3 | | #33, #34 due Thurs. |  
-| 9-13 | Pre-calculus | HW Quiz; Inverse Functions  | |  #28,29,30,33 due Thurs
-| 9-13 | Pre-algebra | Solving Equations by Adding & Subtracting | | Handout #30 
-| 9-13 | ESL Science | Light |  | Sound Test on Thurs.
-| 9-14 | Physics | Intro. to Projectile Motion | |  
+| 9-14 | Physics | Intro. to Projectile Motion | | Write prelab, Do online lab on horizontally launched projectiles; Start #27  
 | 9-14 | Geometry B | Vectors | | |  
 | 9-14 | Pre-calculus |  | |   
 | 9-14 | Pre-algebra | | | 
@@ -30,6 +25,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 9-13 | Physics | Vectors - Problem-Solving | | P. 94 Any 2; P. 109 #26, Handout #26 
+| 9-13 | Geometry B | Quiz on Sections 8-1 to 8-3 | | #33, #34 due Thurs. |  
+| 9-13 | Pre-calculus | HW Quiz; Inverse Functions  | |  #28,29,30,33 due Thurs
+| 9-13 | Pre-algebra | Solving Equations by Adding & Subtracting | | Handout #30 
+| 9-13 | ESL Science | Light |  | Sound Test on Thurs.
 | 9-12 | Physics | Vectors  | | Handout #25, P. 89 #1,2; P. 92 #1-4, P. 108 #6 
 | 9-12 | Geometry B | 8-5 Law of Sines & Cosines | | Quiz tom.; #33, #34 due Thurs. |  
 | 9-12 | Pre-calculus | Parametric Functions | | HW Quiz tom.; #28,29,30 due Thurs.  
