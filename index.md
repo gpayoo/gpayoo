@@ -11,7 +11,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 9-15 | Physics | Projectile Motion & Law | | #27 #1-21  
 | 9-15 | Geometry B | Vectors  | |Handout #35 |  
-| 9-15 | Pre-calculus |  | |   
+| 9-15 | Pre-calculus | Word Problems on Functions, Review | |  Handout #34,35,36,39  
 | 9-15 | Pre-algebra | | | 
 | 9-15 | ESL Science |  |  | 
 
