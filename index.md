@@ -9,13 +9,8 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-14 | Physics | Intro. to Projectile Motion | | Write prelab, Do online lab on horizontally launched projectiles; Start #27  
-| 9-14 | Geometry B | Vectors | | |  
-| 9-14 | Pre-calculus | Graphical Transformation of Functions | | #37 & 38 due tom; #34,35,36 due Mon; HW Quiz on Tues from P.147 #1-24,47-50   
-| 9-14 | Pre-algebra | 2-6 Solving Equations by Multiplying or Dividing | | Handout #31 
-| 9-14 | ESL Science |  |  |
 | 9-15 | Physics | Projectile Motion & Law | | #27 #1-21  
-| 9-15 | Geometry B |  | | |  
+| 9-15 | Geometry B | Vectors  | |Handout #35 |  
 | 9-15 | Pre-calculus |  | |   
 | 9-15 | Pre-algebra | | | 
 | 9-15 | ESL Science |  |  | 
@@ -25,6 +20,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 9-14 | Physics | Intro. to Projectile Motion | | Write prelab, Do online lab on horizontally launched projectiles; Start #27  
+| 9-14 | Geometry B | Vectors | |   Handout #35
+| 9-14 | Pre-calculus | Graphical Transformation of Functions | | #37 & 38 due tom; #34,35,36 due Mon; HW Quiz on Tues from P.147 #1-24,47-50   
+| 9-14 | Pre-algebra | 2-6 Solving Equations by Multiplying or Dividing | | Handout #31 
+| 9-14 | ESL Science | Test on Sound |  |
 | 9-13 | Physics | Vectors - Problem-Solving | | P. 94 Any 2; P. 109 #26, Handout #26 
 | 9-13 | Geometry B | Quiz on Sections 8-1 to 8-3 | | #33, #34 due Thurs. |  
 | 9-13 | Pre-calculus | HW Quiz; Inverse Functions  | |  #28,29,30,33 due Thurs
