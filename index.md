@@ -9,7 +9,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-18 | Physics | Projectile Motio; Monkey & Dart Problem | | P. 101 Practice E #2,3; Section Review #1,3
+| 9-18 | Physics | Projectile Motion; Monkey & Dart Problem | | P. 101 Practice E #2,3; Section Review #1,3
 | 9-18 | Geometry B | Vectors  | | |  
 | 9-18 | Pre-calculus | Word Problems on Functions, Review | |  
 | 9-18 | Pre-algebra | | | 
@@ -25,7 +25,7 @@ layout: default
 | 9-15 | Geometry B | Vectors  | |Handout #35 |  
 | 9-15 | Pre-calculus | Word Problems on Functions, Review | |  Handout #34,35,36,39  
 | 9-15 | Pre-algebra | 2-8 Guess, Check, Revise| | 
-| 9-15 | ESL Science | Test |  | 
+| 9-15 | ESL Science | Quiz on parts of the eye; Review light |  | 
 | 9-14 | Physics | Intro. to Projectile Motion | | Write prelab, Do online lab on horizontally launched projectiles; Start #27  
 | 9-14 | Geometry B | Vectors | |   Handout #35
 | 9-14 | Pre-calculus | Graphical Transformation of Functions | | #37 & 38 due tom; #34,35,36 due Mon; HW Quiz on Tues from P.147 #1-24,47-50   
