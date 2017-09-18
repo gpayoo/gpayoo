@@ -12,7 +12,7 @@ layout: default
 | 9-18 | Physics | Projectile Motion; Monkey & Dart Problem | | P. 101 Practice E #2,3; Section Review #1,3
 | 9-18 | Geometry B | Vectors  | | Handout #37; Test on Chapter 8 on Friday|  
 | 9-18 | Pre-calculus | Word Problems on Functions, Review | |  
-| 9-18 | Pre-algebra | | | 
+| 9-18 | Pre-algebra | | | CH.2 Test Mon.
 | 9-18 | ESL Science |  |  | 
 | 9-19 | Physics |  | | 
 | 9-19 | Geometry B |  | | |  
