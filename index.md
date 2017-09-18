@@ -13,7 +13,7 @@ layout: default
 | 9-18 | Geometry B | Vectors  | | Handout #37; Test on Chapter 8 on Friday|  
 | 9-18 | Pre-calculus | Word Problems on Functions, Review | | HW Quiz on Tues from P.147 #1-24,47-50  
 | 9-18 | Pre-algebra | Graphing Inequalities| | CH.2 Test Mon.; Handout #32
-| 9-18 | ESL Science |  |  | 
+| 9-18 | ESL Science | Review  |  | 
 | 9-19 | Physics |  | | 
 | 9-19 | Geometry B |  | | |  
 | 9-19 | Pre-calculus |  | |  
