@@ -9,7 +9,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-19 | Physics | Projectile Motion  | | P. 110 #32, 24; P. 113 #62 
+| 9-19 | Physics | Projectile Motion  | | P. 110 #32, 34; P. 113 #62 
 | 9-19 | Geometry B | Extension: Trig. Functions & Unit Circle | | |  
 | 9-19 | Pre-calculus | Chapter Review | | Test Monday; HW Quiz Thurs. P. 165 #1-58  
 | 9-19 | Pre-algebra | Review | | 
