@@ -10,7 +10,7 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 9-20 | Physics | Problem-Solving| | 0.5 quiz tom. based on questions noted in class 
-| 9-20 | Geometry B |  | | |  
+| 9-20 | Geometry B |  | | Test Fri. on Chapter 8|  
 | 9-20 | Pre-calculus |  | |  
 | 9-20 | Pre-algebra | | | 
 | 9-20 | ESL Science |  |  | 
