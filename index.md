@@ -9,12 +9,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-19 | Physics | Projectile Motion  | | P. 110 #32, 34; P. 113 #62 
-| 9-19 | Geometry B | Extension: Trig. Functions & Unit Circle | | |  
-| 9-19 | Pre-calculus | Chapter Review | | Test Monday; HW Quiz Thurs. P. 165 #1-58  
-| 9-19 | Pre-algebra | Review | | 
-| 9-19 | ESL Science |  |  | 
-| 9-20 | Physics |  | | 
+| 9-20 | Physics | Problem-Solving| | 0.5 quiz tom. based on questions noted in class 
 | 9-20 | Geometry B |  | | |  
 | 9-20 | Pre-calculus |  | |  
 | 9-20 | Pre-algebra | | | 
@@ -34,6 +29,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 9-19 | Physics | Projectile Motion  | | P. 110 #32, 34; P. 113 #62 
+| 9-19 | Geometry B | Extension: Trig. Functions & Unit Circle | | |  
+| 9-19 | Pre-calculus | Chapter Review | | Test Monday; HW Quiz Thurs. P. 165 #1-58  
+| 9-19 | Pre-algebra | Review | | 
+| 9-19 | ESL Science | Review |  | 
 | 9-18 | Physics | Projectile Motion; Monkey & Dart Problem | | P. 101 Practice E #2,3; Section Review #1,3
 | 9-18 | Geometry B | Vectors  | | Handout #37; Test on Chapter 8 on Friday|  
 | 9-18 | Pre-calculus | Word Problems on Functions, Review | | HW Quiz on Tues from P.147 #1-24,47-50  
