@@ -9,13 +9,8 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-20 | Physics | Problem-Solving| | 0.5 quiz tom. based on questions noted in class 
-| 9-20 | Geometry B | Review | | Test Fri. on Chapter 8|  
-| 9-20 | Pre-calculus |  Review | | Test Mon. on Chapter 1; HW Quiz tom. 
-| 9-20 | Pre-algebra | Solving inequalities using addition and subtraction| | Handout #33 
-| 9-20 | ESL Science | Light - Review |  | 
-| 9-21 | Physics |  | | 
-| 9-21 | Geometry B |  | | |  
+| 9-21 | Physics | Quiz, Prepare lab | | Do pre-lab; Lab on Horizontal Motion 
+| 9-21 | Geometry B | Review | |  Test tom. on Chapter 8|  
 | 9-21 | Pre-calculus |  | |  
 | 9-21 | Pre-algebra | | | 
 | 9-21 | ESL Science |  |  | 
@@ -29,6 +24,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 9-20 | Physics | Problem-Solving| | 0.5 quiz tom. based on questions noted in class 
+| 9-20 | Geometry B | Review | | Test Fri. on Chapter 8|  
+| 9-20 | Pre-calculus |  Review | | Test Mon. on Chapter 1; HW Quiz tom. 
+| 9-20 | Pre-algebra | Solving inequalities using addition and subtraction| | Handout #33 
+| 9-20 | ESL Science | Light - Review |  | 
 | 9-19 | Physics | Projectile Motion  | | P. 110 #32, 34; P. 113 #62 
 | 9-19 | Geometry B | Extension: Trig. Functions & Unit Circle | | |  
 | 9-19 | Pre-calculus | Chapter Review | | Test Monday; HW Quiz Thurs. P. 165 #1-58  
