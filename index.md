@@ -11,7 +11,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 9-21 | Physics | Quiz, Prepare lab | | Do pre-lab; Lab on Horizontal Motion 
 | 9-21 | Geometry B | Review | |  Test tom. on Chapter 8|  
-| 9-21 | Pre-calculus | HW Quiz, Linear Regression | | Test Mon. on Chapter 1, HW #42 
+| 9-21 | Pre-calculus | HW Quiz, Linear Regression | | Test Mon. on Chapter 1, Handout #42 
 | 9-21 | Pre-algebra | | | 
 | 9-21 | ESL Science | Light |  | 
 | 9-22 | Physics | Lab on Galileo's Ramp | | 
