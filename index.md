@@ -10,14 +10,14 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 9-21 | Physics | Quiz, Prepare lab | | Do pre-lab; Lab on Horizontal Motion 
-| 9-21 | Geometry B | Review | |  Test tom. on Chapter 8|  
-| 9-21 | Pre-calculus | HW Quiz, Linear Regression | | Test Mon. on Chapter 1, Handout #42 
-| 9-21 | Pre-algebra | | | 
+| 9-21 | Geometry B | Review | |  Test Fri. on Chapter 8|  
+| 9-21 | Pre-calculus | HW Quiz, Linear Regression | | Test Mon. on Chapter 1; Handout #42 due Fri.
+| 9-21 | Pre-algebra | Solving Inequalities with Mult. & Division | | Handout #35, 36, 37; Test Mon. on Chapter 2 
 | 9-21 | ESL Science | Light |  | 
-| 9-22 | Physics | Lab on Galileo's Ramp | | 
+| 9-22 | Physics | Lab on Galileo's Ramp | | Do lab report 
 | 9-22 | Geometry B | Test on Chapter 8 | | |  
-| 9-22 | Pre-calculus |  | |  
-| 9-22 | Pre-algebra | | | 
+| 9-22 | Pre-calculus | Section 4-1; Intro. to Trig.  | |  Test 
+| 9-22 | Pre-algebra | Review for Test| | Test Mon. on Chapter 1
 | 9-22 | ESL Science | Light |  | 
 
 # [](#header-2) Past Assignments
