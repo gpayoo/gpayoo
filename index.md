@@ -9,7 +9,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-21 | Physics | Quiz, Prepare lab | | Do pre-lab; Lab on Horizontal Motion 
+| 9-21 | Physics | Quiz, Prepare lab | | Do pre-lab; Lab Report from last week's lab is due
 | 9-21 | Geometry B | Review | |  Test Fri. on Chapter 8|  
 | 9-21 | Pre-calculus | HW Quiz, Linear Regression | | Test Mon. on Chapter 1; Handout #42 due Fri.
 | 9-21 | Pre-algebra | Solving Inequalities with Mult. & Division | | Handout #35, 36, 37; Test Mon. on Chapter 2 
