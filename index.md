@@ -11,8 +11,8 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 9-22 | Physics | Lab on Galileo's Ramp | | Do lab report 
 | 9-22 | Geometry B | Test on Chapter 8 | | |  
-| 9-22 | Pre-calculus | Section 4-1; Intro. to Trig.  | |  Test on Monday on Chapter 2
-| 9-22 | Pre-algebra | Review for Test| | Test Mon. on Chapter 1
+| 9-22 | Pre-calculus | Section 4-1; Intro. to Trig.  | |  Test on Monday on Chapter 1
+| 9-22 | Pre-algebra | Review for Test| | Test Mon. on Chapter 2
 | 9-22 | ESL Science | Light - Finish workbook pages |  | 
 
 # [](#header-2) Past Assignments
