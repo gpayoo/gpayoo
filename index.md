@@ -78,7 +78,7 @@ layout: default
 | 9-6 | Geometry B | 8-2 Trigonometric Ratios | |  Handout #23, 24|  
 | 9-6 | Pre-calculus | Asymptotes, Graphing | |  Handouts #20, 21, 22   
 | 9-6 | Pre-algebra | Test on Chapter 1 | | Test Thursday on Chapter 1,  Handout #23 due Friday
-| 9-6 | ESL Science | Doppler Effect  | Quiz tomorrow on Sound Vocabulary  | 
+| 9-6 | ESL Science | Doppler Effect  | |  Quiz tomorrow on Sound Vocabulary  | 
 | 9-5 | Physics | Free-fall Acceleration  | |   Chapter 2 Test Monday, Lab Report due Monday, Handout #21 & 22 due Thursday
 | 9-5 | Geometry B | 8-1 Similarity in Right Triangles | |Handouts #21, 22  |  
 | 9-5 | Pre-calculus | Test on Chapter P ||   Handouts #17, 18 due Wed.; Note: you must have a graphing calculator by Sept. 11th
