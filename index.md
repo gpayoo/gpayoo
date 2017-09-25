@@ -9,15 +9,34 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-23 | Physics | Relative Motion, Finish lab | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; Multiple Choice up to #60 due tom; Chapter 3 test Thursday
-| 9-23 | Geometry B | 9-1 Formulas for Triangles and Quadrilaterals | | Handouts #40,41,42 |  
-| 9-23 | Pre-calculus | Test  | |  Handout #45 due Tuesday
-| 9-23 | Pre-algebra | Test | | 
-| 9-23 | ESL Science |  |  |  Test on Tuesday on Light
+| 9-25 | Physics | Relative Motion, Finish lab | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; Multiple Choice up to #60 due tom; Chapter 3 test Thursday
+| 9-25 | Geometry B | 9-1 Formulas for Triangles and Quadrilaterals | | Handouts #40,41,42 |  
+| 9-25 | Pre-calculus | Test  | |  Handout #45 due Tuesday
+| 9-25 | Pre-algebra | Test | | 
+| 9-25 | ESL Science | Intro. to Electricity |  |  Test on Tuesday on Light
+| 9-26 | Physics |  | | 
+| 9-26 | Geometry B |  | |  |  
+| 9-26 | Pre-calculus |   | |  
+| 9-26 | Pre-algebra |  | | 
+| 9-26 | ESL Science |  |  |  
+| 9-27 | Physics |  | | 
+| 9-27 | Geometry B |  | |  |  
+| 9-27 | Pre-calculus |   | |  
+| 9-27 | Pre-algebra |  | | 
+| 9-27 | ESL Science |  |  |  
+| 9-28 | Physics |  | | 
+| 9-28 | Geometry B |  | |  |  
+| 9-28 | Pre-calculus |   | |  
+| 9-28 | Pre-algebra |  | | 
+| 9-28 | ESL Science |  |  |  
+| 9-29 | Physics |  | | 
+| 9-29 | Geometry B |  | |  |  
+| 9-29 | Pre-calculus |   | |  
+| 9-29 | Pre-algebra |  | | 
+| 9-29 | ESL Science |  |  |  
 
 
 # [](#header-2) Past Assignments
-
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 9-22 | Physics | Lab on Galileo's Ramp | | Do lab report 
