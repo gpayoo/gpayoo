@@ -13,7 +13,7 @@ layout: default
 | 9-23 | Geometry B | 9-1 | | |  
 | 9-23 | Pre-calculus | Test  | |  Handout #45 due Tuesday
 | 9-23 | Pre-algebra | Test | | 
-| 9-23 | ESL Science |  |  |  Test on Tuesday on Light; Write report (20 sentences) on lasers - see workbook page 275
+| 9-23 | ESL Science |  |  |  Test on Tuesday on Light
 
 
 # [](#header-2) Past Assignments
