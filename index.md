@@ -9,16 +9,22 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-22 | Physics | Lab on Galileo's Ramp | | Do lab report 
-| 9-22 | Geometry B | Test on Chapter 8 | | |  
-| 9-22 | Pre-calculus | Section 4-1; Intro. to Trig.  | |  Test on Monday on Chapter 1; Handout #45 due Tuesday
-| 9-22 | Pre-algebra | Review for Test| | Test on Mon. on Chapter 2
-| 9-22 | ESL Science | Light - Finish workbook pages |  |  Test on Tuesday on Light; Write report (20 sentences) on lasers - see workbook page 275
+| 9-23 | Physics | Relative Motion, Finish lab | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; Multiple Choice up to #60 due tom; Chapter 3 test Thursday
+| 9-23 | Geometry B | 9-1 | | |  
+| 9-23 | Pre-calculus | Test  | |  Handout #45 due Tuesday
+| 9-23 | Pre-algebra | Test | | 
+| 9-23 | ESL Science |  |  |  Test on Tuesday on Light; Write report (20 sentences) on lasers - see workbook page 275
+
 
 # [](#header-2) Past Assignments
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 9-22 | Physics | Lab on Galileo's Ramp | | Do lab report 
+| 9-22 | Geometry B | Test on Chapter 8 | | |  
+| 9-22 | Pre-calculus | Section 4-1; Intro. to Trig.  | |  Test on Monday on Chapter 1; Handout #45 due Tuesday
+| 9-22 | Pre-algebra | Review for Test| | Test on Mon. on Chapter 2
+| 9-22 | ESL Science | Light - Finish workbook pages |  |  Test on Tuesday on Light; Write report (20 sentences) on lasers - see workbook page 275
 | 9-21 | Physics | Quiz, Prepare lab | | Do pre-lab; Lab Report from last week's lab is due
 | 9-21 | Geometry B | Review | |  Test Fri. on Chapter 8|  
 | 9-21 | Pre-calculus | HW Quiz, Linear Regression | | Test Mon. on Chapter 1; Handout #42 due Fri.
