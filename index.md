@@ -14,22 +14,22 @@ layout: default
 | 9-25 | Pre-calculus | Test  | |  Handout #45 due Tuesday
 | 9-25 | Pre-algebra | Test | | 
 | 9-25 | ESL Science | Intro. to Electricity |  |  Test on Tuesday on Light
-| 9-26 | Physics |  | | 
-| 9-26 | Geometry B |  | |  |  
-| 9-26 | Pre-calculus |   | |  
-| 9-26 | Pre-algebra |  | | 
-| 9-26 | ESL Science |  |  |  
-| 9-27 | Physics |  | | 
+| 9-26 | Physics | Review multiple choice Q. on projectile motion; Begin Newton's Laws | | 
+| 9-26 | Geometry B | Circles; Activity with compass | |  |  
+| 9-26 | Pre-calculus | Trig.  | |  
+| 9-26 | Pre-algebra | 3-1 | | 
+| 9-26 | ESL Science | Test |  |  
+| 9-27 | Physics |  Newton's Laws | | 
 | 9-27 | Geometry B |  | |  |  
 | 9-27 | Pre-calculus |   | |  
 | 9-27 | Pre-algebra |  | | 
 | 9-27 | ESL Science |  |  |  
-| 9-28 | Physics |  | | 
+| 9-28 | Physics | Test on Chapter 3 | | 
 | 9-28 | Geometry B |  | |  |  
 | 9-28 | Pre-calculus |   | |  
 | 9-28 | Pre-algebra |  | | 
 | 9-28 | ESL Science |  |  |  
-| 9-29 | Physics |  | | 
+| 9-29 | Physics | Lab | | 
 | 9-29 | Geometry B |  | |  |  
 | 9-29 | Pre-calculus |   | |  
 | 9-29 | Pre-algebra |  | | 
