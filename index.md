@@ -10,7 +10,7 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 9-23 | Physics | Relative Motion, Finish lab | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; Multiple Choice up to #60 due tom; Chapter 3 test Thursday
-| 9-23 | Geometry B | 9-1 | | |  
+| 9-23 | Geometry B | 9-1 Formulas for Triangles and Quadrilaterals | | Handouts #40,41,42 |  
 | 9-23 | Pre-calculus | Test  | |  Handout #45 due Tuesday
 | 9-23 | Pre-algebra | Test | | 
 | 9-23 | ESL Science |  |  |  Test on Tuesday on Light
