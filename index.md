@@ -9,22 +9,22 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-26 | Physics | Review multiple choice Q. on projectile motion; Begin Newton's Laws | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; P. 124 #1,2 due tom.; Chapter 3 test Friday
+| 9-26 | Physics | Review multiple choice Q. on projectile motion; Forces & the Laws of Motion | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; P. 124 #1,2 due tom.; Chapter 3 test Friday
 | 9-26 | Geometry B | Circles; Estimating Pi | |  |  
 | 9-26 | Pre-calculus | Trig.  | |  
 | 9-26 | Pre-algebra | 3-1 | | 
 | 9-26 | ESL Science | Test |  |  
-| 9-27 | Physics | Forces & the Laws of Motion | |  Lab Reports on Reaction Time & Galileo's Ramp due Friday; P. 124 #1,2 due tom.; Chapter 3 test Friday
+| 9-27 | Physics | Newton's Laws | |  Lab Reports on Reaction Time & Galileo's Ramp due Friday; P. 124 #1,2 due tom.; Chapter 3 test Friday
 | 9-27 | Geometry B |  | |  |  
 | 9-27 | Pre-calculus |   | |  
 | 9-27 | Pre-algebra |  | | 
 | 9-27 | ESL Science |  |  |  
-| 9-28 | Physics | Test on Chapter 3 | | 
+| 9-28 | Physics | Lab | | 
 | 9-28 | Geometry B |  | |  |  
 | 9-28 | Pre-calculus |   | |  
 | 9-28 | Pre-algebra |  | | 
 | 9-28 | ESL Science |  |  |  
-| 9-29 | Physics | Lab | | 
+| 9-29 | Physics | Test on Chapter 3 | | 
 | 9-29 | Geometry B |  | |  |  
 | 9-29 | Pre-calculus |   | |  
 | 9-29 | Pre-algebra |  | | 
