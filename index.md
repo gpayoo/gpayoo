@@ -9,13 +9,8 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-25 | Physics | Relative Motion, Finish lab | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; Multiple Choice up to #60 due tom; Chapter 3 test Thursday
-| 9-25 | Geometry B | 9-1 Formulas for Triangles and Quadrilaterals | | Handouts #40,41,42 |  
-| 9-25 | Pre-calculus | Test  | |  Handout #45 due Tuesday
-| 9-25 | Pre-algebra | Test | | 
-| 9-25 | ESL Science | Intro. to Electricity |  |  Test on Tuesday on Light
-| 9-26 | Physics | Review multiple choice Q. on projectile motion; Begin Newton's Laws | | 
-| 9-26 | Geometry B | Circles; Activity with compass | |  |  
+| 9-26 | Physics | Review multiple choice Q. on projectile motion; Begin Newton's Laws | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; P. 124 #1,2 due tom.; Chapter 3 test Friday
+| 9-26 | Geometry B | Circles; Estimating Pi | |  |  
 | 9-26 | Pre-calculus | Trig.  | |  
 | 9-26 | Pre-algebra | 3-1 | | 
 | 9-26 | ESL Science | Test |  |  
@@ -39,6 +34,11 @@ layout: default
 # [](#header-2) Past Assignments
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 9-25 | Physics | Relative Motion, Finish lab | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; Multiple Choice up to #60 due tom; Chapter 3 test Thursday
+| 9-25 | Geometry B | 9-1 Formulas for Triangles and Quadrilaterals | | Handouts #40,41,42 |  
+| 9-25 | Pre-calculus | Test  | |  Handout #45 due Tuesday
+| 9-25 | Pre-algebra | Test | | 
+| 9-25 | ESL Science | Intro. to Electricity |  |  Test on Tuesday on Light
 | 9-22 | Physics | Lab on Galileo's Ramp | | Do lab report 
 | 9-22 | Geometry B | Test on Chapter 8 | | |  
 | 9-22 | Pre-calculus | Section 4-1; Intro. to Trig.  | |  Test on Monday on Chapter 1; Handout #45 due Tuesday
