@@ -12,7 +12,7 @@ layout: default
 | 9-26 | Physics | Review multiple choice Q. on projectile motion; Forces & the Laws of Motion | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; P. 124 #1,2 due tom.; Chapter 3 test Friday
 | 9-26 | Geometry B | Circles; Estimating Pi | |  |  
 | 9-26 | Pre-calculus | Trig.  | |  
-| 9-26 | Pre-algebra | 3-1 | | 
+| 9-26 | Pre-algebra | 3-1 Rounding and Estimating | | P. 129 #1a-f, P. 133 #47-50 
 | 9-26 | ESL Science | Test |  |  
 | 9-27 | Physics | Newton's Laws | |  Lab Reports on Reaction Time & Galileo's Ramp due Friday; P. 124 #1,2 due tom.; Chapter 3 test Friday
 | 9-27 | Geometry B |  | |  |  
