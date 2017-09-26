@@ -19,7 +19,7 @@ layout: default
 | 9-26 | Pre-calculus | Trig.  | |  
 | 9-26 | Pre-algebra | 3-1 | | 
 | 9-26 | ESL Science | Test |  |  
-| 9-27 | Physics |  Newton's Laws | | 
+| 9-27 | Physics | Forces & the Laws of Motion | |  Lab Reports on Reaction Time & Galileo's Ramp due Friday; P. 124 #1,2 due tom.; Chapter 3 test Thursday
 | 9-27 | Geometry B |  | |  |  
 | 9-27 | Pre-calculus |   | |  
 | 9-27 | Pre-algebra |  | | 
