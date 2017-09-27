@@ -12,7 +12,7 @@ layout: default
 | 9-27 | Physics | Newton's Laws | |  Lab Reports on Reaction Time & Galileo's Ramp due Friday; Chapter 3 test Friday, P. 132 Practice C due tom.; Pre-lab due tom.
 | 9-27 | Geometry B | Developing Formulas for Circles & Regular Polygons  | |  Handout #44|  
 | 9-27 | Pre-calculus |   | |  
-| 9-27 | Pre-algebra |  | | 
+| 9-27 | Pre-algebra | Practice Rounding Numbers | | 
 | 9-27 | ESL Science |  |  |  
 | 9-28 | Physics | Lab | | 
 | 9-28 | Geometry B |  | |  |  
