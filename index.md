@@ -9,12 +9,8 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-26 | Physics | Review multiple choice Q. on projectile motion; Forces & the Laws of Motion | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; P. 124 #1,2 due tom.; Chapter 3 test Friday
-| 9-26 | Geometry B | Circles; Activity on Estimating Pi | |  |  
-| 9-26 | Pre-calculus | Trig.  | | Handout #46 just parts I said; P. 366+ #1,9,11,19,25-29,33  
-| 9-26 | Pre-algebra | 3-1 Rounding and Estimating | | P. 129 #1a-f, P. 133 #47-50 
-| 9-26 | ESL Science | Test |  |  
-| 9-27 | Physics | Newton's Laws | |  Lab Reports on Reaction Time & Galileo's Ramp due Friday; P. 124 #1,2 due tom.; Chapter 3 test Friday
+
+| 9-27 | Physics | Newton's Laws | |  Lab Reports on Reaction Time & Galileo's Ramp due Friday; Chapter 3 test Friday, P. 132 Practice C due tom.; Pre-lab due tom.
 | 9-27 | Geometry B |  | |  |  
 | 9-27 | Pre-calculus |   | |  
 | 9-27 | Pre-algebra |  | | 
@@ -34,6 +30,11 @@ layout: default
 # [](#header-2) Past Assignments
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 9-26 | Physics | Review multiple choice Q. on projectile motion; Forces & the Laws of Motion | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; P. 124 #1,2 due tom.; Chapter 3 test Friday
+| 9-26 | Geometry B | Circles; Activity on Estimating Pi | |  |  
+| 9-26 | Pre-calculus | Trig.  | | Handout #46 just parts I said; P. 366+ #1,9,11,19,25-29,33  
+| 9-26 | Pre-algebra | 3-1 Rounding and Estimating | | P. 129 #1a-f, P. 133 #47-50 
+| 9-26 | ESL Science | Test |  |  
 | 9-25 | Physics | Relative Motion, Finish lab | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; Multiple Choice up to #60 due tom; Chapter 3 test Thursday
 | 9-25 | Geometry B | 9-1 Formulas for Triangles and Quadrilaterals | | Handouts #40,41,42 |  
 | 9-25 | Pre-calculus | Test  | |  Handout #45 due Tuesday
