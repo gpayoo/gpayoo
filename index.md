@@ -4,7 +4,7 @@ layout: default
 
 # [](#header-1) Class Schedule
 
-NOTE: You must bring your own calculator to class. Lack of a calculator means you can not participate in class activities requiring a calculator, and participation points will be deducted. Sharing of calculator is not permitted. Phone calculators are not permitted.
+NOTE: You must bring your own calculator to class. Lack of a calculator means you can not participate in class activities requiring a calculator, and participation points will be deducted. Sharing of calculators is not permitted. Phone calculators are not permitted.
 
 # [](#header-2) Current
 
