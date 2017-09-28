@@ -15,10 +15,10 @@ layout: default
 | 9-28 | Pre-algebra | 3-1 Front-end Estimation, Clustering | | P. 132 #9-23 
 | 9-28 | ESL Science | Electricity (continued) |  |  
 | 9-29 | Physics | Test on Chapter 3 | | 
-| 9-29 | Geometry B |  | |  |  
-| 9-29 | Pre-calculus |   | |  
-| 9-29 | Pre-algebra |  | | 
-| 9-29 | ESL Science |  |  |  
+| 9-29 | Geometry B | Activity  | |  |  
+| 9-29 | Pre-calculus |  Sine & Cosine Graphs | |  
+| 9-29 | Pre-algebra | 3-2 Estimating Decimal Products & Quotients | | 
+| 9-29 | ESL Science | Electricity (continued) |  |  
 
 
 # [](#header-2) Past Assignments
