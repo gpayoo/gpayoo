@@ -7,7 +7,6 @@ layout: default
 NOTE: You must bring your own calculator to class. Lack of a calculator means you can not participate in class activities requiring a calculator, and participation points will be deducted. Sharing of calculators is not permitted. Phone calculators are not permitted.
 
 # [](#header-2) Current
-
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 9-29 | Physics | Test on Chapter 3 | | 
