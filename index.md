@@ -4,16 +4,12 @@ layout: default
 
 # [](#header-1) Class Schedule
 
+NOTE: You must bring your own calculator to class. Lack of a calculator means you can not participate in class activities requiring a calculator, and participation points will be deducted. Sharing of calculator is not permitted. Phone calculators are not permitted.
 
 # [](#header-2) Current
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-28 | Physics | Lab | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; Chapter 3 test Friday
-| 9-28 | Geometry B | Composite Figures  | |  |  
-| 9-28 | Pre-calculus | Trig. Functions & Reference angles (continued)  | |  HW due Friday #46 to 49
-| 9-28 | Pre-algebra | 3-1 Front-end Estimation, Clustering | | P. 132 #9-23 
-| 9-28 | ESL Science | Electricity (continued) |  |  
 | 9-29 | Physics | Test on Chapter 3 | | 
 | 9-29 | Geometry B | Activity - Lattice Polygons  | |  |  
 | 9-29 | Pre-calculus |  Sine & Cosine Graphs | |  
@@ -24,6 +20,11 @@ layout: default
 # [](#header-2) Past Assignments
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 9-28 | Physics | Lab | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; Chapter 3 test Friday
+| 9-28 | Geometry B | Composite Figures  | |  |  
+| 9-28 | Pre-calculus | Trig. Functions & Reference angles (continued)  | |  HW due Friday #46 to 49
+| 9-28 | Pre-algebra | 3-1 Front-end Estimation, Clustering | | P. 132 #9-23 
+| 9-28 | ESL Science | Electricity (continued) |  |  
 | 9-27 | Physics | Newton's Laws | |  Lab Reports on Reaction Time & Galileo's Ramp due Friday; Chapter 3 test Friday, P. 132 Practice C due tom.; Pre-lab due tom.
 | 9-27 | Geometry B | Developing Formulas for Circles & Regular Polygons  | |  Handout #44|  
 | 9-27 | Pre-calculus | 4.3 Trig. functions of any angle   | | HW due Friday #46 to 49  
