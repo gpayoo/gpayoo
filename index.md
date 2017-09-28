@@ -10,10 +10,10 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 9-28 | Physics | Lab | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; Chapter 3 test Friday
-| 9-28 | Geometry B | Composite Figures  | |  |  HW due Friday #46 to 49
-| 9-28 | Pre-calculus |   | |  
+| 9-28 | Geometry B | Composite Figures  | |  |  
+| 9-28 | Pre-calculus | Trig. Functions & Reference angles (continued)  | |  HW due Friday #46 to 49
 | 9-28 | Pre-algebra | 3-1 Front-end Estimation, Clustering | | P. 132 #9-23 
-| 9-28 | ESL Science |  |  |  
+| 9-28 | ESL Science | Electricity (continued) |  |  
 | 9-29 | Physics | Test on Chapter 3 | | 
 | 9-29 | Geometry B |  | |  |  
 | 9-29 | Pre-calculus |   | |  
