@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-NOTE: You must bring your own calculator to class. Lack of a calculator means you can not participate in class activities requiring a calculator, and participation points will be deducted. Sharing of calculators is not permitted. Phone calculators are not permitted.
+
 
 # [](#header-1) Class Schedule
 
@@ -9,7 +9,7 @@ NOTE: You must bring your own calculator to class. Lack of a calculator means yo
 # [](#header-2) Current
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 9-29 | Physics | Test on Chapter 3 | | 
+| 9-29 | Physics | Test on Chapter 3 | |  NOTE: You must bring your own calculator to class. Lack of a calculator means you can not participate in class activities requiring a calculator, and participation points will be deducted. Sharing of calculators is not permitted. Phone calculators are not permitted.
 | 9-29 | Geometry B | Activity - Lattice Polygons  | |  |  
 | 9-29 | Pre-calculus |  Sine & Cosine Graphs | |  
 | 9-29 | Pre-algebra | 3-2 Estimating Decimal Products & Quotients | | 
