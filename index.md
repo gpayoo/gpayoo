@@ -7,6 +7,7 @@ layout: default
 
 
 # [](#header-2) Current
+
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 9-29 | Physics | Test on Chapter 3 | |  NOTE: You must bring your own calculator to class. Lack of a calculator means you can not participate in class activities requiring a calculator, and participation points will be deducted. Sharing of calculators is not permitted. Phone calculators are not permitted.
@@ -17,6 +18,7 @@ layout: default
 
 
 # [](#header-2) Past Assignments
+
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 9-28 | Physics | Lab | | Lab Reports on Reaction Time & Galileo's Ramp due Friday; Chapter 3 test Friday
