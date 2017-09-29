@@ -12,9 +12,14 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 9-29 | Physics | Test on Chapter 3 | |  NOTE: You must bring your own calculator to class. Lack of a calculator means you can not participate in class activities requiring a calculator, and participation points will be deducted. Sharing of calculators is not permitted. Phone calculators are not permitted.
 | 9-29 | Geometry B | Activity - Lattice Polygons  | |  |  
-| 9-29 | Pre-calculus |  Sine & Cosine Graphs | |  
+| 9-29 | Pre-calculus | Math Puzzle/activity | |  
 | 9-29 | Pre-algebra | 3-2 Estimating Decimal Products & Quotients | | 
 | 9-29 | ESL Science | Electricity (continued) |  |  
+| 10-9 | Physics |  | |  NOTE: You must bring your own calculator to class. Lack of a calculator means you can not participate in class activities requiring a calculator, and participation points will be deducted. Sharing of calculators is not permitted. Phone calculators are not permitted.
+| 10-9 | Geometry B |   | |  |  
+| 10-9 | Pre-calculus | | |  
+| 10-9 | Pre-algebra | 3-3  | | 
+| 10-9 | ESL Science | |  |  
 
 
 # [](#header-2) Past Assignments
