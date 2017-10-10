@@ -13,7 +13,7 @@ layout: default
 | 10-10 | Physics |  Using Excel to create a trendline| |  
 | 10-10 | Geometry B |  9-4 Perimeter and Area in the Coordinate Plane | | #46 #1-6 |  
 | 10-10 | Pre-calculus | | |  
-| 10-10 | Pre-algebra | 3-3 Mean, Median, Mode| | p. 142 #1,3,5,6,8,10,12
+| 10-10 | Pre-algebra | 3-3 Mean, Median, Mode| | p. 142 #1,3,5,6,8,10,12 and finish handout #38
 | 10-10 | ESL Science | |  |  
 | 10-11 | Physics | PSAT | |  
 | 10-11 | Geometry B |  PSAT | |  |  
