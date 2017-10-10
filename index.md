@@ -14,7 +14,7 @@ layout: default
 | 10-10 | Geometry B |  9-4 Perimeter and Area in the Coordinate Plane | | #46 #1-6 |  
 | 10-10 | Pre-calculus | Graphing sin x and cos x | |  Quiz on Thurs. on Section 4.3 #1-48 ; No calculator
 | 10-10 | Pre-algebra | 3-3 Mean, Median, Mode| | p. 142 #1,3,5,6,8,10,12 and finish handout #38
-| 10-10 | ESL Science | |  |  
+| 10-10 | ESL Science | Electricity - Workbook pages 277-8, 280|  |  
 | 10-11 | Physics | PSAT | |  
 | 10-11 | Geometry B |  PSAT | |  |  
 | 10-11 | Pre-calculus | PSAT | |  
