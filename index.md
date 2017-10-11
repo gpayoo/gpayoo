@@ -15,11 +15,11 @@ layout: default
 | 10-11 | Pre-calculus | PSAT | | Quiz on Thurs. on Section 4.3 #1-48 ; No calculator 
 | 10-11 | Pre-algebra | 3-4 Formulas | | Page 148 ALL (top, middle, bottom) 
 | 10-11 | ESL Science | Review for test |  | Test tom. on Electricity  
-| 10-12 | Physics |  | |  
+| 10-12 | Physics | Newton's Laws - Inclined Plane | |  
 | 10-12 | Geometry B |   | |  |  
-| 10-12 | Pre-calculus | | |  
+| 10-12 | Pre-calculus | HW Quiz| |  
 | 10-12 | Pre-algebra |  | | 
-| 10-12 | ESL Science | |  |  
+| 10-12 | ESL Science | Test on Electricity|  |  
 | 10-13 | Physics |  | |  
 | 10-13 | Geometry B |   | |  |  
 | 10-13 | Pre-calculus | | |  
