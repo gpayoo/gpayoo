@@ -10,16 +10,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 10-10 | Physics |  Using Excel to create a trendline| |  
-| 10-10 | Geometry B |  9-4 Perimeter and Area in the Coordinate Plane | | #46 #1-6 |  
-| 10-10 | Pre-calculus | Graphing sin x and cos x | |  Quiz on Thurs. on Section 4.3 #1-48 ; No calculator
-| 10-10 | Pre-algebra | 3-3 Mean, Median, Mode| | p. 142 #1,3,5,6,8,10,12 and finish handout #38
-| 10-10 | ESL Science | Electricity - Workbook pages 277-8|  | Workbook p. 280; Test on Thursday 
 | 10-11 | Physics | PSAT | | 
 | 10-11 | Geometry B |  PSAT | |  |  
 | 10-11 | Pre-calculus | PSAT | |  
-| 10-11 | Pre-algebra | PSAT | | 
-| 10-11 | ESL Science | PSAT |  |  
+| 10-11 | Pre-algebra | 3-4 Formulas | | Page 148 ALL (top, middle, bottom) 
+| 10-11 | ESL Science | Review for test |  | Test tom. on Electricity  
 | 10-12 | Physics |  | |  
 | 10-12 | Geometry B |   | |  |  
 | 10-12 | Pre-calculus | | |  
@@ -35,6 +30,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 10-10 | Physics |  Using Excel to create a trendline| |  
+| 10-10 | Geometry B |  9-4 Perimeter and Area in the Coordinate Plane | | #46 #1-6 |  
+| 10-10 | Pre-calculus | Graphing sin x and cos x | |  Quiz on Thurs. on Section 4.3 #1-48 ; No calculator
+| 10-10 | Pre-algebra | 3-3 Mean, Median, Mode| | p. 142 #1,3,5,6,8,10,12 and finish handout #38
+| 10-10 | ESL Science | Electricity - Workbook pages 277-8|  | Workbook p. 280; Test on Thursday 
 | 9-29 | Physics | Test on Chapter 3 | |  NOTE: You must bring your own calculator to class. Lack of a calculator means you can not participate in class activities requiring a calculator, and participation points will be deducted. Sharing of calculators is not permitted. Phone calculators are not permitted.
 | 9-29 | Geometry B | Activity - Lattice Polygons  | |  |  
 | 9-29 | Pre-calculus | Math Puzzle/activity | | Quiz on 10/12 or 10/13 on Section 4.3 #1-48 
