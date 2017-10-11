@@ -13,7 +13,7 @@ layout: default
 | 10-11 | Physics | PSAT | | 
 | 10-11 | Geometry B |  PSAT | |  Handout #46 #1-6|  
 | 10-11 | Pre-calculus | PSAT | | Quiz on Thurs. on Section 4.3 #1-48 ; No calculator 
-| 10-11 | Pre-algebra | 3-4 Formulas | | Page 148 ALL (top, middle, bottom) 
+| 10-11 | Pre-algebra | 3-4 Formulas, Textbook P. 147 #1-22 | | Page 148 #23-33
 | 10-11 | ESL Science | Review for test |  | Test tom. on Electricity  
 | 10-12 | Physics | Newton's Laws - Inclined Plane | |  
 | 10-12 | Geometry B |   | |  |  
