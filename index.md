@@ -12,12 +12,12 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 10-12 | Physics | Newton's Laws: Mass vs. Weight; Mass on an Inclined Plane | | Handout on mass/weight; Textbook P. 128 #1-3; Lab Report due Monday 
 | 10-12 | Geometry B | Changing Dimensions Proportionally  | |  Handouts #47,48; Test Wed|  
-| 10-12 | Pre-calculus | HW Quiz, Transformations of Sine & Cosine Graphs| |  
+| 10-12 | Pre-calculus | HW Quiz, Transformations of Sine & Cosine Graphs| |  Handouts #50,51
 | 10-12 | Pre-algebra | 3-5 Solving Equations with Decimals | | Handout #39 ALL; Handout #40 odd only; Quiz on Tues.; Sections 3-1, 3-2 and 3-4 
 | 10-12 | ESL Science | Test on Electricity|  |  
 | 10-13 | Physics |  | |  
 | 10-13 | Geometry B |   | |  |  
-| 10-13 | Pre-calculus | More practice on transformations of Sine & Cosine graphs | | Handouts #50,51  
+| 10-13 | Pre-calculus | More practice on transformations of Sine & Cosine graphs | | 
 | 10-13 | Pre-algebra |  | | 
 | 10-13 | ESL Science | |  |  
 
