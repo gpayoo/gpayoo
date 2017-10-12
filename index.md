@@ -12,7 +12,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 10-12 | Physics | Newton's Laws: Mass vs. Weight; Mass on an Inclined Plane | | Handout on mass/weight; Textbook P. 128 #1-3; Lab Report due Monday 
 | 10-12 | Geometry B |   | |  |  
-| 10-12 | Pre-calculus | HW Quiz, Transf. of Sine & Cosine Graphs| |  
+| 10-12 | Pre-calculus | HW Quiz, Transformations of Sine & Cosine Graphs| |  
 | 10-12 | Pre-algebra |  | | 
 | 10-12 | ESL Science | Test on Electricity|  |  
 | 10-13 | Physics |  | |  
