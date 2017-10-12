@@ -15,10 +15,10 @@ layout: default
 | 10-12 | Pre-calculus | HW Quiz, Transformations of Sine & Cosine Graphs| |  Handouts #50,51
 | 10-12 | Pre-algebra | 3-5 Solving Equations with Decimals | | Handout #39 ALL; Handout #40 odd only; Quiz on Tues.; Sections 3-1, 3-2 and 3-4 
 | 10-12 | ESL Science | Test on Electricity|  |  
-| 10-13 | Physics |  | |  
-| 10-13 | Geometry B |   | |  |  
+| 10-13 | Physics | Friction | | Lab due on Monday  
+| 10-13 | Geometry B |   | |  Test on Wed. |  
 | 10-13 | Pre-calculus | More practice on transformations of Sine & Cosine graphs | | 
-| 10-13 | Pre-algebra |  | | 
+| 10-13 | Pre-algebra |  | | Quiz on Tues.; Sections 3-1, 3-2 and 3-4 
 | 10-13 | ESL Science | |  |  
 
 # [](#header-2) Past Assignments
