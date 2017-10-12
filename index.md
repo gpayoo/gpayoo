@@ -17,7 +17,7 @@ layout: default
 | 10-12 | ESL Science | Test on Electricity|  |  
 | 10-13 | Physics |  | |  
 | 10-13 | Geometry B |   | |  |  
-| 10-13 | Pre-calculus | More practice on transformations of Sine & Cosine graphs | |  
+| 10-13 | Pre-calculus | More practice on transformations of Sine & Cosine graphs | | Handouts #50,51  
 | 10-13 | Pre-algebra |  | | 
 | 10-13 | ESL Science | |  |  
 
