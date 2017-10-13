@@ -10,12 +10,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 10-12 | Physics | Newton's Laws: Mass vs. Weight; Mass on an Inclined Plane | | Handout on mass/weight; Textbook P. 128 #1-3; Lab Report due Monday 
-| 10-12 | Geometry B | Changing Dimensions Proportionally  | |  Handouts #47,48; Test Wed|  
-| 10-12 | Pre-calculus | HW Quiz, Transformations of Sine & Cosine Graphs| |  Handouts #50,51
-| 10-12 | Pre-algebra | 3-5 Solving Equations with Decimals | | Handout #39 ALL; Handout #40 odd only; Quiz on Tues.; Sections 3-1, 3-2 and 3-4 
-| 10-12 | ESL Science | Test on Electricity|  |  
-| 10-13 | Physics | Friction | | Lab due on Monday  
+| 10-13 | Physics | Friction | | Lab due on Monday; P. 139 #1-3, P. 141 #1  
 | 10-13 | Geometry B | Geometric Probab.  | |  Test on Wed. |  
 | 10-13 | Pre-calculus | More practice on transformations of Sine & Cosine graphs | | 
 | 10-13 | Pre-algebra | 3-6 Solving Equations with Decimals  | | Quiz on Tues.; Sections 3-1, 3-2 and 3-4 
@@ -25,6 +20,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 10-12 | Physics | Newton's Laws: Mass vs. Weight; Mass on an Inclined Plane | | Handout on mass/weight; Textbook P. 128 #1-3; Lab Report due Monday 
+| 10-12 | Geometry B | Changing Dimensions Proportionally  | |  Handouts #47,48; Test Wed|  
+| 10-12 | Pre-calculus | HW Quiz, Transformations of Sine & Cosine Graphs| |  Handouts #50,51
+| 10-12 | Pre-algebra | 3-5 Solving Equations with Decimals | | Handout #39 ALL; Handout #40 odd only; Quiz on Tues.; Sections 3-1, 3-2 and 3-4 
+| 10-12 | ESL Science | Test on Electricity|  |  
 | 10-11 | Physics | PSAT | | 
 | 10-11 | Geometry B |  PSAT | |  Handout #46 #1-6|  
 | 10-11 | Pre-calculus | PSAT | | Quiz on Thurs. on Section 4.3 #1-48 ; No calculator 
