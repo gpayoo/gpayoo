@@ -12,7 +12,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 10-13 | Physics | Friction | | Lab due on Monday; P. 139 #1-3, P. 141 #1  
 | 10-13 | Geometry B | Geometric Probab.  | |  Test on Wed. |  Handout #49
-| 10-13 | Pre-calculus | More practice on transformations of Sine & Cosine graphs | | 
+| 10-13 | Pre-calculus | More practice on transformations of Sine & Cosine graphs | | Handout #52,53,54; HW Quiz Section 4.4 #1-52; Regular quiz next week possibly Fri.
 | 10-13 | Pre-algebra | 3-6 Solving Equations with Decimals  | | Quiz on Tues.; Sections 3-1, 3-3 and 3-4 
 | 10-13 | ESL Science | Magnetism |  |  
 
