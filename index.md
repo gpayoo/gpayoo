@@ -10,16 +10,26 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 10-13 | Physics | Friction | | Lab due on Monday; P. 139 #1-3, P. 141 #1  
-| 10-13 | Geometry B | Geometric Probab.  | |  Test on Wed. |  Handout #49
-| 10-13 | Pre-calculus | More practice on transformations of Sine & Cosine graphs | | Handout #52,53,54; HW Quiz Section 4.4 #1-52; Regular quiz next week possibly Fri.
-| 10-13 | Pre-algebra | 3-6 Solving Equations with Decimals  | | Quiz on Tues.; Sections 3-1, 3-3 and 3-4 
-| 10-13 | ESL Science | Magnetism |  |  
+| 10-16 | Physics | Friction | | 
+| 10-16 | Geometry B | Review  | |  Test on Wed. |  
+| 10-16 | Pre-calculus | More practice on transformations of Sine & Cosine graphs | |  HW Quiz Section 4.4 #1-52
+| 10-16 | Pre-algebra | Review  | | Quiz on Tues.; Sections 3-1, 3-3 and 3-4 
+| 10-16 | ESL Science | Magnetism |  |  
+| 10-17 | Physics |  | | 
+| 10-17 | Geometry B |   | |   |  
+| 10-17 | Pre-calculus |  | |  
+| 10-17 | Pre-algebra |   | | 
+| 10-17 | ESL Science | Magnetism |  |  
 
 # [](#header-2) Past Assignments
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 10-13 | Physics | Friction | | Lab due on Monday; P. 139 #1-3, P. 141 #1  
+| 10-13 | Geometry B | Geometric Probab.  | |  Test on Wed. |  Handout #49
+| 10-13 | Pre-calculus | More practice on transformations of Sine & Cosine graphs | | Handout #52,53,54; HW Quiz Section 4.4 #1-52; Regular quiz next week possibly Fri.
+| 10-13 | Pre-algebra | 3-6 Solving Equations with Decimals  | | Quiz on Tues.; Sections 3-1, 3-3 and 3-4 
+| 10-13 | ESL Science | Magnetism |  |  
 | 10-12 | Physics | Newton's Laws: Mass vs. Weight; Mass on an Inclined Plane | | Handout on mass/weight; Textbook P. 128 #1-3; Lab Report due Monday 
 | 10-12 | Geometry B | Changing Dimensions Proportionally  | |  Handouts #47,48; Test Wed|  
 | 10-12 | Pre-calculus | HW Quiz, Transformations of Sine & Cosine Graphs| |  Handouts #50,51
