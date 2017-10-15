@@ -20,6 +20,21 @@ layout: default
 | 10-17 | Pre-calculus |  | |  
 | 10-17 | Pre-algebra |   | | 
 | 10-17 | ESL Science | Magnetism |  |  
+| 10-18 | Physics |  | | 
+| 10-18 | Geometry B |   | |   |  
+| 10-18 | Pre-calculus |  | |  
+| 10-18 | Pre-algebra |   | | 
+| 10-18 | ESL Science | Magnetism |  |  
+| 10-19 | Physics |  | | 
+| 10-19 | Geometry B |   | |   |  
+| 10-19 | Pre-calculus |  | |  
+| 10-19 | Pre-algebra |   | | 
+| 10-19 | ESL Science | Magnetism |  |  
+| 10-20 | Physics |  | | 
+| 10-20 | Geometry B |   | |   |  
+| 10-20 | Pre-calculus |  | |  
+| 10-20 | Pre-algebra |   | | 
+| 10-20 | ESL Science | Magnetism |  |  
 
 # [](#header-2) Past Assignments
 
