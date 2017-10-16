@@ -14,7 +14,7 @@ layout: default
 | 10-16 | Geometry B | Review for test  | |  Handouts #50, 51; Ch.9 Test on Wed. |  
 | 10-16 | Pre-calculus | Review | |  HW Quiz Section 4.4 #1-52 tomorrow; Regular full quiz on Friday on Sections 4.1 to 4.5; HW due Thursday is P. 439 #1-60
 | 10-16 | Pre-algebra | Review for Quiz; 3.7 Metric System | | Quiz on Tues.; Sections 3-1, 3-3 and 3-4 ; P. 161 #1-18
-| 10-16 | ESL Science | Magnetism |  |  
+| 10-16 | ESL Science | Magnetism |  |  Read pages 586-7, Do P. 587 Write About It - need at least 10 sentences; Test next week on Magnetism
 | 10-17 | Physics |  | | Finish multiple choice questions - Skip #68,70
 | 10-17 | Geometry B |   | |   |  
 | 10-17 | Pre-calculus |  | |  
