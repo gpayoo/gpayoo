@@ -10,15 +10,10 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 10-16 | Physics | Mass-Pulley System | | Do Multiple Choice #1-25; Skip any prob. on circular motion (to be covered later)
-| 10-16 | Geometry B | Review for test  | |  Handouts #50, 51; Ch.9 Test on Wed. |  
-| 10-16 | Pre-calculus | Review | |  HW Quiz Section 4.4 #1-52 tomorrow; Regular full quiz on Friday on Sections 4.1 to 4.5; HW due Thursday is P. 439 #1-60
-| 10-16 | Pre-algebra | Review for Quiz; 3.7 Metric System | | Quiz on Tues.; Sections 3-1, 3-3 and 3-4 ; P. 161 #1-18
-| 10-16 | ESL Science | Magnetism |  |  Read pages 586-7, Do P. 587 Write About It - need at least 10 sentences; Test next week on Magnetism
-| 10-17 | Physics |  | | Finish multiple choice questions - Skip #68,70
-| 10-17 | Geometry B |   | |   |  
-| 10-17 | Pre-calculus |  | |  
-| 10-17 | Pre-algebra |   | | 
+| 10-17 | Physics | Review | | Finish multiple choice questions - Skip #68,70; Test Friday
+| 10-17 | Geometry B |  Review, 10-2 Solid Geometry | |   |  
+| 10-17 | Pre-calculus | HW Quiz, Tangent & Contangent Graphs | |  
+| 10-17 | Pre-algebra |  Quiz | | 
 | 10-17 | ESL Science | Magnetism |  |  
 | 10-18 | Physics |  | | 
 | 10-18 | Geometry B |   | |   |  
@@ -40,6 +35,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 10-16 | Physics | Mass-Pulley System | | Do Multiple Choice #1-25; Skip any prob. on circular motion (to be covered later)
+| 10-16 | Geometry B | Review for test  | |  Handouts #50, 51; Ch.9 Test on Wed. |  
+| 10-16 | Pre-calculus | Review | |  HW Quiz Section 4.4 #1-52 tomorrow; Regular full quiz on Friday on Sections 4.1 to 4.5; HW due Thursday is P. 439 #1-60
+| 10-16 | Pre-algebra | Review for Quiz; 3.7 Metric System | | Quiz on Tues.; Sections 3-1, 3-3 and 3-4 ; P. 161 #1-18
+| 10-16 | ESL Science | Magnetism |  |  Read pages 586-7, Do P. 587 Write About It - need at least 10 sentences; Test next week on Magnetism
 | 10-13 | Physics | Friction | | Lab due on Monday; P. 139 #1-3, P. 141 #1  
 | 10-13 | Geometry B | Geometric Probab.  | |  Test on Wed. |  Handout #49
 | 10-13 | Pre-calculus | More practice on transformations of Sine & Cosine graphs | | Handout #52,53,54; HW Quiz Section 4.4 #1-52; Regular quiz next week possibly Fri.
