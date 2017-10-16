@@ -13,7 +13,7 @@ layout: default
 | 10-16 | Physics | Mass-Pulley System | | Do Multiple Choice #1-25; Skip any prob. on circular motion (to be covered later)
 | 10-16 | Geometry B | Review for test  | |  Handouts #50, 51; Ch.9 Test on Wed. |  
 | 10-16 | Pre-calculus | More practice on transformations of Sine & Cosine graphs | |  HW Quiz Section 4.4 #1-52
-| 10-16 | Pre-algebra | Review  | | Quiz on Tues.; Sections 3-1, 3-3 and 3-4 
+| 10-16 | Pre-algebra | Review for Quiz; 3.7 Metric System | | Quiz on Tues.; Sections 3-1, 3-3 and 3-4 ; P. 161 #1-18
 | 10-16 | ESL Science | Magnetism |  |  
 | 10-17 | Physics |  | | Finish multiple choice questions - Skip #68,70
 | 10-17 | Geometry B |   | |   |  
