@@ -12,22 +12,22 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 10-17 | Physics | Review | | Finish multiple choice questions - Skip #68,70; Test Friday
 | 10-17 | Geometry B |  Review, 10-2 Solid Geometry | |   |  
-| 10-17 | Pre-calculus | HW Quiz, Tangent & Contangent Graphs | |  
+| 10-17 | Pre-calculus | HW Quiz, Tangent & Contangent Graphs | | P. 439 #1-60 due Thurs. 
 | 10-17 | Pre-algebra |  Quiz | | 
 | 10-17 | ESL Science | Magnetism |  |  
-| 10-18 | Physics |  | | 
-| 10-18 | Geometry B |   | |   |  
-| 10-18 | Pre-calculus |  | |  
+| 10-18 | Physics | Review; Work| | 
+| 10-18 | Geometry B | Test   | |   |  
+| 10-18 | Pre-calculus | Secant, Cosecant Graphs | |  
 | 10-18 | Pre-algebra |   | | 
 | 10-18 | ESL Science | Magnetism |  |  
 | 10-19 | Physics |  | | 
 | 10-19 | Geometry B |   | |   |  
-| 10-19 | Pre-calculus |  | |  
+| 10-19 | Pre-calculus | Review  | |  
 | 10-19 | Pre-algebra |   | | 
 | 10-19 | ESL Science | Magnetism |  |  
-| 10-20 | Physics |  | | 
+| 10-20 | Physics | Test  | | 
 | 10-20 | Geometry B |   | |   |  
-| 10-20 | Pre-calculus |  | |  
+| 10-20 | Pre-calculus | Quiz | |  
 | 10-20 | Pre-algebra |   | | 
 | 10-20 | ESL Science | Magnetism |  |  
 
