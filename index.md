@@ -10,12 +10,12 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 10-17 | Physics | Review | | Finish multiple choice questions - Skip #68,70; Test Friday
+| 10-17 | Physics | Review MC; Work | | Finish multiple choice questions - Skip #68,70; Test Friday on Chapter 4 only
 | 10-17 | Geometry B |  Review, 10-2 Solid Geometry | |   |  
 | 10-17 | Pre-calculus | HW Quiz, Tangent & Contangent Graphs | | P. 439 #1-60 due Thurs. 
 | 10-17 | Pre-algebra |  Quiz | | 
 | 10-17 | ESL Science | Magnetism |  |  
-| 10-18 | Physics | Review; Work| | 
+| 10-18 | Physics | Review MC: Kinetic Energy| | 
 | 10-18 | Geometry B | Test   | |   |  
 | 10-18 | Pre-calculus | Secant, Cosecant Graphs | |  
 | 10-18 | Pre-algebra |   | | 
