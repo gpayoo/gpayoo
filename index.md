@@ -13,9 +13,9 @@ layout: default
 | 10-17 | Physics | Review MC; Work | | Finish multiple choice questions - Skip #68,70; Test Friday on Chapter 4 only
 | 10-17 | Geometry B |  Review | |  Test tomorrow! |  
 | 10-17 | Pre-calculus | HW Quiz, Tangent & Contangent Graphs | | P. 439 #1-60 due Thurs. 
-| 10-17 | Pre-algebra |  Quiz | | Practice 3-7 "Using the Metric System" 
+| 10-17 | Pre-algebra |  Quiz | | Handout with title Practice 3-7 "Using the Metric System" 
 | 10-17 | ESL Science | Magnetism |  |  
-| 10-18 | Physics | Review MC: Kinetic Energy| | 
+| 10-18 | Physics | Review MC; Kinetic Energy| | 
 | 10-18 | Geometry B | Test   | |   |  
 | 10-18 | Pre-calculus | Secant, Cosecant Graphs | |  
 | 10-18 | Pre-algebra |   | | 
@@ -29,7 +29,7 @@ layout: default
 | 10-20 | Geometry B |   | |   |  
 | 10-20 | Pre-calculus | Quiz | |  
 | 10-20 | Pre-algebra |   | | 
-| 10-20 | ESL Science | Magnetism |  |  
+| 10-20 | ESL Science | Magnetism |  | Test on Magnetism on Monday 
 
 # [](#header-2) Past Assignments
 
