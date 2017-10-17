@@ -10,12 +10,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 10-17 | Physics | Review MC; Work | | Finish multiple choice questions - Skip #68,70; Test Friday on Chapter 4 only
-| 10-17 | Geometry B |  Review | |  Test tomorrow! |  
-| 10-17 | Pre-calculus | HW Quiz, Tangent & Contangent Graphs | | P. 439 #1-60 due Thurs. ; Handouts #55,56, 57 due Thurs.
-| 10-17 | Pre-algebra |  Quiz | | Handout with title Practice 3-7 "Using the Metric System" 
-| 10-17 | ESL Science | Magnetism - Drawing Magnetic Field Lines|  |  Read & Answer Questions on Magnetic Field Reversals
-| 10-18 | Physics | Review MC; Kinetic Energy| | 
+| 10-18 | Physics | Review MC; Kinetic Energy & Work-KE Theorem| | 
 | 10-18 | Geometry B | Test   | |   |  
 | 10-18 | Pre-calculus | Secant, Cosecant Graphs | |  
 | 10-18 | Pre-algebra |   | | 
@@ -35,6 +30,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 10-17 | Physics | Review MC; Work | | Finish multiple choice questions - Skip #68,70; Test Friday on Chapter 4 only
+| 10-17 | Geometry B |  Review | |  Test tomorrow! |  
+| 10-17 | Pre-calculus | HW Quiz, Tangent & Contangent Graphs | | P. 439 #1-60 due Thurs. ; Handouts #55,56, 57 due Thurs.
+| 10-17 | Pre-algebra |  Quiz | | Handout with title Practice 3-7 "Using the Metric System" 
+| 10-17 | ESL Science | Magnetism - Drawing Magnetic Field Lines|  |  Read & Answer Questions on Magnetic Field Reversals
 | 10-16 | Physics | Mass-Pulley System | | Do Multiple Choice #1-25; Skip any prob. on circular motion (to be covered later)
 | 10-16 | Geometry B | Review for test  | |  Handouts #50, 51; Ch.9 Test on Wed. |  
 | 10-16 | Pre-calculus | Review | |  HW Quiz Section 4.4 #1-52 tomorrow; Regular full quiz on Friday on Sections 4.1 to 4.5; HW due Thursday is P. 439 #1-60
