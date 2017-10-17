@@ -12,7 +12,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 10-17 | Physics | Review MC; Work | | Finish multiple choice questions - Skip #68,70; Test Friday on Chapter 4 only
 | 10-17 | Geometry B |  Review | |  Test tomorrow! |  
-| 10-17 | Pre-calculus | HW Quiz, Tangent & Contangent Graphs | | P. 439 #1-60 due Thurs. 
+| 10-17 | Pre-calculus | HW Quiz, Tangent & Contangent Graphs | | P. 439 #1-60 due Thurs. ; Handouts #55,56, 57 due Thurs.
 | 10-17 | Pre-algebra |  Quiz | | Handout with title Practice 3-7 "Using the Metric System" 
 | 10-17 | ESL Science | Magnetism |  |  
 | 10-18 | Physics | Review MC; Kinetic Energy| | 
