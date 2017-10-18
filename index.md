@@ -14,7 +14,7 @@ layout: default
 | 10-18 | Geometry B | Test   | |   |  
 | 10-18 | Pre-calculus | Secant, Cosecant Graphs | |  
 | 10-18 | Pre-algebra | 3-8 Act It Out (Problem-Solving)  | | P. 168 #11, P. 175 #1-9 
-| 10-18 | ESL Science | Magnetism|  |  
+| 10-18 | ESL Science | Magnetism |  | Handout on what makes a material magnet; On Fri. due P. 585 Health Link: 20 sentences
 | 10-19 | Physics | Potential Energy | | 
 | 10-19 | Geometry B | 10-1  | |   |  
 | 10-19 | Pre-calculus | Review  | |  
