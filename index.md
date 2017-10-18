@@ -13,7 +13,7 @@ layout: default
 | 10-18 | Physics | Review MC; Kinetic Energy & Work-KE Theorem| | Test Fri.; Textbook P. 162 Practice A all, P. 166 Practice B all, P. 168 Practice C #1,2
 | 10-18 | Geometry B | Test   | |   |  
 | 10-18 | Pre-calculus | Secant, Cosecant Graphs | |  
-| 10-18 | Pre-algebra |   | | 
+| 10-18 | Pre-algebra | 3-8 Act It Out (Problem-Solving)  | | P. 168 #11, P. 175 #1-9 
 | 10-18 | ESL Science | Magnetism|  |  
 | 10-19 | Physics | Potential Energy | | 
 | 10-19 | Geometry B | 10-1  | |   |  
