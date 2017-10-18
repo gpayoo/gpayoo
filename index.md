@@ -10,7 +10,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 10-18 | Physics | Review MC; Kinetic Energy & Work-KE Theorem| | 
+| 10-18 | Physics | Review MC; Kinetic Energy & Work-KE Theorem| | Test Fri.; Textbook P. 162 Practice A all, P. 166 Practice B all, P. 168 Practice C #1,2
 | 10-18 | Geometry B | Test   | |   |  
 | 10-18 | Pre-calculus | Secant, Cosecant Graphs | |  
 | 10-18 | Pre-algebra |   | | 
