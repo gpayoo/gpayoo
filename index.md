@@ -15,8 +15,8 @@ layout: default
 | 10-18 | Pre-calculus | Secant, Cosecant Graphs | |  
 | 10-18 | Pre-algebra |   | | 
 | 10-18 | ESL Science | Magnetism|  |  
-| 10-19 | Physics |  | | 
-| 10-19 | Geometry B |   | |   |  
+| 10-19 | Physics | Potential Energy | | 
+| 10-19 | Geometry B | 10-1  | |   |  
 | 10-19 | Pre-calculus | Review  | |  
 | 10-19 | Pre-algebra |   | | 
 | 10-19 | ESL Science | Magnetism |  |  
