@@ -12,14 +12,14 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 10-19 | Physics | Potential Energy | | Test tom.
 | 10-19 | Geometry B | 10-1  | |   |  
-| 10-19 | Pre-calculus | Review  | |  
-| 10-19 | Pre-algebra |   | | 
+| 10-19 | Pre-calculus | Review  | |  Quiz tom.
+| 10-19 | Pre-algebra |   | | Chapter test on Wed.
 | 10-19 | ESL Science | Magnetism |  |  
 | 10-20 | Physics | Test  | | 
 | 10-20 | Geometry B |   | |   |  
-| 10-20 | Pre-calculus | Quiz | |  
+| 10-20 | Pre-calculus | Quiz | | 
 | 10-20 | Pre-algebra |   | | 
-| 10-20 | ESL Science | Magnetism |  | Test on Magnetism on Monday 
+| 10-20 | ESL Science | Magnetism |  | Test on Magnetism on Wed.
 
 # [](#header-2) Past Assignments
 
