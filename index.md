@@ -10,12 +10,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 10-18 | Physics | Review MC; Kinetic Energy & Work-KE Theorem| | Test Fri.; Textbook P. 162 Practice A all, P. 166 Practice B all, P. 168 Practice C #1,2
-| 10-18 | Geometry B | Test   | |   |  
-| 10-18 | Pre-calculus | Secant, Cosecant Graphs | |  
-| 10-18 | Pre-algebra | 3-8 Act It Out (Problem-Solving)  | | P. 168 #11, P. 175 #1-9 
-| 10-18 | ESL Science | Magnetism |  | Handout on what makes a material magnet; On Fri. due P. 585 Health Link: 20 sentences
-| 10-19 | Physics | Potential Energy | | 
+| 10-19 | Physics | Potential Energy | | Test tom.
 | 10-19 | Geometry B | 10-1  | |   |  
 | 10-19 | Pre-calculus | Review  | |  
 | 10-19 | Pre-algebra |   | | 
@@ -30,6 +25,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 10-18 | Physics | Review MC; Kinetic Energy & Work-KE Theorem| | Test Fri.; Textbook P. 162 Practice A all, P. 166 Practice B all, P. 168 Practice C #1,2
+| 10-18 | Geometry B | Test   | |   |  
+| 10-18 | Pre-calculus | Secant, Cosecant Graphs | |  
+| 10-18 | Pre-algebra | 3-8 Act It Out (Problem-Solving)  | | P. 168 #11, P. 175 #1-9 
+| 10-18 | ESL Science | Magnetism |  | Handout on what makes a material magnet; On Fri. due P. 585 Health Link: 20 sentences
 | 10-17 | Physics | Review MC; Work | | Finish multiple choice questions - Skip #68,70; Test Friday on Chapter 4 only
 | 10-17 | Geometry B |  Review | |  Test tomorrow! |  
 | 10-17 | Pre-calculus | HW Quiz, Tangent & Contangent Graphs | | P. 439 #1-60 due Thurs. ; Handouts #55,56, 57 due Thurs.
