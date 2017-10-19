@@ -20,6 +20,11 @@ layout: default
 | 10-20 | Pre-calculus | Quiz | | 
 | 10-20 | Pre-algebra |   | | 
 | 10-20 | ESL Science | Magnetism |  | Test on Magnetism on Wed.
+| 10-23 | Physics |  | | 
+| 10-23 | Geometry B |  1 | |   |  
+| 10-23 | Pre-calculus | | | 
+| 10-23 | Pre-algebra |   | | 
+| 10-23 | ESL Science | |  | Test on Magnetism on Wed.
 
 # [](#header-2) Past Assignments
 
