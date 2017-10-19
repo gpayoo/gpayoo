@@ -14,7 +14,7 @@ layout: default
 | 10-19 | Geometry B | 10-1 Solid Geometry | | Handouts #53,54  |  
 | 10-19 | Pre-calculus | Review  | |  Quiz tom.
 | 10-19 | Pre-algebra |  Divisibility | | Do handout on factoring/divisibility
-| 10-19 | ESL Science | Magnetism |  |  
+| 10-19 | ESL Science | Magnetism - Workbook Pages |  |  P. 585 Health Link: 20 sentences
 | 10-20 | Physics | Test  | | 
 | 10-20 | Geometry B |  10-2 Rep. of 3D Figures | |   |  
 | 10-20 | Pre-calculus | Quiz | | 
