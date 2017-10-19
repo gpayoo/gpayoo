@@ -10,7 +10,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 10-19 | Physics | Potential Energy | | Test tom.
+| 10-19 | Physics | Potential Energy | | Test tom. on Chapter 4, Bring a calculator, A small formula sheet is ok but only with formulas
 | 10-19 | Geometry B | 10-1  | |   |  
 | 10-19 | Pre-calculus | Review  | |  Quiz tom.
 | 10-19 | Pre-algebra |   | | Chapter test on Wed.
