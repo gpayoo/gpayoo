@@ -29,7 +29,7 @@ layout: default
 | 10-24 | Geometry B |   | |   |  
 | 10-24 | Pre-calculus | | | 
 | 10-24 | Pre-algebra |   | | 
-| 10-24 | ESL Science | No class - School Event |  |
+| 10-24 | ESL Science |  |  |
 | 10-25 | Physics |  | | 
 | 10-25 | Geometry B |   | |   |  
 | 10-25 | Pre-calculus | | | 
