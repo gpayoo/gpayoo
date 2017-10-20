@@ -11,9 +11,9 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 10-20 | Physics | Test  | | 
-| 10-20 | Geometry B |  10-2 Rep. of 3D Figures | |   |  
+| 10-20 | Geometry B |  10-2 Rep. of 3D Figures | |  Handouts #55 & 56 |  
 | 10-20 | Pre-calculus | Quiz | | 
-| 10-20 | Pre-algebra | Exponents  | | 
+| 10-20 | Pre-algebra | Exponents  | | 2 Handouts
 | 10-20 | ESL Science | Magnetism |  | Test on Magnetism on Wed.
 | 10-23 | Physics |  | | 
 | 10-23 | Geometry B |   | |   |  
