@@ -10,15 +10,10 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 10-19 | Physics | Potential Energy | | Test tom. on Chapter 4, Bring a calculator, A small formula sheet is ok but only with formulas
-| 10-19 | Geometry B | 10-1 Solid Geometry | | Handouts #53,54  |  
-| 10-19 | Pre-calculus | Review  | |  Quiz tom.
-| 10-19 | Pre-algebra |  Divisibility | | Do handout on factoring/divisibility
-| 10-19 | ESL Science | Magnetism - Workbook Pages |  |  P. 585 Health Link: 20 sentences
 | 10-20 | Physics | Test  | | 
 | 10-20 | Geometry B |  10-2 Rep. of 3D Figures | |   |  
 | 10-20 | Pre-calculus | Quiz | | 
-| 10-20 | Pre-algebra | Factoring  | | 
+| 10-20 | Pre-algebra | Exponents  | | 
 | 10-20 | ESL Science | Magnetism |  | Test on Magnetism on Wed.
 | 10-23 | Physics |  | | 
 | 10-23 | Geometry B |   | |   |  
@@ -50,6 +45,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 10-19 | Physics | Potential Energy | | Test tom. on Chapter 4, Bring a calculator, A small formula sheet is ok but only with formulas
+| 10-19 | Geometry B | 10-1 Solid Geometry | | Handouts #53,54  |  
+| 10-19 | Pre-calculus | Review  | |  Quiz tom.
+| 10-19 | Pre-algebra |  Divisibility | | Do handout on factoring/divisibility
+| 10-19 | ESL Science | Magnetism - Workbook Pages |  |  P. 585 Health Link: 20 sentences
 | 10-18 | Physics | Review MC; Kinetic Energy & Work-KE Theorem| | Test Fri.; Textbook P. 162 Practice A all, P. 166 Practice B all, P. 168 Practice C #1,2
 | 10-18 | Geometry B | Test   | |   |  
 | 10-18 | Pre-calculus | Secant, Cosecant Graphs | |  
