@@ -15,20 +15,20 @@ layout: default
 | 10-23 | Pre-calculus | | | 
 | 10-23 | Pre-algebra | 4-3 Prime Factorization & GCF  | | P. 193 #1,5,9,13, 17-24, 33, 41
 | 10-23 | ESL Science | Short Quiz on Definitions; Handouts on Magnetism  |  |  Test tom. on magnetism
-| 10-24 | Physics |  | | 
+| 10-24 | Physics | Conservation of Energy Lab | | 
 | 10-24 | Geometry B |   | |   |  
 | 10-24 | Pre-calculus | | | 
-| 10-24 | Pre-algebra |   | | 
+| 10-24 | Pre-algebra | 4-4 Simplifying Fractions  | | 
 | 10-24 | ESL Science |  |  |
 | 10-25 | Physics |  | | 
 | 10-25 | Geometry B |   | |   |  
 | 10-25 | Pre-calculus | | | 
-| 10-25 | Pre-algebra |   | | 
+| 10-25 | Pre-algebra | 4-5 Solve a Simpler Problem  | | 
 | 10-25 | ESL Science | |  | 
 | 10-26 | Physics |  | | 
 | 10-26 | Geometry B |   | |   |  
 | 10-26 | Pre-calculus | | | 
-| 10-26 | Pre-algebra |   | | 
+| 10-26 | Pre-algebra | Review  | | Test  Oct. 30th on Chapter 3 and 4-1 to 4-5
 | 10-26 | ESL Science | |  | 
 | 10-27 | Physics | Field Trip | | 
 | 10-27 | Geometry B | Field Trip  | |   |  
