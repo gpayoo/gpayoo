@@ -14,12 +14,12 @@ layout: default
 | 10-23 | Geometry B | Activity: Using Nets to Create Polyhedrons   | |     |
 | 10-23 | Pre-calculus | Graphing Alg & Trig. Functions; Intro. to Inverse Sine Function | | P. 411-12 #1-15 
 | 10-23 | Pre-algebra | 4-3 Prime Factorization & GCF  | | P. 193 #1,5,9,13, 17-24, 33, 41
-| 10-23 | ESL Science | Short Quiz on Definitions; Handouts on Magnetism  |  |  Test tom. on magnetism
+| 10-23 | ESL Science | Short Quiz on Definitions; Handouts on Magnetism  |  |  Test Wed.. on magnetism
 | 10-24 | Physics | Conservation of Energy Lab | | 
 | 10-24 | Geometry B |   | |   |  
 | 10-24 | Pre-calculus | | | 
 | 10-24 | Pre-algebra | 4-4 Simplifying Fractions  | | 
-| 10-24 | ESL Science |  |  |
+| 10-24 | ESL Science |  |  | Test Wed.. on magnetism
 | 10-25 | Physics |  | | 
 | 10-25 | Geometry B |   | |   |  
 | 10-25 | Pre-calculus | | | 
