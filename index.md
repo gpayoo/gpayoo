@@ -10,16 +10,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 10-20 | Physics | Test  | | 
-| 10-20 | Geometry B |  10-2 Rep. of 3D Figures | |  Handouts #55 & 56 |  
-| 10-20 | Pre-calculus | Quiz | | 
-| 10-20 | Pre-algebra | Exponents  | | 2 Handouts
-| 10-20 | ESL Science | Magnetism |  | Magnetism Definitions Quiz Monday; Test on Magnetism on Wed.
-| 10-23 | Physics |  | | 
-| 10-23 | Geometry B |   | |   |  
+| 10-23 | Physics | Conservation of Energy  | | P. 177 Practice E
+| 10-23 | Geometry B | Activity  | |   |  
 | 10-23 | Pre-calculus | | | 
 | 10-23 | Pre-algebra |   | | 
-| 10-23 | ESL Science | |  | 
+| 10-23 | ESL Science | Short Quiz on Definitions; Handouts on Magnetism  |  |  Test tom. on magnetism
 | 10-24 | Physics |  | | 
 | 10-24 | Geometry B |   | |   |  
 | 10-24 | Pre-calculus | | | 
@@ -45,6 +40,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 10-20 | Physics | Test  | | 
+| 10-20 | Geometry B |  10-2 Rep. of 3D Figures | |  Handouts #55 & 56 |  
+| 10-20 | Pre-calculus | Quiz | | 
+| 10-20 | Pre-algebra | Exponents  | | 2 Handouts
+| 10-20 | ESL Science | Magnetism |  | Magnetism Definitions Quiz Monday; Test on Magnetism on Wed.
 | 10-19 | Physics | Potential Energy | | Test tom. on Chapter 4, Bring a calculator, A small formula sheet is ok but only with formulas
 | 10-19 | Geometry B | 10-1 Solid Geometry | | Handouts #53,54  |  
 | 10-19 | Pre-calculus | Review  | |  Quiz tom.
