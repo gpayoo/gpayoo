@@ -12,7 +12,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 10-24 | Physics | Conservation of Energy Lab | | Work on lab
 | 10-24 | Geometry B | Activity: Using Nets (continued)  | |   |  
-| 10-24 | Pre-calculus | Arccos, Arctan| | 
+| 10-24 | Pre-calculus | Arccos, Arctan| | P. 421 #1-16 due Thursday
 | 10-24 | Pre-algebra | 4-4 Simplifying Fractions  | | P. 198 #14-21,28-39
 | 10-24 | ESL Science | Review magnetism  |  | Test Wed. on magnetism
 | 10-25 | Physics |  | | 
