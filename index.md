@@ -14,7 +14,7 @@ layout: default
 | 10-25 | Geometry B |  Formulas in 3D | |   |  Handout #57
 | 10-25 | Pre-calculus | | | 
 | 10-25 | Pre-algebra | Review  | | 
-| 10-25 | ESL Science | |  | 
+| 10-25 | ESL Science | Test on Magnetism |  | 
 | 10-26 | Physics |  | | 
 | 10-26 | Geometry B |   | |   |  
 | 10-26 | Pre-calculus | | | 
