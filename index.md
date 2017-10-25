@@ -10,12 +10,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 10-24 | Physics | Conservation of Energy Lab | | Work on lab
-| 10-24 | Geometry B | Activity: Using Nets (continued)  | |   |  
-| 10-24 | Pre-calculus | Arccos, Arctan| | P. 421 #1-16 due Thursday
-| 10-24 | Pre-algebra | 4-4 Simplifying Fractions  | | P. 198 #14-21,28-39
-| 10-24 | ESL Science | Review magnetism  |  | Test Wed. on magnetism
-| 10-25 | Physics |  | | 
+| 10-25 | Physics | Power | | Lab Report due Monday; MC due Monday; P. 181 Practice F due Thurs. 
 | 10-25 | Geometry B |   | |   |  
 | 10-25 | Pre-calculus | | | 
 | 10-25 | Pre-algebra | 4-5 Solve a Simpler Problem  | | 
@@ -35,6 +30,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 10-24 | Physics | Conservation of Energy Lab | | Work on lab
+| 10-24 | Geometry B | Activity: Using Nets (continued)  | |   |  
+| 10-24 | Pre-calculus | Arccos, Arctan| | P. 421 #1-16 due Thursday
+| 10-24 | Pre-algebra | 4-4 Simplifying Fractions  | | P. 198 #14-21,28-39
+| 10-24 | ESL Science | Review magnetism  |  | Test Wed. on magnetism
 | 10-23 | Physics | Conservation of Energy  | | P. 177 Practice E
 | 10-23 | Geometry B | Activity: Using Nets to Create Polyhedrons   | |     |
 | 10-23 | Pre-calculus | Graphing Alg & Trig. Functions; Intro. to Inverse Sine Function | | P. 411-12 #1-15 
