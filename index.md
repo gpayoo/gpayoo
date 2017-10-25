@@ -11,7 +11,7 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 10-25 | Physics | Power | | Lab Report due Monday; MC due Monday; P. 181 Practice F due Thurs. 
-| 10-25 | Geometry B |  Formulas in 3D | |   |  Handout #57
+| 10-25 | Geometry B |  Formulas in 3D | |   Handout #57
 | 10-25 | Pre-calculus | Inverse Trig. Functions | | P> 421 #1-16, 23-32, 41-52 and 2 handouts
 | 10-25 | Pre-algebra | Review  | | Do 3 handouts - they are the vocabulary sheets
 | 10-25 | ESL Science | Test on Magnetism |  | 
