@@ -13,12 +13,12 @@ layout: default
 | 10-25 | Physics | Power | | Lab Report due Monday; MC due Monday; P. 181 Practice F due Thurs. 
 | 10-25 | Geometry B |  Formulas in 3D | |   |  Handout #57
 | 10-25 | Pre-calculus | | | 
-| 10-25 | Pre-algebra | 4-5 Solve a Simpler Problem  | | 
+| 10-25 | Pre-algebra | Review  | | 
 | 10-25 | ESL Science | |  | 
 | 10-26 | Physics |  | | 
 | 10-26 | Geometry B |   | |   |  
 | 10-26 | Pre-calculus | | | 
-| 10-26 | Pre-algebra | Review  | | Test  Oct. 30th on Chapter 3 and 4-1 to 4-5
+| 10-26 | Pre-algebra | Review  | | Test  Monday on 3-3,3-4,3-5,3-6,3-7, 4-1,4-2,4-3,4-4
 | 10-26 | ESL Science | |  | 
 | 10-27 | Physics | Field Trip | | 
 | 10-27 | Geometry B | Field Trip  | |   |  
