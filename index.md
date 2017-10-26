@@ -12,7 +12,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 10-26 | Physics | Internet Labs on Work & Energy | | Lab Report due Monday; MC due Monday; P. 181 Practice F due Thurs.
 | 10-26 | Geometry B | 10-4 Surface Area of Prisms & Cylinders  | |  Handouts #58, 59 due Tues.|  
-| 10-26 | Pre-calculus | Trig. Functions - Word Problems | | 
+| 10-26 | Pre-calculus | Trig. Functions - Word Problems | | Handouts #60-63 due Tues.; Chapter Test on Thurs.
 | 10-26 | Pre-algebra | Review  | | Test  Monday on 3-3,3-4,3-5,3-6,3-7, 4-1,4-2,4-3,4-4
 | 10-26 | ESL Science | |  | 
 | 10-27 | Physics | Field Trip | | 
