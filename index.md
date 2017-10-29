@@ -11,27 +11,27 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 10-30 | Physics |  | | 
-| 10-30 | Geometry B |   | |   |  
-| 10-30 | Pre-calculus | | | 
-| 10-30 | Pre-algebra |   | | 
+| 10-30 | Geometry B |  10-5 Surface Area of Pyramids and Cones | |   |  
+| 10-30 | Pre-calculus | Review | | Handouts #60-63 due Tues.; Chapter Test on Thurs.
+| 10-30 | Pre-algebra |  Test  | | 
 | 10-30 | ESL Science |  |  | 
 | 10-31 | Physics |  | | 
-| 10-31 | Geometry B |   | |   |  
+| 10-31 | Geometry B |  10-6 Volume of Prisms and Cylinders | |   |  
 | 10-31 | Pre-calculus | | | 
 | 10-31 | Pre-algebra |   | | 
 | 10-31 | ESL Science | NO CLASS - School Activity  |  | 
 | 11-1 | Physics |  | | 
-| 11-1 | Geometry B |   | |   |  
+| 11-1 | Geometry B | 10-7 Volumes of Pyramids and Cones  | |   |  
 | 11-1 | Pre-calculus | | | 
 | 11-1 | Pre-algebra |   | | 
 | 11-1 | ESL Science |  |  | 
 | 11-2 | Physics |  | | 
-| 11-2 | Geometry B |   | |   |  
-| 11-2 | Pre-calculus | | | 
+| 11-2 | Geometry B | 10-8 Spheres  | |   |  
+| 11-2 | Pre-calculus | Test | | 
 | 11-2 | Pre-algebra |   | | 
 | 11-2 | ESL Science |  |  | 
 | 11-3 | Physics |  | | 
-| 11-3 | Geometry B |   | |   |  
+| 11-3 | Geometry B | Review  | |  Test Monday |  
 | 11-3 | Pre-calculus | | | 
 | 11-3 | Pre-algebra |   | | 
 | 11-3 | ESL Science |  |  | 
