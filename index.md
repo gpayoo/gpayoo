@@ -10,16 +10,6 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 10-26 | Physics | Internet Labs on Work & Energy | | Lab Report due Monday; MC due Monday; P. 181 Practice F due Thurs.
-| 10-26 | Geometry B | 10-4 Surface Area of Prisms & Cylinders  | |  Handouts #58, 59 due Tues.|  
-| 10-26 | Pre-calculus | Trig. Functions - Word Problems | | Handouts #60-63 due Tues.; Chapter Test on Thurs.
-| 10-26 | Pre-algebra | Review  | | Test  Monday on 3-3,3-4,3-5,3-6,3-7, 4-1,4-2,4-3,4-4
-| 10-26 | ESL Science | Changes of State |  | 
-| 10-27 | Physics | Field Trip | | 
-| 10-27 | Geometry B | Field Trip  | |   |  
-| 10-27 | Pre-calculus | Field Trip| | 
-| 10-27 | Pre-algebra |  Field Trip | | 
-| 10-27 | ESL Science | Field Trip |  | 
 | 10-30 | Physics |  | | 
 | 10-30 | Geometry B |   | |   |  
 | 10-30 | Pre-calculus | | | 
@@ -29,7 +19,7 @@ layout: default
 | 10-31 | Geometry B |   | |   |  
 | 10-31 | Pre-calculus | | | 
 | 10-31 | Pre-algebra |   | | 
-| 10-31 | ESL Science |  |  | 
+| 10-31 | ESL Science | NO CLASS - School Activity  |  | 
 | 11-1 | Physics |  | | 
 | 11-1 | Geometry B |   | |   |  
 | 11-1 | Pre-calculus | | | 
@@ -50,6 +40,16 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 10-26 | Physics | Internet Labs on Work & Energy | | Lab Report due Monday; MC due Monday; P. 181 Practice F due Thurs.
+| 10-26 | Geometry B | 10-4 Surface Area of Prisms & Cylinders  | |  Handouts #58, 59 due Tues.|  
+| 10-26 | Pre-calculus | Trig. Functions - Word Problems | | Handouts #60-63 due Tues.; Chapter Test on Thurs.
+| 10-26 | Pre-algebra | Review  | | Test  Monday on 3-3,3-4,3-5,3-6,3-7, 4-1,4-2,4-3,4-4
+| 10-26 | ESL Science | Changes of State |  | 
+| 10-27 | Physics | Field Trip | | 
+| 10-27 | Geometry B | Field Trip  | |   |  
+| 10-27 | Pre-calculus | Field Trip| | 
+| 10-27 | Pre-algebra |  Field Trip | | 
+| 10-27 | ESL Science | Field Trip |  | 
 | 10-25 | Physics | Power | | Lab Report due Monday; MC due Monday; P. 181 Practice F due Thurs. 
 | 10-25 | Geometry B |  Formulas in 3D | |   Handout #57
 | 10-25 | Pre-calculus | Inverse Trig. Functions | | P> 421 #1-16, 23-32, 41-52 and 2 handouts
