@@ -11,12 +11,12 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 10-30 | Physics | Momentum  | | Test Fri on Ch.5; P. 199 Practice A, P. 201 Practice B, P. 190-191 #1-10; Future labs not handed in by 8:40 AM will not be accepted. Printer problems is not an excuse.
-| 10-30 | Geometry B |  10-5 Surface Area of Pyramids and Cones | |   |  
+| 10-30 | Geometry B |  10-5 Surface Area of Pyramids and Cones | |   Handouts #58, 59, 61, 62, due tom; #60 due Wed. |  
 | 10-30 | Pre-calculus | Review | | Handouts #60-63 due Tues.; Chapter Test on Thurs.
 | 10-30 | Pre-algebra |  Test  | | 
 | 10-30 | ESL Science |  |  | 
 | 10-31 | Physics |  | | 
-| 10-31 | Geometry B |  10-6 Volume of Prisms and Cylinders | |  Handouts #58, 59, 61, 62, due tom; #60 due Wed. |  
+| 10-31 | Geometry B |  10-6 Volume of Prisms and Cylinders | |  |  
 | 10-31 | Pre-calculus | 5-1 Fundamental Identities - Part 1 | | P. 451 #1-8 
 | 10-31 | Pre-algebra |   | | 
 | 10-31 | ESL Science | NO CLASS - School Activity  |  | 
