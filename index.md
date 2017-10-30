@@ -10,7 +10,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 10-30 | Physics |  | | 
+| 10-30 | Physics | Momentum  | | Test Fri on Ch.5; P. 199 Practice A, P. 201 Practice B, P. 190-191 #1-10
 | 10-30 | Geometry B |  10-5 Surface Area of Pyramids and Cones | |   |  
 | 10-30 | Pre-calculus | Review | | Handouts #60-63 due Tues.; Chapter Test on Thurs.
 | 10-30 | Pre-algebra |  Test  | | 
