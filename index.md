@@ -17,12 +17,12 @@ layout: default
 | 10-30 | ESL Science |  |  | 
 | 10-31 | Physics |  | | 
 | 10-31 | Geometry B |  10-6 Volume of Prisms and Cylinders | |  Handouts #58, 59, 61, 62, due tom; #60 due Wed. |  
-| 10-31 | Pre-calculus | | | 
+| 10-31 | Pre-calculus | 5-1 Fundamental Identities - Part 1 | | P. 451 #1-8 
 | 10-31 | Pre-algebra |   | | 
 | 10-31 | ESL Science | NO CLASS - School Activity  |  | 
 | 11-1 | Physics |  | | 
 | 11-1 | Geometry B | 10-7 Volumes of Pyramids and Cones  | |   |  
-| 11-1 | Pre-calculus | | | 
+| 11-1 | Pre-calculus | 5-1 Fundamental Identities - Part 2| | 
 | 11-1 | Pre-algebra |   | | 
 | 11-1 | ESL Science |  |  | 
 | 11-2 | Physics |  | | 
@@ -52,7 +52,7 @@ layout: default
 | 10-27 | ESL Science | Field Trip |  | 
 | 10-25 | Physics | Power | | Lab Report due Monday; MC due Monday; P. 181 Practice F due Thurs. 
 | 10-25 | Geometry B |  Formulas in 3D | |   Handout #57
-| 10-25 | Pre-calculus | Inverse Trig. Functions | | P> 421 #1-16, 23-32, 41-52 and 2 handouts
+| 10-25 | Pre-calculus | Inverse Trig. Functions | | P. 421 #1-16, 23-32, 41-52 and 2 handouts
 | 10-25 | Pre-algebra | Review  | | Do 3 handouts - they are the vocabulary sheets
 | 10-25 | ESL Science | Test on Magnetism |  | 
 | 10-24 | Physics | Conservation of Energy Lab | | Work on lab
