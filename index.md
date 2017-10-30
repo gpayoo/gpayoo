@@ -16,7 +16,7 @@ layout: default
 | 10-30 | Pre-algebra |  Test  | | 
 | 10-30 | ESL Science |  |  | 
 | 10-31 | Physics |  | | 
-| 10-31 | Geometry B |  10-6 Volume of Prisms and Cylinders | |   |  
+| 10-31 | Geometry B |  10-6 Volume of Prisms and Cylinders | |  Handouts #58, 59, 61, 62, due tom; #60 due Wed. |  
 | 10-31 | Pre-calculus | | | 
 | 10-31 | Pre-algebra |   | | 
 | 10-31 | ESL Science | NO CLASS - School Activity  |  | 
