@@ -13,7 +13,7 @@ layout: default
 | 10-31 | Physics | Conservation of Momentum  | | P. 203 Practice C and P. 209 Practice D; Test on energy changed to Monday
 | 10-31 | Geometry B |  10-6 Volume of Prisms and Cylinders | |  #60, 63 |  
 | 10-31 | Pre-calculus | 5-1 Fundamental Identities - Part 1 | | P. 451 #1-8 due Nov. 6th
-| 10-31 | Pre-algebra |   | | 
+| 10-31 | Pre-algebra | Rational Numbers   | | P. 207 #1,3,15-20, 31-37 
 | 10-31 | ESL Science | NO CLASS - School Activity  |  | 
 | 11-1 | Physics |  | | 
 | 11-1 | Geometry B | 10-7 Volumes of Pyramids and Cones  | |   |  
