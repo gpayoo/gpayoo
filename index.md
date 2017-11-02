@@ -14,7 +14,7 @@ layout: default
 | 11-2 | Geometry B | 10-8 Spheres  | |  #66,67,68; Test Monday on Chapter 10  |  
 | 11-2 | Pre-calculus | Test | | 
 | 11-2 | Pre-algebra | 4-7 Exponents and Multiplication  | | P. 212 #45-47, 49-50
-| 11-2 | ESL Science |  |  | 
+| 11-2 | ESL Science | Review for Test |  | Test Monday
 | 11-3 | Physics | Internet Lab on Momentum | | Test on energy on Monday 
 | 11-3 | Geometry B | Review  | |  Test Monday |  
 | 11-3 | Pre-calculus | | | 
