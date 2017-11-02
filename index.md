@@ -10,12 +10,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-1 | Physics | KE and Inelastic Collisions| | Test Mon; P. 214 Practice E & Egg Drop Internet Lab due tom. 
-| 11-1 | Geometry B | 10-7 Volumes of Pyramids and Cones  | |   |  Handouts from today's class!
-| 11-1 | Pre-calculus | 5-1 Fundamental Identities - Part 2| | Test tom.; No calculator~!
-| 11-1 | Pre-algebra | Additional Practice on Evaluating Expressions  | | P. 208 #51-53, P. 230 #13-20, 39-44, 50-55
-| 11-1 | ESL Science | Thermal Expansion & Contraction |  | Handout given out today; Test on Monday 
-| 11-2 | Physics |  | | 
+| 11-2 | Physics | Elastic Collisions | |  P. 219 Practice G, Fish Catch Lab (internet lab)
 | 11-2 | Geometry B | 10-8 Spheres  | |   |  
 | 11-2 | Pre-calculus | Test | | 
 | 11-2 | Pre-algebra |   | | 
@@ -30,6 +25,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 11-1 | Physics | KE and Inelastic Collisions| | Test Mon; P. 214 Practice E & Egg Drop Internet Lab due tom. 
+| 11-1 | Geometry B | 10-7 Volumes of Pyramids and Cones  | |   |  Handouts from today's class!
+| 11-1 | Pre-calculus | 5-1 Fundamental Identities - Part 2| | Test tom.; No calculator~!
+| 11-1 | Pre-algebra | Additional Practice on Evaluating Expressions  | | P. 208 #51-53, P. 230 #13-20, 39-44, 50-55
+| 11-1 | ESL Science | Thermal Expansion & Contraction |  | Handout given out today; Test on Monday 
 | 10-31 | Physics | Conservation of Momentum  | | P. 203 Practice C and P. 209 Practice D; Test on energy changed to Monday
 | 10-31 | Geometry B |  10-6 Volume of Prisms and Cylinders | |  #60, 63 |  
 | 10-31 | Pre-calculus | 5-1 Fundamental Identities - Part 1 | | P. 451 #1-8 due Nov. 6th
