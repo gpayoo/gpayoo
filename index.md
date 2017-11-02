@@ -11,7 +11,7 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 11-2 | Physics | Elastic Collisions | |  P. 219 Practice G, Fish Catch Lab (internet lab)
-| 11-2 | Geometry B | 10-8 Spheres  | |   |  
+| 11-2 | Geometry B | 10-8 Spheres  | |  #66,67,68; Test Monday on Chapter 10  |  
 | 11-2 | Pre-calculus | Test | | 
 | 11-2 | Pre-algebra |   | | 
 | 11-2 | ESL Science |  |  | 
