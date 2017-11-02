@@ -17,9 +17,9 @@ layout: default
 | 11-2 | ESL Science | Review for Test |  | Test Monday
 | 11-3 | Physics | Internet Lab on Momentum | | Test on energy on Monday 
 | 11-3 | Geometry B | Review  | |  Test Monday |  
-| 11-3 | Pre-calculus | | | 
-| 11-3 | Pre-algebra |   | | 
-| 11-3 | ESL Science |  |  | 
+| 11-3 | Pre-calculus | Trig. Identities | | 
+| 11-3 | Pre-algebra | Exponents and Division  | | 
+| 11-3 | ESL Science | Review for Test |  | Test Monday 
 
 # [](#header-2) Past Assignments
 
