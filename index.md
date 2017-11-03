@@ -17,7 +17,7 @@ layout: default
 | 11-3 | ESL Science | Review for Test |  | Test Monday 
 | 11-6 | Physics | Test | | 
 | 11-6 | Geometry B | Test| | |  
-| 11-6 | Pre-calculus | Trig. Identities | | 
+| 11-6 | Pre-calculus | Trig. Identities | | P. 451-2 #1-56 choose any 15 problems
 | 11-6 | Pre-algebra |  | | 
 | 11-6 | ESL Science | Test |  | 
 | 11-7 | Physics | | | 
