@@ -12,7 +12,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 11-3 | Physics | Internet Labs on Momentum (Elastic & Inelastic Collisions) | | Test on work/energy on Monday, Both internet labs due Mon - type & print a short conclusion for each; the reports must be handed in by 8:40 AM
 | 11-3 | Geometry B | Review  | |  Test Monday, Handout #69 due Mon.|  
-| 11-3 | Pre-calculus | Trig. Identities | | P. 451-2 #1-56 choose any 15 problems; Handouts 369 & 70 due Wed.
+| 11-3 | Pre-calculus | Trig. Identities | | P. 451-2 #1-56 choose any 15 problems; Handouts #69 & 70 due Wed.
 | 11-3 | Pre-algebra | Exponents and Division  | | P. 217 #1-28
 | 11-3 | ESL Science | Review for Test |  | Test Monday 
 | 11-6 | Physics | Test | | 
