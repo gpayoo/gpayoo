@@ -10,13 +10,8 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-2 | Physics | Elastic Collisions | |  P. 219 Practice G, Fish Catch Lab (internet lab)
-| 11-2 | Geometry B | 10-8 Spheres  | |  #66,67,68; Test Monday on Chapter 10  |  
-| 11-2 | Pre-calculus | Test | | 
-| 11-2 | Pre-algebra | 4-7 Exponents and Multiplication  | | P. 212 #45-47, 49-50
-| 11-2 | ESL Science | Review for Test |  | Test Monday
-| 11-3 | Physics | Internet Lab on Momentum | | Test on energy on Monday 
-| 11-3 | Geometry B | Review  | |  Test Monday |  
+| 11-3 | Physics | Internet Lab on Momentum | | Test on energy on Monday, Both internet labs due Mon - type & print a short conclusion for each; the reports must be handed in by 8:40 AM
+| 11-3 | Geometry B | Review  | |  Test Monday, Handout #69 due Mon.|  
 | 11-3 | Pre-calculus | Trig. Identities | | 
 | 11-3 | Pre-algebra | Exponents and Division  | | 
 | 11-3 | ESL Science | Review for Test |  | Test Monday 
@@ -25,6 +20,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 11-2 | Physics | Elastic Collisions | |  P. 219 Practice G, Fish Catch Lab (internet lab)
+| 11-2 | Geometry B | 10-8 Spheres  | |  #66,67,68; Test Monday on Chapter 10  |  
+| 11-2 | Pre-calculus | Test | | 
+| 11-2 | Pre-algebra | 4-7 Exponents and Multiplication  | | P. 212 #45-47, 49-50
+| 11-2 | ESL Science | Review for Test |  | Test Monday
 | 11-1 | Physics | KE and Inelastic Collisions| | Test Mon; P. 214 Practice E & Egg Drop Internet Lab due tom. 
 | 11-1 | Geometry B | 10-7 Volumes of Pyramids and Cones  | |   |  Handouts from today's class!
 | 11-1 | Pre-calculus | 5-1 Fundamental Identities - Part 2| | Test tom.; No calculator~!
