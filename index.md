@@ -10,15 +10,10 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-3 | Physics | Internet Labs on Momentum (Elastic & Inelastic Collisions) | | Test on work/energy on Monday, Both internet labs due Mon - type & print a short conclusion for each; the reports must be handed in by 8:40 AM
-| 11-3 | Geometry B | Review  | |  Test Monday, Handout #69 due Mon.|  
-| 11-3 | Pre-calculus | Trig. Identities | | P. 451-2 #1-56 choose any 15 problems; Handouts #69 & 70 due Wed.
-| 11-3 | Pre-algebra | Exponents and Division  | | P. 217 #1-28
-| 11-3 | ESL Science | Review for Test |  | Test Monday 
 | 11-6 | Physics | Test | | 
 | 11-6 | Geometry B | Test| | |  
 | 11-6 | Pre-calculus | Trig. Identities | | 
-| 11-6 | Pre-algebra |  | | 
+| 11-6 | Pre-algebra | Scientific Notation | | P. 223 #1-13, 26-28, and finish #13-17 on today's handout
 | 11-6 | ESL Science | Test |  | 
 | 11-7 | Physics | | | 
 | 11-7 | Geometry B | | | |  
@@ -46,6 +41,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 11-3 | Physics | Internet Labs on Momentum (Elastic & Inelastic Collisions) | | Test on work/energy on Monday, Both internet labs due Mon - type & print a short conclusion for each; the reports must be handed in by 8:40 AM
+| 11-3 | Geometry B | Review  | |  Test Monday, Handout #69 due Mon.|  
+| 11-3 | Pre-calculus | Trig. Identities | | P. 451-2 #1-56 choose any 15 problems; Handouts #69 & 70 due Wed.
+| 11-3 | Pre-algebra | Exponents and Division  | | P. 217 #1-28
+| 11-3 | ESL Science | Review for Test |  | Test Monday 
 | 11-2 | Physics | Elastic Collisions | |  P. 219 Practice G, Fish Catch Lab (internet lab)
 | 11-2 | Geometry B | 10-8 Spheres  | |  #66,67,68; Test Monday on Chapter 10  |  
 | 11-2 | Pre-calculus | Test | | 
