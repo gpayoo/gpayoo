@@ -12,7 +12,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 11-6 | Physics | Test | | 
 | 11-6 | Geometry B | Test| | |  
-| 11-6 | Pre-calculus | Trig. Identities | | 
+| 11-6 | Pre-calculus | Trig. Identities | | HW Quiz Wed. P. 451 #1-56; Handouts #69,70 due Wed.
 | 11-6 | Pre-algebra | Scientific Notation | | P. 223 #1-13, 26-28, and finish #13-17 on today's handout
 | 11-6 | ESL Science | Test |  | 
 | 11-7 | Physics | | | 
