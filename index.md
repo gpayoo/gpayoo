@@ -10,12 +10,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-6 | Physics | Test | | 
-| 11-6 | Geometry B | Test| | |  
-| 11-6 | Pre-calculus | Trig. Identities | | HW Quiz Wed. P. 451 #1-56; Handouts #69,70 due Wed.
-| 11-6 | Pre-algebra | Scientific Notation | | P. 223 #1-13, 26-28, and finish #13-17 on today's handout
-| 11-6 | ESL Science | Test |  | 
-| 11-7 | Physics | | | 
+| 11-7 | Physics | Ciruclar Motion | | P. 236 Practice A, P. 238 Practice B, Multiple Choice Handout #1-26 
 | 11-7 | Geometry B | | | |  
 | 11-7 | Pre-calculus |  | | 
 | 11-7 | Pre-algebra |  | | 
@@ -41,6 +36,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 11-6 | Physics | Test | | 
+| 11-6 | Geometry B | Test| | |  
+| 11-6 | Pre-calculus | Trig. Identities | | HW Quiz Wed. P. 451 #1-56; Handouts #69,70 due Wed.
+| 11-6 | Pre-algebra | Scientific Notation | | P. 223 #1-13, 26-28, and finish #13-17 on today's handout
+| 11-6 | ESL Science | Test |  | 
 | 11-3 | Physics | Internet Labs on Momentum (Elastic & Inelastic Collisions) | | Test on work/energy on Monday, Both internet labs due Mon - type & print a short conclusion for each; the reports must be handed in by 8:40 AM
 | 11-3 | Geometry B | Review  | |  Test Monday, Handout #69 due Mon.|  
 | 11-3 | Pre-calculus | Trig. Identities | | P. 451-2 #1-56 choose any 15 problems; Handouts #69 & 70 due Wed.
