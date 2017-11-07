@@ -10,7 +10,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-7 | Physics | Ciruclar Motion | | P. 236 Practice A, P. 238 Practice B, Multiple Choice Handout #1-26 
+| 11-7 | Physics | 7-1 Circular Motion | | P. 236 Practice A, P. 238 Practice B, Multiple Choice Handout #1-26 
 | 11-7 | Geometry B | | | |  
 | 11-7 | Pre-calculus |  | | 
 | 11-7 | Pre-algebra |  | | 
