@@ -14,7 +14,7 @@ layout: default
 | 11-7 | Geometry B | 11-1 Lines that Intersect Circles | |  #70,71,72
 | 11-7 | Pre-calculus |  | | 
 | 11-7 | Pre-algebra | Scientific Notation - continued  | | P. 230 #65-68, P. 229 #62-65, Vocabulary Review Sheet
-| 11-7 | ESL Science | |  | 
+| 11-7 | ESL Science | Mixtures |  |  Read handout "Lesson 1" and do page 6 - match letters with pictures
 | 11-8 | Physics | | | 
 | 11-8 | Geometry B | | | |  
 | 11-8 | Pre-calculus |  | | 
