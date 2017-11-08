@@ -13,7 +13,7 @@ layout: default
 | 11-8 | Physics | Newton's Law of Universal Gravitation| |  Textbook Practice C; Finish Multiple Choice Prob. on Momentum
 | 11-8 | Geometry B | 11-2 Arcs and Circles - part 1 | | #73, 74|  
 | 11-8 | Pre-calculus |  | | 
-| 11-8 | Pre-algebra |  | | 
+| 11-8 | Pre-algebra | Sci. Notation (continued)  | | P. 223 #21-25, 31, 32; P. 224 #36-47; P. 229 #70-73
 | 11-8 | ESL Science | |  | 
 | 11-9 | Physics | | | 
 | 11-9 | Geometry B | | | |  
