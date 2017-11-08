@@ -10,13 +10,8 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-7 | Physics | 7-1 Circular Motion | | P. 236 Practice A, P. 238 Practice B, Multiple Choice Handout #1-26 
-| 11-7 | Geometry B | 11-1 Lines that Intersect Circles | |  #70,71,72
-| 11-7 | Pre-calculus | Proving Trig. Identities | |  HW Quiz Wed. P. 451 #1-56; Handouts #69,70 due Wed.
-| 11-7 | Pre-algebra | Scientific Notation - continued  | | P. 230 #65-68, P. 229 #62-65, Vocabulary Review Sheet
-| 11-7 | ESL Science | Mixtures |  |  Read handout "Lesson 1" and do page 6 - match letters with pictures
-| 11-8 | Physics | | | 
-| 11-8 | Geometry B | | | |  
+| 11-8 | Physics | Newton's Law of Universal Gravitation| |  Textbook Practice C; Finish Multiple Choice Prob. on Momentum
+| 11-8 | Geometry B | 11-2 Arcs and Circles - part 1 | | #73, 74|  
 | 11-8 | Pre-calculus |  | | 
 | 11-8 | Pre-algebra |  | | 
 | 11-8 | ESL Science | |  | 
@@ -36,6 +31,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 11-7 | Physics | 7-1 Circular Motion | | P. 236 Practice A, P. 238 Practice B, Multiple Choice Handout #1-26 
+| 11-7 | Geometry B | 11-1 Lines that Intersect Circles | |  #70,71,72
+| 11-7 | Pre-calculus | Proving Trig. Identities | |  HW Quiz Wed. P. 451 #1-56; Handouts #69,70 due Wed.
+| 11-7 | Pre-algebra | Scientific Notation - continued  | | P. 230 #65-68, P. 229 #62-65, Vocabulary Review Sheet
+| 11-7 | ESL Science | Mixtures |  |  Read handout "Lesson 1" and do page 6 - match letters with pictures
 | 11-6 | Physics | Test | | 
 | 11-6 | Geometry B | Test| | |  
 | 11-6 | Pre-calculus | Trig. Identities | | HW Quiz Wed. P. 451 #1-56; Handouts #69,70 due Wed.
