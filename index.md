@@ -11,7 +11,7 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 11-9 | Physics | Kepler's Laws | | P. 251 Practice D, Test Thus. on Chapters 6 & 7 
-| 11-9 | Geometry B | | | |  
+| 11-9 | Geometry B | 11-2 Arcs and Circles - part 2 | | # 75,76,77|  
 | 11-9 | Pre-calculus |  | | 
 | 11-9 | Pre-algebra |  | | 
 | 11-9 | ESL Science | |  | 
