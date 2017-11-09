@@ -10,12 +10,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-8 | Physics | Newton's Law of Universal Gravitation| |  Textbook Practice C; Finish Multiple Choice Prob. on Momentum
-| 11-8 | Geometry B | 11-2 Arcs and Circles - part 1 | | #73, 74|  
-| 11-8 | Pre-calculus | HW Quiz, Preview of Identities in Calculus  || HW Quiz Fri. Section 5.2 #1-38, #41,42,73,75; and Handouts #71,72 due Fri. 
-| 11-8 | Pre-algebra | Sci. Notation (continued)  | | P. 223 #21-25, 31, 32; P. 224 #36-47; P. 229 #70-73
-| 11-8 | ESL Science | |  | 
-| 11-9 | Physics | | | 
+| 11-9 | Physics | Kepler's Laws | | P. 251 Practice D, Test Thus. on Chapters 6 & 7 
 | 11-9 | Geometry B | | | |  
 | 11-9 | Pre-calculus |  | | 
 | 11-9 | Pre-algebra |  | | 
@@ -31,6 +26,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 11-8 | Physics | Newton's Law of Universal Gravitation| |  Textbook Practice C; Finish Multiple Choice Prob. on Momentum
+| 11-8 | Geometry B | 11-2 Arcs and Circles - part 1 | | #73, 74|  
+| 11-8 | Pre-calculus | HW Quiz, Preview of Identities in Calculus  || HW Quiz Fri. Section 5.2 #1-38, #41,42,73,75; and Handouts #71,72 due Fri. 
+| 11-8 | Pre-algebra | Sci. Notation (continued)  | | P. 223 #21-25, 31, 32; P. 224 #36-47; P. 229 #70-73
+| 11-8 | ESL Science | Solutions, Solutes, Solvents |  | 
 | 11-7 | Physics | 7-1 Circular Motion | | P. 236 Practice A, P. 238 Practice B, Multiple Choice Handout #1-26 
 | 11-7 | Geometry B | 11-1 Lines that Intersect Circles | |  #70,71,72
 | 11-7 | Pre-calculus | Proving Trig. Identities | |  HW Quiz Wed. P. 451 #1-56; Handouts #69,70 due Wed.
