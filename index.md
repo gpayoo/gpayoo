@@ -15,8 +15,8 @@ layout: default
 | 11-9 | Pre-calculus | Sum and Difference Identities | | HW Quiz Fri. Section 5.2 #1-38, #41,42,73,75; and Handouts #71,72 due Fri. ; P. 468 #1-21 odd due Mon.
 | 11-9 | Pre-algebra | Review Sci. Notation | | P. 230 #45-76; P. 231 #1,6,8-11; P. 758 #35-54; Quiz on Sections 4-6 to 4-9 on Mon. 
 | 11-9 | ESL Science | Solutions, Solutes, Solvents (worksheets) |  | Separation Techniques & Industry (read and answer questions) 
-| 11-10 | Physics | | | 
-| 11-10 | Geometry B | | | |  
+| 11-10 | Physics | Internet Exercise/Lab - Kepler's Law | |  Kepler's Law lab worksheet; Multiple Choice problems on Circular Motion
+| 11-10 | Geometry B | 11-3 Sector Area & Arc Length | | #78,79,80|  
 | 11-10 | Pre-calculus |  | | 
 | 11-10 | Pre-algebra |  | | 
 | 11-10 | ESL Science | |  | 
