@@ -10,11 +10,6 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-9 | Physics | Kepler's Laws | | P. 251 Practice D, Test Thus. on Chapters 6 & 7 
-| 11-9 | Geometry B | 11-2 Arcs and Circles - part 2 | | # 75,76,77|  
-| 11-9 | Pre-calculus | Sum and Difference Identities | | HW Quiz Fri. Section 5.2 #1-38, #41,42,73,75; and Handouts #71,72 due Fri. ; P. 468 #1-21 odd due Mon.
-| 11-9 | Pre-algebra | Review Sci. Notation | | P. 230 #45-76; P. 231 #1,6,8-11; P. 758 #35-54; Quiz on Sections 4-6 to 4-9 on Mon. 
-| 11-9 | ESL Science | Solutions, Solutes, Solvents (worksheets) |  | Separation Techniques & Industry (read and answer questions) 
 | 11-10 | Physics | Internet Exercise/Lab - Kepler's Law | |  Kepler's Law lab worksheet; Multiple Choice problems on Circular Motion
 | 11-10 | Geometry B | 11-3 Sector Area & Arc Length | | #78,79,80|  
 | 11-10 | Pre-calculus |  | | 
@@ -26,6 +21,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 11-9 | Physics | Kepler's Laws | | P. 251 Practice D, Test Thus. on Chapters 6 & 7 
+| 11-9 | Geometry B | 11-2 Arcs and Circles - part 2 | | # 75,76,77|  
+| 11-9 | Pre-calculus | Sum and Difference Identities | | HW Quiz Fri. Section 5.2 #1-38, #41,42,73,75; and Handouts #71,72 due Fri. ; P. 468 #1-21 odd due Mon.
+| 11-9 | Pre-algebra | Review Sci. Notation | | P. 230 #45-76; P. 231 #1,6,8-11; P. 758 #35-54; Quiz on Sections 4-6 to 4-9 on Mon. 
+| 11-9 | ESL Science | Solutions, Solutes, Solvents (worksheets) |  | Separation Techniques & Industry (read and answer questions) 
 | 11-8 | Physics | Newton's Law of Universal Gravitation| |  Textbook Practice C; Finish Multiple Choice Prob. on Momentum
 | 11-8 | Geometry B | 11-2 Arcs and Circles - part 1 | | #73, 74|  
 | 11-8 | Pre-calculus | HW Quiz, Preview of Identities in Calculus  || HW Quiz Fri. Section 5.2 #1-38, #41,42,73,75; and Handouts #71,72 due Fri. 
