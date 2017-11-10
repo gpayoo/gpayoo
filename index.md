@@ -13,8 +13,8 @@ layout: default
 | 11-10 | Physics | Internet Exercise/Lab - Kepler's Law | |  Kepler's Law lab worksheet; Multiple Choice problems on Circular Motion
 | 11-10 | Geometry B | 11-3 Sector Area & Arc Length | | #78,79,80|  
 | 11-10 | Pre-calculus | Sum and Differnece Idnetities, Duoble-Angle Identities  | | #73,74 due Mon.; HW Quiz on Section 5.3 #1-28,35-42,47-49 on Tues. 
-| 11-10 | Pre-algebra |  | | 
-| 11-10 | ESL Science | |  | 
+| 11-10 | Pre-algebra | Least Common Multiple (LCM) | | Quiz Mon. 
+| 11-10 | ESL Science | Mixtures (continued) |  | 
 
 
 # [](#header-2) Past Assignments
