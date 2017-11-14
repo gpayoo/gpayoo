@@ -31,10 +31,10 @@ layout: default
 | 11-16 | Pre-algebra | | |
 | 11-16 | ESL Science |  |  | 
 | 11-17 | Physics | No Class - teacher required meetings | |  
-| 11-17 | Geometry B | | | |  
-| 11-17 | Pre-calculus |  | | 
-| 11-17 | Pre-algebra | | |
-| 11-17 | ESL Science |  |  | 
+| 11-17 | Geometry B |No Class - teacher required meetings | | |  
+| 11-17 | Pre-calculus |No Class - teacher required meetings  | | 
+| 11-17 | Pre-algebra | No Class - teacher required meetings| |
+| 11-17 | ESL Science | No Class - teacher required meetings |  | 
 
 
 # [](#header-2) Past Assignments
