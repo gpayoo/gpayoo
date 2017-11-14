@@ -36,11 +36,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-13 | Physics | Review | |  
-| 11-13 | Geometry B | Review | | |  
-| 11-13 | Pre-calculus | Review | | 
-| 11-13 | Pre-algebra | Review | |
-| 11-13 | ESL Science | Review |  | 
+| 11-13 | Physics | Review/Substitute Teacher | |  
+| 11-13 | Geometry B | Review/Substitute Teacher | | |  
+| 11-13 | Pre-calculus | Review/Substitute Teacher | | 
+| 11-13 | Pre-algebra | Review/Substitute Teacher | |
+| 11-13 | ESL Science | Review/Substitute Teacher |  | 
 | 11-10 | Physics | Internet Exercise/Lab - Kepler's Law | |  Kepler's Law lab worksheet; Multiple Choice problems on Circular Motion
 | 11-10 | Geometry B | 11-3 Sector Area & Arc Length | | #78,79,80|  
 | 11-10 | Pre-calculus | Sum and Difference Idnetities, Duoble-Angle Identities  | | #73,74 due Mon.; HW Quiz on Section 5.3 #1-28,35-42,47-49 on Tues. 
