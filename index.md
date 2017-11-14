@@ -16,9 +16,9 @@ layout: default
 | 11-13 | Pre-algebra | Review | |
 | 11-13 | ESL Science | Review |  | 
 | 11-14 | Physics | Torque| |  P. 258 Practice E, Test Mon. on Ch. 6 & 7
-| 11-14 | Geometry B | | | |  
-| 11-14 | Pre-calculus |  | | 
-| 11-14 | Pre-algebra | | |
+| 11-14 | Geometry B | Inscribed Angles| | |  Handouts from class today! 
+| 11-14 | Pre-calculus |  | | HW Quiz TBD Section 5.4 #1-10,31,37,39,57,58, Test TBD 
+| 11-14 | Pre-algebra | Quiz | |
 | 11-14 | ESL Science |  |  | 
 | 11-15 | Physics | | |  
 | 11-15 | Geometry B | | | |  
