@@ -25,11 +25,11 @@ layout: default
 | 11-16 | Pre-calculus |  | | 
 | 11-16 | Pre-algebra | | |
 | 11-16 | ESL Science |  |  | 
-| 11-17 | Physics | No Class - teacher required meetings | |  
-| 11-17 | Geometry B |No Class - teacher required meetings | | |  
-| 11-17 | Pre-calculus |No Class - teacher required meetings  | | 
-| 11-17 | Pre-algebra | No Class - teacher required meetings| |
-| 11-17 | ESL Science | No Class - teacher required meetings |  | 
+| 11-17 | Physics | No School | |  
+| 11-17 | Geometry B |No School | | |  
+| 11-17 | Pre-calculus |No School   | | 
+| 11-17 | Pre-algebra | No School | |
+| 11-17 | ESL Science | No School |  | 
 
 
 # [](#header-2) Past Assignments
