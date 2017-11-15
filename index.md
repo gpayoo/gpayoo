@@ -10,12 +10,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-14 | Physics | Torque| |  P. 258 Practice E, Test Mon. on Ch. 6 & 7
-| 11-14 | Geometry B | Inscribed Angles| | 2 Handouts from class today! 
-| 11-14 | Pre-calculus | HW Quiz, Trig Identities - Double Angle Identities | | HW Quiz TBD Section 5.4 #1-10,31,37,39,57,58, Test TBD 
-| 11-14 | Pre-algebra | Quiz | |
-| 11-14 | ESL Science | Mixtures, Solubility |  | 
-| 11-15 | Physics | | |  
+| 11-15 | Physics | Review Circular Motion/Problem-Solving; Internet Lab on Roller Coasters | | Internet lab due tom; Test Mon.  
 | 11-15 | Geometry B | | | |  
 | 11-15 | Pre-calculus |  | | 
 | 11-15 | Pre-algebra | | |
@@ -36,6 +31,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 11-14 | Physics | Torque| |  P. 258 Practice E, Test Mon. on Ch. 6 & 7
+| 11-14 | Geometry B | Inscribed Angles| | 2 Handouts from class today! 
+| 11-14 | Pre-calculus | HW Quiz, Trig Identities - Double Angle Identities | | HW Quiz TBD Section 5.4 #1-10,31,37,39,57,58, Test TBD 
+| 11-14 | Pre-algebra | Quiz | |
+| 11-14 | ESL Science | Mixtures, Solubility |  | 
 | 11-13 | Physics | Review/Substitute Teacher | |  
 | 11-13 | Geometry B | Review/Substitute Teacher | | |  
 | 11-13 | Pre-calculus | Review/Substitute Teacher | | 
