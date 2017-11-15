@@ -11,9 +11,9 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 11-15 | Physics | Review Circular Motion/Problem-Solving; Internet Lab on Roller Coasters | | Internet lab due tom; Test Mon.  
-| 11-15 | Geometry B | | | |  
+| 11-15 | Geometry B | 11-5 Angle Relationships in Circles | |   2 handouts from today
 | 11-15 | Pre-calculus |  | | 
-| 11-15 | Pre-algebra | | |
+| 11-15 | Pre-algebra |Fractions & Decimals | | P. 244 #1,3,6,7,16,17,28
 | 11-15 | ESL Science |  |  | 
 | 11-16 | Physics | Review Momentum/Problem-Solving| | Test Monday on Momentum, Circular Motion, Gravitation  
 | 11-16 | Geometry B | | | |  
