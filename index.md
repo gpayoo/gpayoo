@@ -14,12 +14,12 @@ layout: default
 | 11-15 | Geometry B | 11-5 Angle Relationships in Circles | |   2 handouts from today
 | 11-15 | Pre-calculus | Solving Trig. Equations using Identities | | HW Quiz & Test next week 
 | 11-15 | Pre-algebra |Fractions & Decimals | | P. 244 #1,3,6,7,16,17,28
-| 11-15 | ESL Science |  |  | 
+| 11-15 | ESL Science | Elements, Compounds |  | Read pgs. 533 to 536 and find two words you don't know and write their English def; Quiz Mon.
 | 11-16 | Physics | Review Momentum/Problem-Solving| | Test Monday on Momentum, Circular Motion, Gravitation  
 | 11-16 | Geometry B | | | |  
 | 11-16 | Pre-calculus |  | | 
 | 11-16 | Pre-algebra | | |
-| 11-16 | ESL Science |  |  | 
+| 11-16 | ESL Science |  |  |  Quiz Mon. on chemical elements & compounds, and some questions similar to worksheets (pure substance, mixture, heterog., homog.)
 | 11-17 | Physics | No School | |  
 | 11-17 | Geometry B |No School | | |  
 | 11-17 | Pre-calculus |No School   | | 
