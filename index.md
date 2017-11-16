@@ -10,11 +10,6 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-15 | Physics | Review Circular Motion/Problem-Solving; Internet Lab on Roller Coasters | | Internet lab due tom; Test Mon.  
-| 11-15 | Geometry B | 11-5 Angle Relationships in Circles | |   2 handouts from today
-| 11-15 | Pre-calculus | Solving Trig. Equations using Identities | | HW Quiz & Test next week 
-| 11-15 | Pre-algebra |Fractions & Decimals | | P. 244 #1,3,6,7,16,17,28
-| 11-15 | ESL Science | Elements, Compounds |  | Read pgs. 533 to 536 and find two words you don't know and write their English def; Quiz Mon.
 | 11-16 | Physics | Review Momentum/Problem-Solving| | Test Monday on Momentum, Circular Motion, Gravitation  
 | 11-16 | Geometry B | | | |  
 | 11-16 | Pre-calculus |  | | 
@@ -31,6 +26,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 11-15 | Physics | Review Circular Motion/Problem-Solving; Internet Lab on Roller Coasters | | Internet lab due tom; Test Mon.  
+| 11-15 | Geometry B | 11-5 Angle Relationships in Circles | |   2 handouts from today
+| 11-15 | Pre-calculus | Solving Trig. Equations using Identities | | HW Quiz & Test next week 
+| 11-15 | Pre-algebra |Fractions & Decimals | | P. 244 #1,3,6,7,16,17,28
+| 11-15 | ESL Science | Elements, Compounds |  | Read pgs. 533 to 536 and find two words you don't know and write their English def; Quiz Mon.
 | 11-14 | Physics | Torque| |  P. 258 Practice E, Test Mon. on Ch. 6 & 7
 | 11-14 | Geometry B | Inscribed Angles| | 2 Handouts from class today! 
 | 11-14 | Pre-calculus | HW Quiz, Trig Identities - Double Angle Identities | | HW Quiz TBD Section 5.4 #1-10,31,37,39,57,58, Test TBD 
