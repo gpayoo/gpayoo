@@ -10,8 +10,8 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-20 | Physics | Fluids - part 1  | |  
-| 11-20 | Geometry B | Chord, Secant, Tangent Theorems | | |  
+| 11-20 | Physics | Test| |  
+| 11-20 | Geometry B | Chord, Secant, Tangent Theorems | |  3 handouts|  
 | 11-20 | Pre-calculus | Law of Cosines  | | 
 | 11-20 | Pre-algebra | Multiplying & dividing fractions | | P. 255 #35,44,45; P. 256 #63-66
 | 11-20 | ESL Science | Elements, Compounds, Periodic Table  |  | 
