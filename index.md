@@ -10,16 +10,6 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-16 | Physics | Review Momentum/Problem-Solving| | Test Monday on Momentum, Circular Motion, Gravitation  
-| 11-16 | Geometry B | Circles - Problem-Solving| |  Finish two handouts from today  
-| 11-16 | Pre-calculus | Law of Sines | |  HW Quiz Tuesday; Test Thursday
-| 11-16 | Pre-algebra | Adding & Subtracting Fractions | |
-| 11-16 | ESL Science | Finish reading chapter Lesson 2: Mixtures |  |  Quiz Mon. on chemical elements & compounds, and some questions similar to worksheets (pure substance, mixture, heterog., homog.); Read periodic table handout
-| 11-17 | Physics | No School | |  
-| 11-17 | Geometry B |No School | | |  
-| 11-17 | Pre-calculus |No School   | | 
-| 11-17 | Pre-algebra | No School | |
-| 11-17 | ESL Science | No School |  | 
 | 11-20 | Physics |  | |  
 | 11-20 | Geometry B | | | |  
 | 11-20 | Pre-calculus |   | | 
