@@ -13,7 +13,7 @@ layout: default
 | 11-20 | Physics | Fluids - part 1  | |  
 | 11-20 | Geometry B | Chord, Secant, Tangent Theorems | | |  
 | 11-20 | Pre-calculus | Law of Cosines  | | 
-| 11-20 | Pre-algebra | Multiplying fractions | |
+| 11-20 | Pre-algebra | Multiplying & dividing fractions | | P. 255 #35,44,45; P. 256 #63-66
 | 11-20 | ESL Science | Elements, Compounds, Periodic Table  |  | 
 | 11-21 | Physics | Fluids  | |  
 | 11-21 | Geometry B | Equations of Circles | | |  
