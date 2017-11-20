@@ -10,13 +10,13 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-20 | Physics |  | |  
-| 11-20 | Geometry B | | | |  
-| 11-20 | Pre-calculus |   | | 
-| 11-20 | Pre-algebra |  | |
-| 11-20 | ESL Science |  |  | 
-| 11-21 | Physics |  | |  
-| 11-21 | Geometry B | | | |  
+| 11-20 | Physics | Fluids - part 1  | |  
+| 11-20 | Geometry B | Chord, Secant, Tangent Theorems | | |  
+| 11-20 | Pre-calculus | Law of Cosines  | | 
+| 11-20 | Pre-algebra | Multiplying fractions | |
+| 11-20 | ESL Science | Elements, Compounds, Periodic Table  |  | 
+| 11-21 | Physics | Fluids  | |  
+| 11-21 | Geometry B | Equations of Circles | | |  
 | 11-21 | Pre-calculus |   | | 
 | 11-21 | Pre-algebra |  | |
 | 11-21 | ESL Science |  |  | 
