@@ -10,11 +10,6 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-20 | Physics | Test| |  
-| 11-20 | Geometry B | Chord, Secant, Tangent Theorems | |  3 handouts|  
-| 11-20 | Pre-calculus | Law of Cosines  | | HW Quiz tom. Test Thurs.; #75 & 76 due Wed.
-| 11-20 | Pre-algebra | Multiplying & dividing fractions | | P. 255 #35,44,45; P. 256 #63-66
-| 11-20 | ESL Science | Elements, Compounds, Periodic Table  |  | 
 | 11-21 | Physics | Fluids  | |  
 | 11-21 | Geometry B | Equations of Circles | | |  
 | 11-21 | Pre-calculus |   | | 
@@ -40,6 +35,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 11-20 | Physics | Test| |  
+| 11-20 | Geometry B | Chord, Secant, Tangent Theorems | |  3 handouts|  
+| 11-20 | Pre-calculus | Law of Cosines  | | HW Quiz tom. Test Thurs.; #75 & 76 due Wed.
+| 11-20 | Pre-algebra | Multiplying & dividing fractions | | P. 255 #35,44,45; P. 256 #63-66
+| 11-20 | ESL Science | Elements, Compounds, Periodic Table  |  | 
 | 11-15 | Physics | Review Circular Motion/Problem-Solving; Internet Lab on Roller Coasters | | Internet lab due tom; Test Mon.  
 | 11-15 | Geometry B | 11-5 Angle Relationships in Circles | |   2 handouts from today
 | 11-15 | Pre-calculus | Solving Trig. Equations using Identities | | HW Quiz & Test next week 
