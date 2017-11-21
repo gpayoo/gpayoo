@@ -12,9 +12,9 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 11-21 | Physics | Fluids  | |  
 | 11-21 | Geometry B | Equations of Circles | | |  
-| 11-21 | Pre-calculus |   | | 
-| 11-21 | Pre-algebra |  | |
-| 11-21 | ESL Science |  |  | 
+| 11-21 | Pre-calculus | HW Quiz, Review   | | 
+| 11-21 | Pre-algebra | Middle School Spelling Bee | |
+| 11-21 | ESL Science | Worksheets on Matter, Mixtures |  | 
 | 11-22 | Physics |  | |  
 | 11-22 | Geometry B | | | |  
 | 11-22 | Pre-calculus |   | | 
