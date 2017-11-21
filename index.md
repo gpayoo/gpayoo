@@ -15,14 +15,14 @@ layout: default
 | 11-21 | Pre-calculus | HW Quiz, Review   | | Handouts from today
 | 11-21 | Pre-algebra | Middle School Spelling Bee | |
 | 11-21 | ESL Science | Worksheets on Matter, Mixtures |  | 
-| 11-22 | Physics |  | |  
-| 11-22 | Geometry B | | | |  
-| 11-22 | Pre-calculus |   | | 
+| 11-22 | Physics | Fluids | |  
+| 11-22 | Geometry B |Review | | Test Mon.|  
+| 11-22 | Pre-calculus | Review  | | Test Thurs.
 | 11-22 | Pre-algebra |  | |
-| 11-22 | ESL Science |  |  | 
-| 11-23 | Physics |  | |  
-| 11-23 | Geometry B | | | |  
-| 11-23 | Pre-calculus |   | | 
+| 11-22 | ESL Science | Continue worksheets on Matter, Mixtures  |  | 
+| 11-23 | Physics | Fluids | |  
+| 11-23 | Geometry B |Review | | Test Mno.|  
+| 11-23 | Pre-calculus | Chapter Test!  | | 
 | 11-23 | Pre-algebra |  | |
 | 11-23 | ESL Science |  |  | 
 | 11-24 | Physics |  | |  
