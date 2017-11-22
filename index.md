@@ -10,11 +10,6 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-21 | Physics | Fluids   | |   
-| 11-21 | Geometry B | Equations of Circles | |  |  
-| 11-21 | Pre-calculus | HW Quiz, Review   | | Handouts from today
-| 11-21 | Pre-algebra | Middle School Spelling Bee | |
-| 11-21 | ESL Science | Worksheets on Matter, Mixtures |  | 
 | 11-22 | Physics | Fluids | |  2 handouts; pressure handout skip #4,6,7,8
 | 11-22 | Geometry B |Review | | Test Mon.|  
 | 11-22 | Pre-calculus | Review  | | Test Thurs.
@@ -35,6 +30,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 11-21 | Physics | Fluids   | |   
+| 11-21 | Geometry B | Equations of Circles | |  |  
+| 11-21 | Pre-calculus | HW Quiz, Review   | | Handouts from today
+| 11-21 | Pre-algebra | Middle School Spelling Bee | |
+| 11-21 | ESL Science | Worksheets on Matter, Mixtures |  | 
 | 11-20 | Physics | Test| |  
 | 11-20 | Geometry B | Chord, Secant, Tangent Theorems | |  3 handouts|  
 | 11-20 | Pre-calculus | Law of Cosines  | | HW Quiz tom. Test Thurs.; #75 & 76 due Wed.
