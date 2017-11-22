@@ -10,7 +10,7 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-21 | Physics | Fluids  | |  
+| 11-21 | Physics | Fluids Problem-Solving; Intro. to Pressure  | | 2 handouts; pressure handout skip #4,6,7,8  
 | 11-21 | Geometry B | Equations of Circles | |  |  
 | 11-21 | Pre-calculus | HW Quiz, Review   | | Handouts from today
 | 11-21 | Pre-algebra | Middle School Spelling Bee | |
