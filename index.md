@@ -13,7 +13,7 @@ layout: default
 | 11-22 | Physics | Fluids | |  2 handouts; pressure handout skip #4,6,7,8
 | 11-22 | Geometry B |Review | | Test Mon.|  
 | 11-22 | Pre-calculus | Review  | | Test Thurs.
-| 11-22 | Pre-algebra | 5-5 Using Customary Units of Measurement  | |
+| 11-22 | Pre-algebra | 5-5 Using Customary Units of Measurement  | | P. 261 #70-72,76-81,85-91
 | 11-22 | ESL Science | Continue worksheets on Matter, Mixtures  |  | 
 | 11-23 | Physics | Fluids Problem-Solving; Intro. to Pressure | |  
 | 11-23 | Geometry B |Review | | Test Mno.|  
