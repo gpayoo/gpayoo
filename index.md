@@ -18,7 +18,7 @@ layout: default
 | 11-23 | Physics | Fluids Problem-Solving; Intro. to Pressure | |  
 | 11-23 | Geometry B |Review | | Test Mon.|  
 | 11-23 | Pre-calculus | Chapter Test!  | | 
-| 11-23 | Pre-algebra |  | |
+| 11-23 | Pre-algebra | 5-6 Work Backwards & 5-7 Solving Equations with Fractions | | Handout #1,3,5,7,9,11,13,15,17,19,21,23,24
 | 11-23 | ESL Science |  |  | 
 | 11-24 | Physics |  | |  
 | 11-24 | Geometry B | | | |  
