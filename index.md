@@ -18,7 +18,7 @@ layout: default
 | 11-24 | Physics |  Lab | |  
 | 11-24 | Geometry B | Review | | Test Mon.|  
 | 11-24 | Pre-calculus | Exponential Functions   | | 
-| 11-24 | Pre-algebra |  | |
+| 11-24 | Pre-algebra | 5-8  | |
 | 11-24 | ESL Science | Test |  | 
 
 # [](#header-2) Past Assignments
