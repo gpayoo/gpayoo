@@ -12,7 +12,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 11-24 | Physics |  Lab | | 
 | 11-24 | Geometry B | Review | | Test Mon.|  
-| 11-24 | Pre-calculus | Exponential Functions   | | 
+| 11-24 | Pre-calculus | 3.1 Exponential Functions   | | 
 | 11-24 | Pre-algebra | 5-8 Solving Equations by Multiplying & Dividing Fractions  | | Handout - vocabulary review puzzle
 | 11-24 | ESL Science | Test |  | 
 
