@@ -15,11 +15,11 @@ layout: default
 | 11-27 | Pre-calculus | 3.1 Exponential Functions   | | 
 | 11-27 | Pre-algebra |   | | 
 | 11-27 | ESL Science | |  | 
-| 11-28 | Physics |   | | 
-| 11-28 | Geometry B |  | |  
-| 11-28 | Pre-calculus |   | | 
-| 11-28 | Pre-algebra |   | | 
-| 11-28 | ESL Science | |  | 
+| 11-28 | Physics | Basketball Tournament ; Finish lab from yesterday | | 
+| 11-28 | Geometry B | Basketball Tournament | |  
+| 11-28 | Pre-calculus | Basketball Tournament  | | 
+| 11-28 | Pre-algebra |Basketball Tournament  | | 
+| 11-28 | ESL Science |Basketball Tournament |  | 
 | 11-28 | Physics |   | | 
 | 11-29 | Geometry B |  | |  
 | 11-29 | Pre-calculus |   | | 
