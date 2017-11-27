@@ -10,16 +10,22 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-24 | Physics |  Lab | | 
-| 11-24 | Geometry B | Review | | Test Mon.|  
-| 11-24 | Pre-calculus | 3.1 Exponential Functions   | | 
-| 11-24 | Pre-algebra | 5-8 Solving Equations by Multiplying & Dividing Fractions  | | Handout - vocabulary review puzzle
-| 11-24 | ESL Science | Test |  | 
+| 11-27 | Physics |  Lab | | 
+| 11-27 | Geometry B |  | |  
+| 11-27 | Pre-calculus | 3.1 Exponential Functions   | | 
+| 11-27 | Pre-algebra |   | | 
+| 11-27 | ESL Science | |  | 
+
 
 # [](#header-2) Past Assignments
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 11-24 | Physics |  Lab | | 
+| 11-24 | Geometry B | Review | | Test Mon.|  
+| 11-24 | Pre-calculus | 3.1 Exponential Functions   | | 
+| 11-24 | Pre-algebra | 5-8 Solving Equations by Multiplying & Dividing Fractions  | | Handout - vocabulary review puzzle
+| 11-24 | ESL Science | Test |  | 
 | 11-23 | Physics | Fluids Problem-Solving; Intro. to Pressure | |  
 | 11-23 | Geometry B |Review | | Test Mon.|  
 | 11-23 | Pre-calculus | Chapter Test!  | | 
