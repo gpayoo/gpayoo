@@ -11,7 +11,7 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 11-27 | Physics |  Lab | | 
-| 11-27 | Geometry B |  | |  
+| 11-27 | Geometry B | Test | |  
 | 11-27 | Pre-calculus | 3.1 Exponential Functions   | | 
 | 11-27 | Pre-algebra |   | | 
 | 11-27 | ESL Science | |  | 
