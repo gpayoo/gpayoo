@@ -12,8 +12,7 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 11-27 | Physics |  Lab | | 
 | 11-27 | Geometry B | Test | |  
-| 11-27 | Pre-calculus | 3.1 Exponential Functions & Intro. to Expon. Pop. Growth  | |  Section 3.1 #1-10, 15-24, 25a-30a, 39,40,51,57, 66
-15a-30a,39,40,51,57,66; Section 3.2 #1-3
+| 11-27 | Pre-calculus | 3.1 Exponential Functions & Intro. to Expon. Pop. Growth  | |  Section 3.1 #1-10, 15-24, 25a-30a, 39,40,51,57, 66; Section 3.2 #1-3
 | 11-27 | Pre-algebra | Powers of Products & Quotients  | | Do handout (given out today in class) 
 | 11-27 | ESL Science | |  | 
 | 11-28 | Physics | Basketball Tournament ; Finish lab from yesterday | | 
