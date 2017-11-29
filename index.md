@@ -20,10 +20,10 @@ layout: default
 | 11-28 | Pre-calculus | Basketball Tournament  | | 
 | 11-28 | Pre-algebra |Basketball Tournament  | | 
 | 11-28 | ESL Science |Basketball Tournament |  | 
-| 11-28 | Physics |   | | 
-| 11-29 | Geometry B |  | |  
+| 11-28 | Physics |  Bernoulli's Principle; Continue lab | | Do 2 handouts (practice quiz, practice test) 
+| 11-29 | Geometry B | Translations | | Finish handout  
 | 11-29 | Pre-calculus |   | | 
-| 11-29 | Pre-algebra |   | | 
+| 11-29 | Pre-algebra | Review   | | Finish chapter review, P. 284-5 up through #55
 | 11-29 | ESL Science | |  | 
 | 11-30 | Physics |   | | 
 | 11-30 | Geometry B |  | |  
