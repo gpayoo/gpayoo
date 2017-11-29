@@ -12,9 +12,9 @@ layout: default
 | ---- | ----- | ------ | -------- | ---
 | 11-28 | Physics |  Bernoulli's Principle; Continue lab | | Do 2 handouts (practice quiz, practice test) 
 | 11-29 | Geometry B | Translations | | Finish handout  
-| 11-29 | Pre-calculus |   | | 
-| 11-29 | Pre-algebra | Review   | | Finish chapter review, P. 284-5 up through #55
-| 11-29 | ESL Science | |  | 
+| 11-29 | Pre-calculus | Exponential Models - Bacteria Growth, Radioactive Decay  | | Section 3.1 #1-10, 15-24, 25a-30a, 39,40,51,57, 66; Section 3.2 #1-3
+| 11-29 | Pre-algebra | Review   | | Finish chapter review, P. 284-5 up through #55; Test Mon.
+| 11-29 | ESL Science | Chemical Changes |  | P. 550 Expository Writing - 20 sentences due Fri. 
 | 11-30 | Physics |   | | 
 | 11-30 | Geometry B |  | |  
 | 11-30 | Pre-calculus |   | | 
