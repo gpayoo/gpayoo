@@ -10,16 +10,6 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-27 | Physics |  Lab | | 
-| 11-27 | Geometry B | Test | |  
-| 11-27 | Pre-calculus | 3.1 Exponential Functions & Intro. to Expon. Pop. Growth  | |  Section 3.1 #1-10, 15-24, 25a-30a, 39,40,51,57, 66; Section 3.2 #1-3
-| 11-27 | Pre-algebra | Powers of Products & Quotients  | | Do handout (given out today in class) 
-| 11-27 | ESL Science | Compounds - Textbook Reading & Vocab. |  | 
-| 11-28 | Physics | Basketball Tournament ; Finish lab from yesterday | | 
-| 11-28 | Geometry B | Basketball Tournament | |  
-| 11-28 | Pre-calculus | Basketball Tournament  | | 
-| 11-28 | Pre-algebra |Basketball Tournament  | | 
-| 11-28 | ESL Science |Basketball Tournament |  | 
 | 11-28 | Physics |  Bernoulli's Principle; Continue lab | | Do 2 handouts (practice quiz, practice test) 
 | 11-29 | Geometry B | Translations | | Finish handout  
 | 11-29 | Pre-calculus |   | | 
@@ -40,6 +30,16 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 11-28 | Physics | Basketball Tournament ; Finish lab from yesterday | | 
+| 11-28 | Geometry B | Basketball Tournament | |  
+| 11-28 | Pre-calculus | Basketball Tournament  | | 
+| 11-28 | Pre-algebra |Basketball Tournament  | | 
+| 11-28 | ESL Science |Basketball Tournament |  | 
+| 11-27 | Physics |  Lab | | 
+| 11-27 | Geometry B | Test | |  
+| 11-27 | Pre-calculus | 3.1 Exponential Functions & Intro. to Expon. Pop. Growth  | |  Section 3.1 #1-10, 15-24, 25a-30a, 39,40,51,57, 66; Section 3.2 #1-3
+| 11-27 | Pre-algebra | Powers of Products & Quotients  | | Do handout (given out today in class) 
+| 11-27 | ESL Science | Compounds - Textbook Reading & Vocab. |  | 
 | 11-24 | Physics |  Lab | | 
 | 11-24 | Geometry B | Review | | Test Mon.|  
 | 11-24 | Pre-calculus | 3.1 Exponential Functions   | | 
