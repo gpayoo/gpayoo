@@ -14,7 +14,7 @@ layout: default
 | 11-30 | Geometry B | Translations | | finish two handouts 
 | 11-30 | Pre-calculus | Exponential Functions - finish word problems; Begin study of logarithms   | | 
 | 11-30 | Pre-algebra | Review for test  | | P. 286 #37-61 
-| 11-30 | ESL Science | |  | 
+| 11-30 | ESL Science | Workbook worksheets on elments/compounds |  | P. 550 Expository Writing - 20 sentences due Fri. 
 | 12-1 | Physics |  Finish lab | | 
 | 12-1 | Geometry B | Rotations | |  
 | 12-1 | Pre-calculus |   | | 
