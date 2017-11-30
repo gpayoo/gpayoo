@@ -17,9 +17,9 @@ layout: default
 | 11-30 | ESL Science | Workbook worksheets on elements/compounds |  | P. 550 Expository Writing - 20 sentences due Fri. 
 | 12-1 | Physics |  Finish lab | | 
 | 12-1 | Geometry B | Rotations | |  
-| 12-1 | Pre-calculus |   | | 
-| 12-1 | Pre-algebra |   | | 
-| 12-1 | ESL Science | |  | 
+| 12-1 | Pre-calculus | Logarithmic Functions - graphs and rules  | | 
+| 12-1 | Pre-algebra |  Review for test; Start Chapter 6-1 on Ratios | | Test Mon.
+| 12-1 | ESL Science | Review |  | 
 
 # [](#header-2) Past Assignments
 
