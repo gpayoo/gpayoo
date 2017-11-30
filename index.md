@@ -11,7 +11,7 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 11-30 | Physics | Review - check your HW with the provided solutions  | | 
-| 11-30 | Geometry B | Translations | |  
+| 11-30 | Geometry B | Translations | | finish two handouts 
 | 11-30 | Pre-calculus | Exponential Functions - finish word problems; Begin study of logarithms   | | 
 | 11-30 | Pre-algebra | Review for test  | | P. 286 #37-61 
 | 11-30 | ESL Science | |  | 
