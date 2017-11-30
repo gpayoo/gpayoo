@@ -10,18 +10,13 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 11-28 | Physics |  Bernoulli's Principle; Continue lab | | Do 2 handouts (practice quiz, practice test) 
-| 11-29 | Geometry B | Translations | | Finish handout  
-| 11-29 | Pre-calculus | Exponential Models - Bacteria Growth, Radioactive Decay  | | Section 3.1 #1-10, 15-24, 25a-30a, 39,40,51,57, 66; Section 3.2 #1-3
-| 11-29 | Pre-algebra | Review   | | Finish chapter review, P. 284-5 up through #55; Test Mon.
-| 11-29 | ESL Science | Chemical Changes |  | P. 550 Expository Writing - 20 sentences due Fri. 
-| 11-30 | Physics |   | | 
-| 11-30 | Geometry B |  | |  
-| 11-30 | Pre-calculus |   | | 
-| 11-30 | Pre-algebra |   | | 
+| 11-30 | Physics | Review - check your HW with the provided solutions  | | 
+| 11-30 | Geometry B | Translations | |  
+| 11-30 | Pre-calculus | Exponential Functions - finish word problems; Begin study of logarithms   | | 
+| 11-30 | Pre-algebra | Review for test  | | P. 286 #37-61 
 | 11-30 | ESL Science | |  | 
-| 12-1 | Physics |   | | 
-| 12-1 | Geometry B |  | |  
+| 12-1 | Physics |  Finish lab | | 
+| 12-1 | Geometry B | Rotations | |  
 | 12-1 | Pre-calculus |   | | 
 | 12-1 | Pre-algebra |   | | 
 | 12-1 | ESL Science | |  | 
@@ -30,6 +25,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 11-28 | Physics |  Bernoulli's Principle; Continue lab | | Do 2 handouts (practice quiz, practice test) 
+| 11-29 | Geometry B | Translations | | Finish handout  
+| 11-29 | Pre-calculus | Exponential Models - Bacteria Growth, Radioactive Decay  | | Section 3.1 #1-10, 15-24, 25a-30a, 39,40,51,57, 66; Section 3.2 #1-3
+| 11-29 | Pre-algebra | Review   | | Finish chapter review, P. 284-5 up through #55; Test Mon.
+| 11-29 | ESL Science | Chemical Changes |  | P. 550 Expository Writing - 20 sentences due Fri. 
 | 11-28 | Physics | Basketball Tournament ; Finish lab from yesterday | | 
 | 11-28 | Geometry B | Basketball Tournament | |  
 | 11-28 | Pre-calculus | Basketball Tournament  | | 
