@@ -10,6 +10,22 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 12-6 | Physics | Heat, Temperature  | | 
+| 12-6 | Geometry B |  | |  
+| 12-6 | Pre-calculus |  | | 
+| 12-6 | Pre-algebra |   | | 
+| 12-6 | ESL Science |  |  |
+
+
+# [](#header-2) Past Assignments
+
+| Date | Class | Lesson | Suggested Problems | Homework |
+| ---- | ----- | ------ | -------- | ---
+| 12-5 | Physics |  TOEFL | | 
+| 12-5 | Geometry B | TOEFL | |  
+| 12-5 | Pre-calculus | TOEFL  | | 
+| 12-5 | Pre-algebra |  TOEFL | | 
+| 12-5 | ESL Science | TOEFL |  |
 | 11-30 | Physics | Review - check your HW with the provided solutions  | | 
 | 11-30 | Geometry B | Translations | | finish two handouts 
 | 11-30 | Pre-calculus | Exponential Functions - finish word problems; Begin study of logarithms   | | 
@@ -20,11 +36,6 @@ layout: default
 | 12-1 | Pre-calculus | Logarithmic Functions - graphs and rules  | | 
 | 12-1 | Pre-algebra |  Review for test; Start Chapter 6-1 on Ratios | | Test Mon.
 | 12-1 | ESL Science | Review |  | 
-
-# [](#header-2) Past Assignments
-
-| Date | Class | Lesson | Suggested Problems | Homework |
-| ---- | ----- | ------ | -------- | ---
 | 11-28 | Physics |  Bernoulli's Principle; Continue lab | | Do 2 handouts (practice quiz, practice test) 
 | 11-29 | Geometry B | Translations | | Finish handout  
 | 11-29 | Pre-calculus | Exponential Models - Bacteria Growth, Radioactive Decay  | | Section 3.1 #1-10, 15-24, 25a-30a, 39,40,51,57, 66; Section 3.2 #1-3
