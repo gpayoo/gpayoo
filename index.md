@@ -11,9 +11,9 @@ layout: default
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
 | 12-6 | Physics | Heat, Temperature  | | 
-| 12-6 | Geometry B |  | |  
+| 12-6 | Geometry B | Symmetry | |  
 | 12-6 | Pre-calculus |  | | 
-| 12-6 | Pre-algebra |   | | 
+| 12-6 | Pre-algebra | Proportions   | |  P. 300 #1,5,9,13,17,21,24,34,38,42; P. 301 #55,61,62
 | 12-6 | ESL Science |  |  |
 
 
