@@ -15,6 +15,11 @@ layout: default
 | 12-6 | Pre-calculus | Word-Problmes on Logs| | HW Quiz Friday (see handout for numbers); Chapter Test will be given out and will be due next wek. 
 | 12-6 | Pre-algebra | Proportions   | |  P. 300 #1,5,9,13,17,21,24,34,38,42; P. 301 #55,61,62
 | 12-6 | ESL Science |  |  | Test tom.
+| 12-6 | Physics |   | | 
+| 12-6 | Geometry B | | |  
+| 12-6 | Pre-calculus | | | HW Quiz Friday (see handout for numbers); Chapter Test will be given out and will be due next wek. 
+| 12-6 | Pre-algebra |  | |  
+| 12-6 | ESL Science |  |  |
 
 
 # [](#header-2) Past Assignments
