@@ -19,7 +19,7 @@ layout: default
 | 12-6 | Geometry B | Dilations | | Finish all chapter summaries  
 | 12-6 | Pre-calculus | HW Quiz | | ; Chapter Test will be given out and will be due next wek. 
 | 12-6 | Pre-algebra | Probability | |  
-| 12-6 | ESL Science | Work on and go over workbook pages on Acids & Baes |  |
+| 12-6 | ESL Science | Work on and go over workbook pages on Acids & Bases |  |
 
 
 # [](#header-2) Past Assignments
