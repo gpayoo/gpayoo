@@ -10,11 +10,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 12-6 | Physics | Heat, Temperature  | | 
-| 12-6 | Geometry B | Symmetry | |  1 page handout
-| 12-6 | Pre-calculus | Word-Problmes on Logs| | HW Quiz Friday (see handout for numbers); Chapter Test will be given out and will be due next wek. 
-| 12-6 | Pre-algebra | Proportions   | |  P. 300 #1,5,9,13,17,21,24,34,38,42; P. 301 #55,61,62
-| 12-6 | ESL Science |  |  | Test tom.
+| 12-6 | Physics |  Specific Heat, Calorimetry | | Test tom. on fluids
+| 12-6 | Geometry B | Tessellations | |  Prepare Ch. 9, 10 summaries on the same sheet as Ch. 11 
+| 12-6 | Pre-calculus | Work on log. problems| | HW Quiz Friday (see handout for numbers); Chapter Test will be given out and will be due next wek. 
+| 12-6 | Pre-algebra | Similar Figures, Scale Drawings | |  
+| 12-6 | ESL Science | Test |  |
 | 12-6 | Physics |   | | 
 | 12-6 | Geometry B | | |  
 | 12-6 | Pre-calculus | | | HW Quiz Friday (see handout for numbers); Chapter Test will be given out and will be due next wek. 
@@ -26,6 +26,11 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 12-6 | Physics | Heat, Temperature  | | 
+| 12-6 | Geometry B | Symmetry | |  1 page handout
+| 12-6 | Pre-calculus | Word-Problmes on Logs| | HW Quiz Friday (see handout for numbers); Chapter Test will be given out and will be due next wek. 
+| 12-6 | Pre-algebra | Proportions   | |  P. 300 #1,5,9,13,17,21,24,34,38,42; P. 301 #55,61,62
+| 12-6 | ESL Science |  |  | Test tom.
 | 12-5 | Physics |  TOEFL | | 
 | 12-5 | Geometry B | TOEFL | |  
 | 12-5 | Pre-calculus | TOEFL  | | 
