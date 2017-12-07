@@ -15,11 +15,11 @@ layout: default
 | 12-6 | Pre-calculus | Work on log. problems| | HW Quiz Friday (see handout for numbers); Chapter Test will be given out and will be due next wek. 
 | 12-6 | Pre-algebra | Similar Figures, Scale Drawings | |  
 | 12-6 | ESL Science | Test |  |
-| 12-6 | Physics |   | | 
-| 12-6 | Geometry B | | |  
-| 12-6 | Pre-calculus | | | HW Quiz Friday (see handout for numbers); Chapter Test will be given out and will be due next wek. 
-| 12-6 | Pre-algebra |  | |  
-| 12-6 | ESL Science |  |  |
+| 12-6 | Physics | Latent Heat, Finish chapter  | | 
+| 12-6 | Geometry B | Dilations | | Finish all chapter summaries  
+| 12-6 | Pre-calculus | HW Quiz | | ; Chapter Test will be given out and will be due next wek. 
+| 12-6 | Pre-algebra | Probability | |  
+| 12-6 | ESL Science | Work on and go over workbook pages on Acids & Baes |  |
 
 
 # [](#header-2) Past Assignments
