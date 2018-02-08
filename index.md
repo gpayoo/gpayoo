@@ -5,22 +5,20 @@ layout: default
 
 # [](#header-1) Class Schedule
 
-
-# [](#header-2) Current
+# [](#header-2) Assignments
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
+| 12-19 to 12-23 | Physics | Finals | | 
+| 12-19 to 12-23 | Geometry B | Finals | | 
+| 12-19 to 12-23 | Pre-calculus | Finals | |  
+| 12-19 to 12-23 | Pre-algebra | Finals| |  
+| 12-19 to 12-23 | ESL Science |  Finals|  |
 | 12-12 to 12-16 | Physics | Review for Final | | 
 | 12-12 to 12-16 | Geometry B | Review for Final | | 
 | 12-12 to 12-16 | Pre-calculus | Review for Final | |  
 | 12-12 to 12-16 | Pre-algebra | Review for Final| |  
 | 12-12 to 12-16 | ESL Science |  Review for Final|  |
-
-
-# [](#header-2) Past Assignments
-
-| Date | Class | Lesson | Suggested Problems | Homework |
-| ---- | ----- | ------ | -------- | ---
 | 12-8 | Physics | Latent Heat, Finish chapter  | | 
 | 12-8 | Geometry B | Dilations | | Finish all chapter summaries  
 | 12-8 | Pre-calculus | HW Quiz | | ; Chapter Test will be given out and will be due next wek. 
