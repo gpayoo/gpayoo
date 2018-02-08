@@ -10,16 +10,16 @@ layout: default
 
 | Date | Class | Lesson | Suggested Problems | Homework |
 | ---- | ----- | ------ | -------- | ---
-| 12-6 | Physics |  Specific Heat, Calorimetry | | Test tom. on fluids
-| 12-6 | Geometry B | Tessellations | |  Prepare Ch. 9, 10 summaries on the same sheet as Ch. 11 
-| 12-6 | Pre-calculus | Work on log. problems| | HW Quiz Friday (see handout for numbers); Chapter Test will be given out and will be due next wek. 
-| 12-6 | Pre-algebra | Similar Figures, Scale Drawings | |  P. 305 #1-5,10,15
-| 12-6 | ESL Science | Test |  |
-| 12-6 | Physics | Latent Heat, Finish chapter  | | 
-| 12-6 | Geometry B | Dilations | | Finish all chapter summaries  
-| 12-6 | Pre-calculus | HW Quiz | | ; Chapter Test will be given out and will be due next wek. 
-| 12-6 | Pre-algebra | Probability | |  
-| 12-6 | ESL Science | Work on and go over workbook pages on Acids & Bases |  |
+| 12-7 | Physics |  Specific Heat, Calorimetry | | Test tom. on fluids
+| 12-7 | Geometry B | Tessellations | |  Prepare Ch. 9, 10 summaries on the same sheet as Ch. 11 
+| 12-7 | Pre-calculus | Work on log. problems| | HW Quiz Friday (see handout for numbers); Chapter Test will be given out and will be due next wek. 
+| 12-7 | Pre-algebra | Similar Figures, Scale Drawings | |  P. 305 #1-5,10,15
+| 12-7 | ESL Science | Test |  |
+| 12-8 | Physics | Latent Heat, Finish chapter  | | 
+| 12-8 | Geometry B | Dilations | | Finish all chapter summaries  
+| 12-8 | Pre-calculus | HW Quiz | | ; Chapter Test will be given out and will be due next wek. 
+| 12-8 | Pre-algebra | Probability | |  
+| 12-8 | ESL Science | Work on and go over workbook pages on Acids & Bases |  |
 
 
 # [](#header-2) Past Assignments
