@@ -21,7 +21,7 @@ layout: default
 | 12-12 to 12-16 | ESL Science |  Review for Final|  |
 | 12-8 | Physics | Latent Heat, Finish chapter  | | 
 | 12-8 | Geometry B | Dilations | | Finish all chapter summaries  
-| 12-8 | Pre-calculus | HW Quiz | | ; Chapter Test will be given out and will be due next wek. 
+| 12-8 | Pre-calculus | HW Quiz | | Chapter Test will be given out and will be due next wek. 
 | 12-8 | Pre-algebra | Probability | |  
 | 12-8 | ESL Science | Work on and go over workbook pages on Acids & Bases |  |
 | 12-7 | Physics |  Specific Heat, Calorimetry | | Test tom. on fluids
